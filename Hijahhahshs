@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://c2n.one:80/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title="CANAIS: INFANTIS",BOOMERANG HD
+http://c2n.one:80/testsquinta/testequinta8213/208877
               #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="http://c2n.one:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS: FILMES E SERIES",A&E
 http://c2n.one:80/testsquinta/testequinta8213/208851
 
