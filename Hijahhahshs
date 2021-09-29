@@ -1,104 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,Canal 29
-https://59f1cbe63db89.streamlock.net/canal/_definst_/canal/playlist.m3u8
-
-#EXTINF:-1,TV Anime 2
-http://stmv1.srvstm.com:80/animetv2/animetv2/chunklist_w323969408.m3u8
-
-#EXTINF:-1,TV Anime 1
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1,Desenhos Retro 1
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w920223203.m3u8
-
-#EXTINF:-1,Desenhos Retro 2
-https://stmv1.srvstm.com/cartoonr2/cartoonr2/chunklist_w83123373.m3u8
-
-#EXTINF:-1,Desenhos Retro 3
-http://stmv1.srvif.com:1935/retrotv/retrotv/chunklist_w1764354015.m3u8
-
-#EXTINF:-1,All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
-#EXTINF:-1,Record Bahia
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
-
-#EXTINF:-1,SBT
-https://5a1c76baf08c0.streamlock.net/sbtinterior/9orLt4JWJdBVRt1pHmq4o8RfAahQIKws/chunklist_w1763214542.m3u
-
-#EXTINF:-1,TV CINE
-https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
-
-#EXTINF:-1,TV Series
-https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w326797130.m3u8
-
-#EXTINF:-1,TNT
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/playlist.m3u8
-
-#EXTINF:-1,Champions League 1
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8
-
-#EXTINF:-1,Champions League 2
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/playlist.m3u8
-
-#EXTINF:-1,Champions League 3
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/53/playlist.m3u8
-
-#EXTINF:-1,Champions League 4
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/playlist.m3u8
-
-#EXTINF:-1,Champions League 5
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/45/playlist.m3u8
-
-#EXTINF:-1,Champions League 6
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/46/playlist.m3u8
-
-#EXTINF:-1,Libertadores 1
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/e1ec3b89485487ca1918526456353afd/playlist.m3u8
-
-#EXTINF:-1,Libertadores 2
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
-
-#EXTINF:-1,Libertadores 3
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/playlist.m3u8
-
-#EXTINF:-1,Libertadores 4
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/e1ec3b89485487ca1918526456353afd/playlist.m3u8
-
-#EXTINF:-1,Libertadores 5
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/179aaac21666552e2f61aefe64db6ee5/playlist.m3u8
-
-#EXTINF:-1,History 
-https://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_1.m3u8
-
-#EXTINF:-1,Rede TV
-https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,TNT Sports
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-
-#EXTINF:-1,SporTV
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-
-#EXTINF:-1,Premiere 1
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-
-#EXTINF:-1,Premiere 2
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
-
-#EXTINF:-1,Esporte Interativo 
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-#EXTINF:-1,Cine Livre
-https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
-
-#EXTINF:-1,Gospel Cartoon
-https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1716310863.m3u8
-
-#EXTINF:-1,Globo SP
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
-
+#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FULLHD" tvg-logo="http://c2n.one:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS: FILMES E SERIES",A&E FULLHD
+http://c2n.one:80/testsquinta/testequinta8213/208849
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FULLHD H265" tvg-logo="http://c2n.one:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS: FILMES E SERIES",A&E FULLHD H265
+http://c2n.one:80/testsquinta/testequinta8213/275118
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://c2n.one:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS: FILMES E SERIES",A&E HD
 http://c2n.one:80/testsquinta/testequinta8213/208850
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD - ALT" tvg-logo="http://c2n.one:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS: FILMES E SERIES",A&E HD - ALT
@@ -1095,4 +1000,29 @@ http://c2n.one:80/testsquinta/testequinta8213/198354
 http://c2n.one:80/testsquinta/testequinta8213/209031
 #EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK" tvg-logo="http://c2n.one:80/images/520d92e760446afb14e097e05e972849.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",MLB NETWORK
 http://c2n.one:80/testsquinta/testequinta8213/231373
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FULLHD" tvg-logo="http://c2n.one:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: MÚSICA",MTV FULLHD
+http://c2n.one:80/testsquinta/testequinta8213/209032
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FULLHD H265" tvg-logo="http://c2n.one:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: MÚSICA",MTV FULLHD H265
+http://c2n.one:80/testsquinta/testequinta8213/275153
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://c2n.one:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: MÚSICA",MTV HD
+http://c2n.one:80/testsquinta/testequinta8213/209033
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD - ALT" tvg-logo="http://c2n.one:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: MÚSICA",MTV HD - ALT
+http://c2n.one:80/testsquinta/testequinta8213/198353
+#EXTINF:-1 tvg-id="mtv.live.pt" tvg-name="MTV LIVE FULLHD" tvg-logo="http://c2n.one:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: MÚSICA",MTV LIVE FULLHD
+http://c2n.one:80/testsquinta/testequinta8213/209034
+#EXTINF:-1 tvg-id="mtv.live.pt" tvg-name="MTV LIVE HD" tvg-logo="http://c2n.one:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: MÚSICA",MTV LIVE HD
+http://c2n.one:80/testsquinta/testequinta8213/209035
+#EXTINF:-1 tvg-id="mtv.live.pt" tvg-name="MTV LIVE SD" tvg-logo="http://c2n.one:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: MÚSICA",MTV LIVE SD
+http://c2n.one:80/testsquinta/testequinta8213/209036
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="http://c2n.one:80/images/9631c7bcac7c916abb43cfa1a5d4ff42.png" group-title="CANAIS: MÚSICA",MTV SD
+http://c2n.one:80/testsquinta/testequinta8213/209037
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FULLHD H265" tvg-logo="http://c2n.one:80/images/c39ec7c0b4ed7ecc09b5e8ab46034265.png" group-title="CANAIS: VARIEDADES",MULTISHOW FULLHD H265
+http://c2n.one:80/testsquinta/testequinta8213/275154
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD - ALT" tvg-logo="http://c2n.one:80/images/c39ec7c0b4ed7ecc09b5e8ab46034265.png" group-title="CANAIS: VARIEDADES",MULTISHOW HD - ALT
+http://c2n.one:80/testsquinta/testequinta8213/198348
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTSHOW FULLHD" tvg-logo="http://c2n.one:80/images/c39ec7c0b4ed7ecc09b5e8ab46034265.png" group-title="CANAIS: VARIEDADES",MULTSHOW FULLHD
+http://c2n.one:80/testsquinta/testequinta8213/209038
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTSHOW HD" tvg-logo="http://c2n.one:80/images/c39ec7c0b4ed7ecc09b5e8ab46034265.png" group-title="CANAIS: VARIEDADES",MULTSHOW HD
+http://c2n.one:80/testsquinta/testequinta8213/209039
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTSHOW HD" tvg-logo="http://c2n.one:80/images/c39ec7c0b4ed7ecc09b5e8ab46034265.png" group-title="CANAIS: VARIEDADES",MULTSHOW HD
+http://c2n.one:80/testsquinta/testequinta8213/100771
