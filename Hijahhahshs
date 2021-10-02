@@ -1,28 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A BOLA TV" tvg-logo="http://c2n.one:80/images/2f9fb26c3e6eab8838baaa9aac45bdd2.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",A BOLA TV
 http://c2n.one:80/testsquinta/testequinta82134/231342
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13" tvg-logo="http://c2n.one:80/images/40e77fcebe80360a9ee8b9ad9fd3a8c7.png" group-title="CANAIS: REALITY",A FAZENDA 13
-http://c2n.one:80/testsquinta/testequinta82134/296293
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 01" tvg-logo="http://c2n.one:80/images/40e77fcebe80360a9ee8b9ad9fd3a8c7.png" group-title="CANAIS: REALITY",A FAZENDA 13 CAM 01
-http://c2n.one:80/testsquinta/testequinta82134/296986
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 02" tvg-logo="http://c2n.one:80/images/40e77fcebe80360a9ee8b9ad9fd3a8c7.png" group-title="CANAIS: REALITY",A FAZENDA 13 CAM 02
-http://c2n.one:80/testsquinta/testequinta82134/296987
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 03" tvg-logo="http://c2n.one:80/images/40e77fcebe80360a9ee8b9ad9fd3a8c7.png" group-title="CANAIS: REALITY",A FAZENDA 13 CAM 03
-http://c2n.one:80/testsquinta/testequinta82134/296988
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 04" tvg-logo="http://c2n.one:80/images/40e77fcebe80360a9ee8b9ad9fd3a8c7.png" group-title="CANAIS: REALITY",A FAZENDA 13 CAM 04
-http://c2n.one:80/testsquinta/testequinta82134/296989
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 05" tvg-logo="http://c2n.one:80/images/40e77fcebe80360a9ee8b9ad9fd3a8c7.png" group-title="CANAIS: REALITY",A FAZENDA 13 CAM 05
-http://c2n.one:80/testsquinta/testequinta82134/296990
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 06" tvg-logo="http://c2n.one:80/images/40e77fcebe80360a9ee8b9ad9fd3a8c7.png" group-title="CANAIS: REALITY",A FAZENDA 13 CAM 06
-http://c2n.one:80/testsquinta/testequinta82134/296991
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 07" tvg-logo="http://c2n.one:80/images/40e77fcebe80360a9ee8b9ad9fd3a8c7.png" group-title="CANAIS: REALITY",A FAZENDA 13 CAM 07
-http://c2n.one:80/testsquinta/testequinta82134/296992
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 08" tvg-logo="http://c2n.one:80/images/40e77fcebe80360a9ee8b9ad9fd3a8c7.png" group-title="CANAIS: REALITY",A FAZENDA 13 CAM 08
-http://c2n.one:80/testsquinta/testequinta82134/296993
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 Alta Qualidade" tvg-logo="http://c2n.one:80/images/40e77fcebe80360a9ee8b9ad9fd3a8c7.png" group-title="CANAIS: REALITY",A FAZENDA 13 Alta Qualidade
-http://c2n.one:80/testsquinta/testequinta82134/296291
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 Media Qualidade" tvg-logo="http://c2n.one:80/images/40e77fcebe80360a9ee8b9ad9fd3a8c7.png" group-title="CANAIS: REALITY",A FAZENDA 13 Media Qualidade
-http://c2n.one:80/testsquinta/testequinta82134/296292
 #EXTINF:-1 tvg-id="A&E Alta Qualidade" tvg-name="A&E Alta Qualidade" tvg-logo="http://c2n.one:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS: FILMES E SERIES",A&E Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208849
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E Alta Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS: FILMES E SERIES",A&E Alta Qualidade Otimizada
@@ -1281,7 +1259,7 @@ http://c2n.one:80/testsquinta/testequinta82134/211745
 http://c2n.one:80/testsquinta/testequinta82134/211765
 #EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD TV Media Qualidade" tvg-logo="http://c2n.one:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: BAND - RECORD - SBT",RECORD TV Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/226774
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV INTERIOR RIBEIRAO FULL Media Qualidade" tvg-logo="http://c2n.one:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: BAND - RECORD - SBT",RECORD TV INTERIOR RIBEIRAO FULL Media Qualidade
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV INTERIOR RIBEIRAO Media Qualidade" tvg-logo="http://c2n.one:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: BAND - RECORD - SBT",RECORD TV INTERIOR RIBEIRAO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211769
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV MANUAS Media Qualidade" tvg-logo="http://c2n.one:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="CANAIS: BAND - RECORD - SBT",RECORD TV MANUAS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211750
@@ -1547,7 +1525,7 @@ http://c2n.one:80/testsquinta/testequinta82134/209133
 http://c2n.one:80/testsquinta/testequinta82134/132254
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM Media Qualidade" tvg-logo="http://c2n.one:80/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="CANAIS: FILMES E SERIES",TCM Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/57185
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FULL Media Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION FULL Media Qualidade Otimizada
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION Media Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION Media Qualidade Otimizada
 http://c2n.one:80/testsquinta/testequinta82134/275156
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION Alta Qualidade" tvg-logo="http://c2n.one:80/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209134
@@ -1559,7 +1537,7 @@ http://c2n.one:80/testsquinta/testequinta82134/230801
 http://c2n.one:80/testsquinta/testequinta82134/198317
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HEVC" tvg-logo="http://c2n.one:80/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230812
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FULL Media Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/b01c2260c2330044f5cec093ca3415dc.png" group-title="CANAIS: TELECINE",TELECINE FUN FULL Media Qualidade Otimizada
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN Media Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/b01c2260c2330044f5cec093ca3415dc.png" group-title="CANAIS: TELECINE",TELECINE FUN Media Qualidade Otimizada
 http://c2n.one:80/testsquinta/testequinta82134/275158
 #EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN Alta Qualidade" tvg-logo="http://c2n.one:80/images/b01c2260c2330044f5cec093ca3415dc.png" group-title="CANAIS: TELECINE",TELECINE FUN Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209140
@@ -1573,7 +1551,7 @@ http://c2n.one:80/testsquinta/testequinta82134/198315
 http://c2n.one:80/testsquinta/testequinta82134/230810
 #EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN Baixa Qualidade" tvg-logo="http://c2n.one:80/images/b01c2260c2330044f5cec093ca3415dc.png" group-title="CANAIS: TELECINE",TELECINE FUN Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209142
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FULL Media Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA FULL Media Qualidade Otimizada
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA Media Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA Media Qualidade Otimizada
 http://c2n.one:80/testsquinta/testequinta82134/275159
 #EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TELECINE PIPOCA Alta Qualidade" tvg-logo="http://c2n.one:80/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132258
@@ -1585,7 +1563,7 @@ http://c2n.one:80/testsquinta/testequinta82134/230813
 http://c2n.one:80/testsquinta/testequinta82134/39955
 #EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HEVC" tvg-logo="http://c2n.one:80/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230811
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FULL Media Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM FULL Media Qualidade Otimizada
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM Media Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM Media Qualidade Otimizada
 http://c2n.one:80/testsquinta/testequinta82134/275160
 #EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM Alta Qualidade" tvg-logo="http://c2n.one:80/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209146
@@ -1599,7 +1577,7 @@ http://c2n.one:80/testsquinta/testequinta82134/198313
 http://c2n.one:80/testsquinta/testequinta82134/230808
 #EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM Baixa Qualidade" tvg-logo="http://c2n.one:80/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209148
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FULL Media Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH FULL Media Qualidade Otimizada
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH Media Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH Media Qualidade Otimizada
 http://c2n.one:80/testsquinta/testequinta82134/275161
 #EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH Alta Qualidade" tvg-logo="http://c2n.one:80/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209149
@@ -1615,7 +1593,7 @@ http://c2n.one:80/testsquinta/testequinta82134/198312
 http://c2n.one:80/testsquinta/testequinta82134/230809
 #EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH Baixa Qualidade" tvg-logo="http://c2n.one:80/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209151
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FULL Media Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/aa9e2822814cc61a4be9f0b3b9180f00.png" group-title="CANAIS: TELECINE",TELECINE CULT FULL Media Qualidade Otimizada
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT Media Qualidade Otimizada" tvg-logo="http://c2n.one:80/images/aa9e2822814cc61a4be9f0b3b9180f00.png" group-title="CANAIS: TELECINE",TELECINE CULT Media Qualidade Otimizada
 http://c2n.one:80/testsquinta/testequinta82134/275157
 #EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT Alta Qualidade" tvg-logo="http://c2n.one:80/images/aa9e2822814cc61a4be9f0b3b9180f00.png" group-title="CANAIS: TELECINE",TELECINE CULT Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209137
@@ -1713,7 +1691,7 @@ http://c2n.one:80/testsquinta/testequinta82134/198263
 http://c2n.one:80/testsquinta/testequinta82134/297948
 #EXTINF:-1 tvg-id="" tvg-name="TV GAZETA ALAGOAS Media Qualidade" tvg-logo="http://c2n.one:80/images/76de17485ff0890336c245697bac1fbf.png" group-title="CANAIS: GLOBO",TV GAZETA ALAGOAS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297947
-#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV GAZETA FULL Media Qualidade" tvg-logo="http://c2n.one:80/images/76de17485ff0890336c245697bac1fbf.png" group-title="CANAIS: GLOBO",TV GAZETA FULL Media Qualidade
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV GAZETA Media Qualidade" tvg-logo="http://c2n.one:80/images/76de17485ff0890336c245697bac1fbf.png" group-title="CANAIS: GLOBO",TV GAZETA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298902
 #EXTINF:-1 tvg-id="Tv Gazeta SP Media Qualidade" tvg-name="TV GAZETA Media Qualidade" tvg-logo="http://c2n.one:80/images/35dd13721f6cd18b1b96916168600a60.png" group-title="CANAIS: ABERTOS",TV GAZETA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/98304
