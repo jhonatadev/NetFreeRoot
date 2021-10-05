@@ -1,1899 +1,3753 @@
 #EXTM3U
+
+
 #EXTINF:-1,A BOLA TV
 http://c2n.one:80/testsquinta/testequinta82134/231342
-#EXTINF:-1,A FAZENDA 13
-http://c2n.one:80/testsquinta/testequinta82134/296293
-#EXTINF:-1,A FAZENDA 13 CAM 01
-http://c2n.one:80/testsquinta/testequinta82134/296986
-#EXTINF:-1,A FAZENDA 13 CAM 02
-http://c2n.one:80/testsquinta/testequinta82134/296987
-#EXTINF:-1,A FAZENDA 13 CAM 03
-http://c2n.one:80/testsquinta/testequinta82134/296988
-#EXTINF:-1,A FAZENDA 13 CAM 04
-http://c2n.one:80/testsquinta/testequinta82134/296989
-#EXTINF:-1,A FAZENDA 13 CAM 05
-http://c2n.one:80/testsquinta/testequinta82134/296990
-#EXTINF:-1,A FAZENDA 13 CAM 06
-http://c2n.one:80/testsquinta/testequinta82134/296991
-#EXTINF:-1,A FAZENDA 13 CAM 07
-http://c2n.one:80/testsquinta/testequinta82134/296992
-#EXTINF:-1,A FAZENDA 13 CAM 08
-http://c2n.one:80/testsquinta/testequinta82134/296993
-#EXTINF:-1,A FAZENDA 13 FULLHD
-http://c2n.one:80/testsquinta/testequinta82134/296291
-#EXTINF:-1,A FAZENDA 13 HD
-http://c2n.one:80/testsquinta/testequinta82134/296292
-#EXTINF:-1,A&E FULLHD
+
+
+#EXTINF:-1,A&E Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208849
-#EXTINF:-1,A&E FULLHD H265
+
+
+#EXTINF:-1,A&E Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275118
-#EXTINF:-1,A&E HD
+
+
+#EXTINF:-1,A&E Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208850
-#EXTINF:-1,A&E HD - ALT
+
+
+#EXTINF:-1,A&E Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198446
-#EXTINF:-1,A&E SD
+
+
+#EXTINF:-1,A&E Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208851
+
+
 #EXTINF:-1,ABU DHABI SPORTS 01
 http://c2n.one:80/testsquinta/testequinta82134/231343
+
+
 #EXTINF:-1,ABU DHABI SPORTS 02
 http://c2n.one:80/testsquinta/testequinta82134/231344
+
+
 #EXTINF:-1,ABU DHABI SPORTS 03
 http://c2n.one:80/testsquinta/testequinta82134/231345
+
+
 #EXTINF:-1,ABU DHABI SPORTS 04
 http://c2n.one:80/testsquinta/testequinta82134/231346
-#EXTINF:-1,AGRO MAIS HD
+
+
+#EXTINF:-1,AGRO MAIS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/283586
-#EXTINF:-1,AGRO MAIS SD
+
+
+#EXTINF:-1,AGRO MAIS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/283585
+
+
 #EXTINF:-1,AL KASS SPORTS 01
 http://c2n.one:80/testsquinta/testequinta82134/231347
+
+
 #EXTINF:-1,AL KASS SPORTS 02
 http://c2n.one:80/testsquinta/testequinta82134/231348
+
+
 #EXTINF:-1,AL KASS SPORTS 03
 http://c2n.one:80/testsquinta/testequinta82134/231349
+
+
 #EXTINF:-1,AL KASS SPORTS 04
 http://c2n.one:80/testsquinta/testequinta82134/231350
+
+
 #EXTINF:-1,AL KASS SPORTS 05
 http://c2n.one:80/testsquinta/testequinta82134/231351
+
+
 #EXTINF:-1,ALL SPORTS
 http://c2n.one:80/testsquinta/testequinta82134/96646
+
+
 #EXTINF:-1,ALTIORA TV
 http://c2n.one:80/testsquinta/testequinta82134/265413
-#EXTINF:-1,AMC FULLHD
+
+
+#EXTINF:-1,AMC Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208852
-#EXTINF:-1,AMC FULLHD H265
+
+
+#EXTINF:-1,AMC Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275119
-#EXTINF:-1,AMC HD
+
+
+#EXTINF:-1,AMC Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208853
-#EXTINF:-1,AMC HD - ALT
+
+
+#EXTINF:-1,AMC Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198445
-#EXTINF:-1,AMC SD
+
+
+#EXTINF:-1,AMC Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208854
-#EXTINF:-1,ANIMAL PLANET FULLHD
+
+
+#EXTINF:-1,ANIMAL PLANET Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208855
-#EXTINF:-1,ANIMAL PLANET FULLHD H265
+
+
+#EXTINF:-1,ANIMAL PLANET Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275094
-#EXTINF:-1,ANIMAL PLANET HD
+
+
+#EXTINF:-1,ANIMAL PLANET Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208856
-#EXTINF:-1,ANIMAL PLANET HD - ALT
+
+
+#EXTINF:-1,ANIMAL PLANET Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198444
-#EXTINF:-1,ANIMAL PLANET SD
+
+
+#EXTINF:-1,ANIMAL PLANET Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208857
+
+
 #EXTINF:-1,ARARUNA TV
 http://c2n.one:80/testsquinta/testequinta82134/277363
-#EXTINF:-1,ARTE 1 FULLHD
+
+
+#EXTINF:-1,ARTE 1 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208858
-#EXTINF:-1,ARTE 1 HD
+
+
+#EXTINF:-1,ARTE 1 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208859
-#EXTINF:-1,ARTE 1 HD - ALT
+
+
+#EXTINF:-1,ARTE 1 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198443
-#EXTINF:-1,ARTE 1 SD
+
+
+#EXTINF:-1,ARTE 1 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208860
-#EXTINF:-1,AXN FULLHD
+
+
+#EXTINF:-1,AXN Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208861
-#EXTINF:-1,AXN FULLHD H265
+
+
+#EXTINF:-1,AXN Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275121
-#EXTINF:-1,AXN HD
+
+
+#EXTINF:-1,AXN Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208862
-#EXTINF:-1,AXN HD - ALT
+
+
+#EXTINF:-1,AXN Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198442
-#EXTINF:-1,AXN SD
+
+
+#EXTINF:-1,AXN Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208863
-#EXTINF:-1,BABY TV HD
+
+
+#EXTINF:-1,BABY TV Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/57195
-#EXTINF:-1,BABY TV HD - ALT
+
+
+#EXTINF:-1,BABY TV Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198441
+
+
 #EXTINF:-1,BAND
 http://c2n.one:80/testsquinta/testequinta82134/231499
-#EXTINF:-1,BAND CAMPINAS SD
+
+
+#EXTINF:-1,BAND CAMPINAS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/231498
-#EXTINF:-1,BAND FULLHD
+
+
+#EXTINF:-1,BAND Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/231500
-#EXTINF:-1,BAND FULLHD H265
+
+
+#EXTINF:-1,BAND Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/231502
-#EXTINF:-1,BAND HD¹
+
+
+#EXTINF:-1,BAND Media Qualidade¹
 http://c2n.one:80/testsquinta/testequinta82134/231503
-#EXTINF:-1,BAND NEWS FULLHD
+
+
+#EXTINF:-1,BAND NEWS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208866
-#EXTINF:-1,BAND NEWS FULLHD H265
+
+
+#EXTINF:-1,BAND NEWS Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275108
-#EXTINF:-1,BAND NEWS HD
+
+
+#EXTINF:-1,BAND NEWS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208867
-#EXTINF:-1,BAND NEWS HD - ALT
+
+
+#EXTINF:-1,BAND NEWS Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198440
-#EXTINF:-1,BAND NEWS SD
+
+
+#EXTINF:-1,BAND NEWS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208868
-#EXTINF:-1,BAND RJ HD
+
+
+#EXTINF:-1,BAND RJ Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/234545
-#EXTINF:-1,BAND SP HD
+
+
+#EXTINF:-1,BAND SP Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/231496
-#EXTINF:-1,BAND SP SD
+
+
+#EXTINF:-1,BAND SP Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/231497
-#EXTINF:-1,BAND SPORTS FULLHD
+
+
+#EXTINF:-1,BAND SPORTS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208870
-#EXTINF:-1,BAND SPORTS HD
+
+
+#EXTINF:-1,BAND SPORTS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208871
-#EXTINF:-1,Band SPORTS HD (DUAL AUDIO)
+
+
+#EXTINF:-1,Band SPORTS Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230851
-#EXTINF:-1,BAND SPORTS HD - ALT
+
+
+#EXTINF:-1,BAND SPORTS Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198438
+
+
 #EXTINF:-1,Band SPORTS HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230852
-#EXTINF:-1,BAND SPORTS SD
+
+
+#EXTINF:-1,BAND SPORTS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208872
+
+
 #EXTINF:-1,BEIN SPORTS 01
 http://c2n.one:80/testsquinta/testequinta82134/231353
+
+
 #EXTINF:-1,BEIN SPORTS 02
 http://c2n.one:80/testsquinta/testequinta82134/231354
+
+
 #EXTINF:-1,BEIN SPORTS 03
 http://c2n.one:80/testsquinta/testequinta82134/231355
-#EXTINF:-1,BIS FULLHD
+
+
+#EXTINF:-1,BIS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208873
-#EXTINF:-1,BIS FULLHD H265
+
+
+#EXTINF:-1,BIS Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275146
-#EXTINF:-1,BIS HD
+
+
+#EXTINF:-1,BIS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208874
-#EXTINF:-1,BIS SD
+
+
+#EXTINF:-1,BIS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208875
+
+
 #EXTINF:-1,BONS TEMPOS TV
 http://c2n.one:80/testsquinta/testequinta82134/210498
-#EXTINF:-1,BOOMERANG FULLHD
+
+
+#EXTINF:-1,BOOMERANG Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208876
-#EXTINF:-1,BOOMERANG FULLHD H265
+
+
+#EXTINF:-1,BOOMERANG Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275137
-#EXTINF:-1,BOOMERANG HD
+
+
+#EXTINF:-1,BOOMERANG Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208877
-#EXTINF:-1,BOOMERANG HD - ALT
+
+
+#EXTINF:-1,BOOMERANG Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198436
-#EXTINF:-1,BOOMERANG SD
+
+
+#EXTINF:-1,BOOMERANG Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208878
+
+
 #EXTINF:-1,BTV
 http://c2n.one:80/testsquinta/testequinta82134/231356
+
+
 #EXTINF:-1,CAMOCIM WEB TV
 http://c2n.one:80/testsquinta/testequinta82134/210499
-#EXTINF:-1,CANAL BRASIL FULLHD
+
+
+#EXTINF:-1,CANAL BRASIL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208879
-#EXTINF:-1,CANAL BRASIL FULLHD
+
+
+#EXTINF:-1,CANAL BRASIL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132147
-#EXTINF:-1,CANAL BRASIL FULLHD (DUAL AUDIO)
+
+
+#EXTINF:-1,CANAL BRASIL Alta Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230867
-#EXTINF:-1,CANAL BRASIL HD
+
+
+#EXTINF:-1,CANAL BRASIL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208880
-#EXTINF:-1,CANAL BRASIL HD (DUAL AUDIO)
+
+
+#EXTINF:-1,CANAL BRASIL Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230866
-#EXTINF:-1,CANAL BRASIL SD
+
+
+#EXTINF:-1,CANAL BRASIL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208881
-#EXTINF:-1,CANAL SONY FULLHD H265
+
+
+#EXTINF:-1,CANAL SONY Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275126
+
+
 #EXTINF:-1,CANÇÃO NOVA
 http://c2n.one:80/testsquinta/testequinta82134/209899
-#EXTINF:-1,CANÇÃO NOVA HD
+
+
+#EXTINF:-1,CANÇÃO NOVA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/212588
-#EXTINF:-1,CARTOON NETWORK FULLHD
+
+
+#EXTINF:-1,CARTOON NETWORK Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208888
-#EXTINF:-1,CARTOON NETWORK FULLHD H265
+
+
+#EXTINF:-1,CARTOON NETWORK Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275138
-#EXTINF:-1,CARTOON NETWORK HD
+
+
+#EXTINF:-1,CARTOON NETWORK Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208889
-#EXTINF:-1,CARTOON NETWORK HD - ALT
+
+
+#EXTINF:-1,CARTOON NETWORK Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198433
-#EXTINF:-1,CARTOON NETWORK SD
+
+
+#EXTINF:-1,CARTOON NETWORK Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208890
+
+
 #EXTINF:-1,CBTV Now
 http://c2n.one:80/testsquinta/testequinta82134/67334
+
+
 #EXTINF:-1,CINE SKY 01¹
 http://c2n.one:80/testsquinta/testequinta82134/230083
+
+
 #EXTINF:-1,CINE SKY 02¹
 http://c2n.one:80/testsquinta/testequinta82134/230084
+
+
 #EXTINF:-1,CINE SKY 03¹
 http://c2n.one:80/testsquinta/testequinta82134/230085
+
+
 #EXTINF:-1,CINE SKY 04¹
 http://c2n.one:80/testsquinta/testequinta82134/230086
+
+
 #EXTINF:-1,CINE SKY 05¹
 http://c2n.one:80/testsquinta/testequinta82134/230087
+
+
 #EXTINF:-1,CINE SKY 06¹
 http://c2n.one:80/testsquinta/testequinta82134/230088
+
+
 #EXTINF:-1,CINE SKY 07¹
 http://c2n.one:80/testsquinta/testequinta82134/230089
+
+
 #EXTINF:-1,CINE SP8 - CLASSIC MOVIES
 http://c2n.one:80/testsquinta/testequinta82134/231284
+
+
 #EXTINF:-1,CINE SP8 - GOSPEL
 http://c2n.one:80/testsquinta/testequinta82134/231285
+
+
 #EXTINF:-1,CINE SP8 - TÍTULOS VARIADOS
 http://c2n.one:80/testsquinta/testequinta82134/231286
+
+
 #EXTINF:-1,CINE SP8 - WESTERN (FAROESTE)
 http://c2n.one:80/testsquinta/testequinta82134/231287
+
+
 #EXTINF:-1,CINEMA 1
 http://c2n.one:80/testsquinta/testequinta82134/198431
-#EXTINF:-1,CINEMAX FULLHD
+
+
+#EXTINF:-1,CINEMAX Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208891
-#EXTINF:-1,CINEMAX FULLHD H265
+
+
+#EXTINF:-1,CINEMAX Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275122
-#EXTINF:-1,CINEMAX HD
+
+
+#EXTINF:-1,CINEMAX Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208892
-#EXTINF:-1,CINEMAX HD - ALT
+
+
+#EXTINF:-1,CINEMAX Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198432
-#EXTINF:-1,CINEMAX SD
+
+
+#EXTINF:-1,CINEMAX Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208893
+
+
 #EXTINF:-1,CLARO SPORTS
 http://c2n.one:80/testsquinta/testequinta82134/231357
+
+
 #EXTINF:-1,CLASSIQUE TV
 http://c2n.one:80/testsquinta/testequinta82134/98299
+
+
 #EXTINF:-1,CLASSIQUE TV 2
 http://c2n.one:80/testsquinta/testequinta82134/98318
-#EXTINF:-1,CNN BRASIL FULLHD
+
+
+#EXTINF:-1,CNN BRASIL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132151
-#EXTINF:-1,CNN BRASIL HD
+
+
+#EXTINF:-1,CNN BRASIL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/39937
-#EXTINF:-1,CNN BRASIL HD - ALT
+
+
+#EXTINF:-1,CNN BRASIL Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198297
-#EXTINF:-1,CNN BRASIL SD
+
+
+#EXTINF:-1,CNN BRASIL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132477
-#EXTINF:-1,CNN ESPANHOL FULLHD
+
+
+#EXTINF:-1,CNN ESPANHOL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298900
-#EXTINF:-1,CNN ESPANHOL HD
+
+
+#EXTINF:-1,CNN ESPANHOL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132152
-#EXTINF:-1,CNN INTERNACIONAL FULLHD 
+
+
+#EXTINF:-1,CNN INTERNACIONAL Alta Qualidade 
 http://c2n.one:80/testsquinta/testequinta82134/298899
-#EXTINF:-1,CNN INTERNACIONAL HD
+
+
+#EXTINF:-1,CNN INTERNACIONAL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132153
-#EXTINF:-1,COMBATE FULLHD
+
+
+#EXTINF:-1,COMBATE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208897
-#EXTINF:-1,COMBATE FULLHD H265
+
+
+#EXTINF:-1,COMBATE Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275091
-#EXTINF:-1,COMBATE HD
+
+
+#EXTINF:-1,COMBATE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208898
-#EXTINF:-1,COMBATE HD (DUAL AUDIO)
+
+
+#EXTINF:-1,COMBATE Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230868
-#EXTINF:-1,COMBATE HD - ALT
+
+
+#EXTINF:-1,COMBATE Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198423
+
+
 #EXTINF:-1,COMBATE HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230869
-#EXTINF:-1,COMBATE SD
+
+
+#EXTINF:-1,COMBATE Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208899
-#EXTINF:-1,COMEDY CENTRAL FULLHD
+
+
+#EXTINF:-1,COMEDY CENTRAL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208900
-#EXTINF:-1,COMEDY CENTRAL FULLHD H265
+
+
+#EXTINF:-1,COMEDY CENTRAL Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275147
-#EXTINF:-1,COMEDY CENTRAL HD
+
+
+#EXTINF:-1,COMEDY CENTRAL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208901
-#EXTINF:-1,COMEDY CENTRAL HD - ALT
+
+
+#EXTINF:-1,COMEDY CENTRAL Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198422
-#EXTINF:-1,COMEDY CENTRAL SD
+
+
+#EXTINF:-1,COMEDY CENTRAL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208902
-#EXTINF:-1,CONMEBOL 1 FULLHD
+
+
+#EXTINF:-1,CONMEBOL 1 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/284903
-#EXTINF:-1,CONMEBOL 1 HD
+
+
+#EXTINF:-1,CONMEBOL 1 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/284904
-#EXTINF:-1,CONMEBOL 1 SD
+
+
+#EXTINF:-1,CONMEBOL 1 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/284905
-#EXTINF:-1,CONMEBOL 2 FULLHD
+
+
+#EXTINF:-1,CONMEBOL 2 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/284906
-#EXTINF:-1,CONMEBOL 2 HD
+
+
+#EXTINF:-1,CONMEBOL 2 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/284907
-#EXTINF:-1,CONMEBOL 2 SD
+
+
+#EXTINF:-1,CONMEBOL 2 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/284908
-#EXTINF:-1,CONMEBOL 3 FULLHD
+
+
+#EXTINF:-1,CONMEBOL 3 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/284909
-#EXTINF:-1,CONMEBOL 3 HD
+
+
+#EXTINF:-1,CONMEBOL 3 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/284910
-#EXTINF:-1,CONMEBOL 4 HD
+
+
+#EXTINF:-1,CONMEBOL 4 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/284911
+
+
 #EXTINF:-1,CTV
 http://c2n.one:80/testsquinta/testequinta82134/98308
-#EXTINF:-1,CULTURA HD (DUAL AUDIO)
+
+
+#EXTINF:-1,CULTURA Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230854
-#EXTINF:-1,CULTURA HD - ALT
+
+
+#EXTINF:-1,CULTURA Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198412
-#EXTINF:-1,CURTA! FULLHD
+
+
+#EXTINF:-1,CURTA! Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298897
-#EXTINF:-1,CURTA! HD
+
+
+#EXTINF:-1,CURTA! Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/57210
-#EXTINF:-1,CURTA! HD - ALT
+
+
+#EXTINF:-1,CURTA! Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198411
-#EXTINF:-1,DAZN 01 HD
+
+
+#EXTINF:-1,DAZN 01 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209209
-#EXTINF:-1,DAZN 02 HD
+
+
+#EXTINF:-1,DAZN 02 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209210
-#EXTINF:-1,DAZN 03 HD
+
+
+#EXTINF:-1,DAZN 03 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209211
+
+
 #EXTINF:-1,DIRECT SPORTS +
 http://c2n.one:80/testsquinta/testequinta82134/231358
+
+
 #EXTINF:-1,DIRECT SPORTS 01
 http://c2n.one:80/testsquinta/testequinta82134/231359
+
+
 #EXTINF:-1,DIRECT SPORTS 02
 http://c2n.one:80/testsquinta/testequinta82134/231360
-#EXTINF:-1,DISCOVERY CHANNEL FULLHD
+
+
+#EXTINF:-1,DISCOVERY CHANNEL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208909
-#EXTINF:-1,DISCOVERY CHANNEL FULLHD H265
+
+
+#EXTINF:-1,DISCOVERY CHANNEL Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275095
-#EXTINF:-1,DISCOVERY CHANNEL HD
+
+
+#EXTINF:-1,DISCOVERY CHANNEL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208910
-#EXTINF:-1,DISCOVERY CHANNEL HD - ALT
+
+
+#EXTINF:-1,DISCOVERY CHANNEL Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198408
-#EXTINF:-1,DISCOVERY CHANNEL SD
+
+
+#EXTINF:-1,DISCOVERY CHANNEL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208911
-#EXTINF:-1,DISCOVERY H&H FULLHD
+
+
+#EXTINF:-1,DISCOVERY H&H Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208912
-#EXTINF:-1,DISCOVERY H&H HD
+
+
+#EXTINF:-1,DISCOVERY H&H Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208913
-#EXTINF:-1,DISCOVERY H&H HD - ALT
+
+
+#EXTINF:-1,DISCOVERY H&H Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198406
-#EXTINF:-1,DISCOVERY H&H SD
+
+
+#EXTINF:-1,DISCOVERY H&H Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208914
-#EXTINF:-1,DISCOVERY HOME & HEALTH FULLHD H265
+
+
+#EXTINF:-1,DISCOVERY HOME & HEALTH Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275097
-#EXTINF:-1,DISCOVERY KIDS FULLHD
+
+
+#EXTINF:-1,DISCOVERY KIDS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208915
-#EXTINF:-1,DISCOVERY KIDS FULLHD H265
+
+
+#EXTINF:-1,DISCOVERY KIDS Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275139
-#EXTINF:-1,DISCOVERY KIDS HD
+
+
+#EXTINF:-1,DISCOVERY KIDS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208916
-#EXTINF:-1,DISCOVERY KIDS HD - ALT
+
+
+#EXTINF:-1,DISCOVERY KIDS Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198405
-#EXTINF:-1,DISCOVERY KIDS SD
+
+
+#EXTINF:-1,DISCOVERY KIDS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208917
-#EXTINF:-1,DISCOVERY SCIENCE FULLHD
+
+
+#EXTINF:-1,DISCOVERY SCIENCE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208918
-#EXTINF:-1,DISCOVERY SCIENCE FULLHD H265
+
+
+#EXTINF:-1,DISCOVERY SCIENCE Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275098
-#EXTINF:-1,DISCOVERY SCIENCE HD
+
+
+#EXTINF:-1,DISCOVERY SCIENCE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208919
-#EXTINF:-1,DISCOVERY SCIENCE HD - ALT
+
+
+#EXTINF:-1,DISCOVERY SCIENCE Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198404
-#EXTINF:-1,DISCOVERY SCIENCE SD
+
+
+#EXTINF:-1,DISCOVERY SCIENCE Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208920
-#EXTINF:-1,DISCOVERY THEATER FULLHD
+
+
+#EXTINF:-1,DISCOVERY THEATER Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208921
-#EXTINF:-1,DISCOVERY THEATER FULLHD H265
+
+
+#EXTINF:-1,DISCOVERY THEATER Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275099
-#EXTINF:-1,DISCOVERY THEATER HD
+
+
+#EXTINF:-1,DISCOVERY THEATER Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208922
-#EXTINF:-1,DISCOVERY THEATER HD - ALT
+
+
+#EXTINF:-1,DISCOVERY THEATER Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198403
-#EXTINF:-1,DISCOVERY THEATER SD
+
+
+#EXTINF:-1,DISCOVERY THEATER Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208923
-#EXTINF:-1,DISCOVERY TLC FULLHD
+
+
+#EXTINF:-1,DISCOVERY TLC Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209152
-#EXTINF:-1,DISCOVERY TLC FULLHD H265
+
+
+#EXTINF:-1,DISCOVERY TLC Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275102
-#EXTINF:-1,DISCOVERY TLC HD
+
+
+#EXTINF:-1,DISCOVERY TLC Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209153
-#EXTINF:-1,DISCOVERY TLC HD - ALT
+
+
+#EXTINF:-1,DISCOVERY TLC Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198402
-#EXTINF:-1,DISCOVERY TURBO FULLHD
+
+
+#EXTINF:-1,DISCOVERY TURBO Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208924
-#EXTINF:-1,DISCOVERY TURBO FULLHD H265
+
+
+#EXTINF:-1,DISCOVERY TURBO Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275100
-#EXTINF:-1,DISCOVERY TURBO HD
+
+
+#EXTINF:-1,DISCOVERY TURBO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208925
-#EXTINF:-1,DISCOVERY TURBO HD - ALT
+
+
+#EXTINF:-1,DISCOVERY TURBO Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198401
-#EXTINF:-1,DISCOVERY TURBO SD
+
+
+#EXTINF:-1,DISCOVERY TURBO Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208926
-#EXTINF:-1,DISCOVERY WORLD FULLHD
+
+
+#EXTINF:-1,DISCOVERY WORLD Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208927
-#EXTINF:-1,DISCOVERY WORLD FULLHD H265
+
+
+#EXTINF:-1,DISCOVERY WORLD Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275101
-#EXTINF:-1,DISCOVERY WORLD HD
+
+
+#EXTINF:-1,DISCOVERY WORLD Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208928
-#EXTINF:-1,DISCOVERY WORLD HD - ALT
+
+
+#EXTINF:-1,DISCOVERY WORLD Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198400
-#EXTINF:-1,DISCOVERY WORLD SD
+
+
+#EXTINF:-1,DISCOVERY WORLD Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208929
-#EXTINF:-1,DISNEY CHANNEL FULLHD
+
+
+#EXTINF:-1,DISNEY CHANNEL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208930
-#EXTINF:-1,DISNEY CHANNEL FULLHD H265
+
+
+#EXTINF:-1,DISNEY CHANNEL Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275140
-#EXTINF:-1,DISNEY CHANNEL HD
+
+
+#EXTINF:-1,DISNEY CHANNEL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208931
-#EXTINF:-1,DISNEY CHANNEL HD - ALT
+
+
+#EXTINF:-1,DISNEY CHANNEL Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198399
-#EXTINF:-1,DISNEY CHANNEL SD
+
+
+#EXTINF:-1,DISNEY CHANNEL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208932
-#EXTINF:-1,DISNEY JR FULLHD
+
+
+#EXTINF:-1,DISNEY JR Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208933
-#EXTINF:-1,DISNEY JR FULLHD H265
+
+
+#EXTINF:-1,DISNEY JR Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275141
-#EXTINF:-1,DISNEY JR HD
+
+
+#EXTINF:-1,DISNEY JR Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208934
-#EXTINF:-1,DISNEY JR HD - ALT
+
+
+#EXTINF:-1,DISNEY JR Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198398
-#EXTINF:-1,DISNEY JR SD
+
+
+#EXTINF:-1,DISNEY JR Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208935
-#EXTINF:-1,DISNEY XD FHD
+
+
+#EXTINF:-1,DISNEY XD Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/283591
-#EXTINF:-1,DISNEY XD FULLHD
+
+
+#EXTINF:-1,DISNEY XD Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132167
-#EXTINF:-1,DISNEY XD HD
+
+
+#EXTINF:-1,DISNEY XD Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/283592
-#EXTINF:-1,DISNEY XD HD - ALT
+
+
+#EXTINF:-1,DISNEY XD Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198397
-#EXTINF:-1,DISNEY XD SD
+
+
+#EXTINF:-1,DISNEY XD Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/283593
+
+
 #EXTINF:-1,DW DEUTSCHE
 http://c2n.one:80/testsquinta/testequinta82134/136189
-#EXTINF:-1,DW TV SD
+
+
+#EXTINF:-1,DW TV Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/283588
-#EXTINF:-1,E! ENTERTAINMENT FULLHD
+
+
+#EXTINF:-1,E! ENTERTAINMENT Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208936
-#EXTINF:-1,E! ENTERTAINMENT HD
+
+
+#EXTINF:-1,E! ENTERTAINMENT Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208937
-#EXTINF:-1,E! ENTERTAINMENT SD
+
+
+#EXTINF:-1,E! ENTERTAINMENT Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208938
-#EXTINF:-1,E! FULLHD H265
+
+
+#EXTINF:-1,E! Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275148
-#EXTINF:-1,ELEVEN SPORTS 01 HD
+
+
+#EXTINF:-1,ELEVEN SPORTS 01 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298905
-#EXTINF:-1,ELEVEN SPORTS 02 HD
+
+
+#EXTINF:-1,ELEVEN SPORTS 02 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209241
-#EXTINF:-1,ELEVEN SPORTS 03 HD
+
+
+#EXTINF:-1,ELEVEN SPORTS 03 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209242
-#EXTINF:-1,ELEVEN SPORTS 04 HD
+
+
+#EXTINF:-1,ELEVEN SPORTS 04 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209243
-#EXTINF:-1,ELEVEN SPORTS 05 HD
+
+
+#EXTINF:-1,ELEVEN SPORTS 05 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209244
-#EXTINF:-1,ELEVEN SPORTS 06 HD
+
+
+#EXTINF:-1,ELEVEN SPORTS 06 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209245
-#EXTINF:-1,ELEVEN SPORTS 07 HD
+
+
+#EXTINF:-1,ELEVEN SPORTS 07 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209246
-#EXTINF:-1,ELEVEN SPORTS 08 HD
+
+
+#EXTINF:-1,ELEVEN SPORTS 08 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209247
-#EXTINF:-1,ELEVEN SPORTS 09 HD
+
+
+#EXTINF:-1,ELEVEN SPORTS 09 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209248
+
+
 #EXTINF:-1,ELEVEN SPORTS 1
 http://c2n.one:80/testsquinta/testequinta82134/231361
-#EXTINF:-1,ELEVEN SPORTS 10 HD
+
+
+#EXTINF:-1,ELEVEN SPORTS 10 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209249
+
+
 #EXTINF:-1,ELEVEN SPORTS 2
 http://c2n.one:80/testsquinta/testequinta82134/231362
+
+
 #EXTINF:-1,ELEVEN SPORTS 3
 http://c2n.one:80/testsquinta/testequinta82134/231363
+
+
 #EXTINF:-1,ELEVEN SPORTS 4
 http://c2n.one:80/testsquinta/testequinta82134/231364
+
+
 #EXTINF:-1,ELEVEN SPORTS 5
 http://c2n.one:80/testsquinta/testequinta82134/231365
+
+
 #EXTINF:-1,ELEVEN SPORTS 6
 http://c2n.one:80/testsquinta/testequinta82134/231366
-#EXTINF:-1,EPTV CAMPINAS FULLHD
+
+
+#EXTINF:-1,EPTV CAMPINAS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297899
-#EXTINF:-1,EPTV RIBEIRAO PRETO FULLHD H265
+
+
+#EXTINF:-1,EPTV RIBEIRAO PRETO Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/297900
-#EXTINF:-1,EPTV RIBEIRAO PRETO HD
+
+
+#EXTINF:-1,EPTV RIBEIRAO PRETO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297903
-#EXTINF:-1,EPTV SUL DE MINAS FULLHD
+
+
+#EXTINF:-1,EPTV SUL DE MINAS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297901
-#EXTINF:-1,EPTV SUL DE MINAS HD
+
+
+#EXTINF:-1,EPTV SUL DE MINAS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297902
-#EXTINF:-1,ESPN 1 FULLHD
+
+
+#EXTINF:-1,ESPN 1 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208948
-#EXTINF:-1,ESPN 1 FULLHD H265
+
+
+#EXTINF:-1,ESPN 1 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275087
-#EXTINF:-1,ESPN 1 HD
+
+
+#EXTINF:-1,ESPN 1 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208949
-#EXTINF:-1,ESPN 1 HD (DUAL AUDIO)
+
+
+#EXTINF:-1,ESPN 1 Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230890
-#EXTINF:-1,ESPN  1 HD - ALT
+
+
+#EXTINF:-1,ESPN  1 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198392
-#EXTINF:-1,ESPN 1 SD
+
+
+#EXTINF:-1,ESPN 1 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208950
-#EXTINF:-1,ESPN 2 FULLHD
+
+
+#EXTINF:-1,ESPN 2 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208939
-#EXTINF:-1,ESPN 2 FULLHD H265
+
+
+#EXTINF:-1,ESPN 2 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275088
-#EXTINF:-1,ESPN 2 HD
+
+
+#EXTINF:-1,ESPN 2 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208940
-#EXTINF:-1,ESPN 2 HD - ALT
+
+
+#EXTINF:-1,ESPN 2 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198391
-#EXTINF:-1,ESPN 2 SD
+
+
+#EXTINF:-1,ESPN 2 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208941
-#EXTINF:-1,ESPN BRASIL FULLHD
+
+
+#EXTINF:-1,ESPN BRASIL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208942
-#EXTINF:-1,ESPN BRASIL FULLHD H265
+
+
+#EXTINF:-1,ESPN BRASIL Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275089
-#EXTINF:-1,ESPN BRASIL HD
+
+
+#EXTINF:-1,ESPN BRASIL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208943
-#EXTINF:-1,ESPN BRASIL HD (DUAL AUDIO)
+
+
+#EXTINF:-1,ESPN BRASIL Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230889
-#EXTINF:-1,ESPN BRASIL HD - ALT
+
+
+#EXTINF:-1,ESPN BRASIL Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198390
-#EXTINF:-1,ESPN BRASIL SD
+
+
+#EXTINF:-1,ESPN BRASIL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208944
-#EXTINF:-1,ESPN EXTRA FULLHD
+
+
+#EXTINF:-1,ESPN EXTRA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208945
-#EXTINF:-1,ESPN EXTRA FULLHD H265
+
+
+#EXTINF:-1,ESPN EXTRA Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275086
-#EXTINF:-1,ESPN EXTRA HD
+
+
+#EXTINF:-1,ESPN EXTRA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208946
-#EXTINF:-1,ESPN EXTRA SD
+
+
+#EXTINF:-1,ESPN EXTRA Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208947
-#EXTINF:-1,ESTADIO TNT SPORTS 01 HD
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 01 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209213
-#EXTINF:-1,ESTADIO TNT SPORTS 02 HD
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 02 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209214
-#EXTINF:-1,ESTADIO TNT SPORTS 03 HD
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 03 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209215
-#EXTINF:-1,ESTADIO TNT SPORTS 04 HD
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 04 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209216
-#EXTINF:-1,ESTADIO TNT SPORTS 05 HD
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 05 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209217
+
+
 #EXTINF:-1,EUROSPORT 01
 http://c2n.one:80/testsquinta/testequinta82134/231367
+
+
 #EXTINF:-1,EUROSPORT 02
 http://c2n.one:80/testsquinta/testequinta82134/231368
-#EXTINF:-1,FASHION TV FULLHD
+
+
+#EXTINF:-1,FASHION TV Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208951
-#EXTINF:-1,FASHION TV HD
+
+
+#EXTINF:-1,FASHION TV Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208952
-#EXTINF:-1,FISH TV FULLHD
+
+
+#EXTINF:-1,FISH TV Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132173
-#EXTINF:-1,FISH TV HD
+
+
+#EXTINF:-1,FISH TV Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/57150
-#EXTINF:-1,FISH TV HD (DUAL AUDIO)
+
+
+#EXTINF:-1,FISH TV Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230857
-#EXTINF:-1,FISH TV HD - ALT
+
+
+#EXTINF:-1,FISH TV Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198389
-#EXTINF:-1,FISHTV FULLHD H265
+
+
+#EXTINF:-1,FISHTV Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275090
-#EXTINF:-1,FOOD NETWORK FULLHD
+
+
+#EXTINF:-1,FOOD NETWORK Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208954
-#EXTINF:-1,FOOD NETWORK FULLHD H265
+
+
+#EXTINF:-1,FOOD NETWORK Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275149
-#EXTINF:-1,FOOD NETWORK HD
+
+
+#EXTINF:-1,FOOD NETWORK Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/40058
-#EXTINF:-1,FOOD NETWORK HD - ALT
+
+
+#EXTINF:-1,FOOD NETWORK Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198388
-#EXTINF:-1,FOOD NETWORK SD
+
+
+#EXTINF:-1,FOOD NETWORK Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208956
-#EXTINF:-1,FORMULA 1 TV HD
+
+
+#EXTINF:-1,FORMULA 1 TV Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209212
-#EXTINF:-1,FOX NEWS FULLHD
+
+
+#EXTINF:-1,FOX NEWS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132177
-#EXTINF:-1,FOX NEWS HD
+
+
+#EXTINF:-1,FOX NEWS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/127299
-#EXTINF:-1,FOX SPORTS 1 FULLHD
+
+
+#EXTINF:-1,FOX SPORTS 1 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208960
-#EXTINF:-1,FOX SPORTS 1 FULLHD H265
+
+
+#EXTINF:-1,FOX SPORTS 1 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275084
-#EXTINF:-1,FOX SPORTS 1 HD
+
+
+#EXTINF:-1,FOX SPORTS 1 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208961
-#EXTINF:-1,FOX SPORTS 1 HD (DUAL AUDIO)
+
+
+#EXTINF:-1,FOX SPORTS 1 Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230847
-#EXTINF:-1,FOX SPORTS 1 SD
+
+
+#EXTINF:-1,FOX SPORTS 1 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208962
-#EXTINF:-1,FOX SPORTS 2 FULLHD
+
+
+#EXTINF:-1,FOX SPORTS 2 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208957
-#EXTINF:-1,FOX SPORTS 2 FULLHD H265
+
+
+#EXTINF:-1,FOX SPORTS 2 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275085
-#EXTINF:-1,FOX SPORTS 2 HD
+
+
+#EXTINF:-1,FOX SPORTS 2 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208958
-#EXTINF:-1,FOX SPORTS 2 HD (DUAL AUDIO)
+
+
+#EXTINF:-1,FOX SPORTS 2 Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230849
-#EXTINF:-1,FOX SPORTS 2 HD - ALT
+
+
+#EXTINF:-1,FOX SPORTS 2 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198383
+
+
 #EXTINF:-1,FOX SPORTS 2 HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230850
-#EXTINF:-1,FOX SPORTS 2 SD
+
+
+#EXTINF:-1,FOX SPORTS 2 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208959
+
+
 #EXTINF:-1,FOX SPORTS HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230848
-#EXTINF:-1,FURACAO LIVE HD
+
+
+#EXTINF:-1,FURACAO LIVE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298167
+
+
 #EXTINF:-1,FURACÃO LIVE
 http://c2n.one:80/testsquinta/testequinta82134/273163
-#EXTINF:-1,FUTURA HD
+
+
+#EXTINF:-1,FUTURA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208964
-#EXTINF:-1,FUTURA HD (DUAL AUDIO)
+
+
+#EXTINF:-1,FUTURA Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230820
-#EXTINF:-1,FUTURA HD - ALT
+
+
+#EXTINF:-1,FUTURA Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198381
-#EXTINF:-1,FUTURA SD
+
+
+#EXTINF:-1,FUTURA Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208965
-#EXTINF:-1,FX FULLHD
+
+
+#EXTINF:-1,FX Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208966
-#EXTINF:-1,FX FULLHD H265
+
+
+#EXTINF:-1,FX Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275123
-#EXTINF:-1,FX HD
+
+
+#EXTINF:-1,FX Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208967
-#EXTINF:-1,FX HD - ALT
+
+
+#EXTINF:-1,FX Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198380
-#EXTINF:-1,FX SD
+
+
+#EXTINF:-1,FX Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208968
+
+
 #EXTINF:-1,FÓRMULA 1 MOVISTAR
 http://c2n.one:80/testsquinta/testequinta82134/231369
+
+
 #EXTINF:-1,FÓRMULA 1 SKY SPORTS
 http://c2n.one:80/testsquinta/testequinta82134/231370
+
+
 #EXTINF:-1,GAZETA ¹ SP
 http://c2n.one:80/testsquinta/testequinta82134/39895
-#EXTINF:-1,GLOBO ANHANGUERA HD
+
+
+#EXTINF:-1,GLOBO ANHANGUERA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288691
-#EXTINF:-1,GLOBO BAHIA HD (SALVADOR)
+
+
+#EXTINF:-1,GLOBO BAHIA Media Qualidade (SALVADOR)
 http://c2n.one:80/testsquinta/testequinta82134/297887
+
+
 #EXTINF:-1,GLOBO BRASILIA
 http://c2n.one:80/testsquinta/testequinta82134/297877
-#EXTINF:-1,GLOBO BRASILIA FULLHD H265
+
+
+#EXTINF:-1,GLOBO BRASILIA Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/297878
-#EXTINF:-1,GLOBO BRASILIA HD
+
+
+#EXTINF:-1,GLOBO BRASILIA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288692
-#EXTINF:-1,GLOBO CUIABA FULLHD
+
+
+#EXTINF:-1,GLOBO CUIABA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298892
-#EXTINF:-1,GLOBO CUIABA SD
+
+
+#EXTINF:-1,GLOBO CUIABA Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288693
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+
+
+#EXTINF:-1,GLOBO EPTV CAMPINAS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288694
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+
+
+#EXTINF:-1,GLOBO EPTV CAMPINAS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288683
-#EXTINF:-1,GLOBO INTEGRAÇÃO MG FULLHD
+
+
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297932
-#EXTINF:-1,GLOBO INTEGRAÇÃO MG HD
+
+
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297931
-#EXTINF:-1,GLOBO INTER DO VALE FULLHD
+
+
+#EXTINF:-1,GLOBO INTER DO VALE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297937
+
+
 #EXTINF:-1,GLOBO INTER TV ALTO LITORAL
 http://c2n.one:80/testsquinta/testequinta82134/288721
+
+
 #EXTINF:-1,GLOBO INTER TV DOS VALES
 http://c2n.one:80/testsquinta/testequinta82134/288715
-#EXTINF:-1,GLOBO INTER VALE MG HD
+
+
+#EXTINF:-1,GLOBO INTER VALE MG Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297930
-#EXTINF:-1,GLOBO INTERNACIONAL SD
+
+
+#EXTINF:-1,GLOBO INTERNACIONAL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288696
-#EXTINF:-1,GLOBO MANAUS HD
+
+
+#EXTINF:-1,GLOBO MANAUS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297890
-#EXTINF:-1,GLOBO MG FULLHD H265
+
+
+#EXTINF:-1,GLOBO MG Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/297933
+
+
 #EXTINF:-1,GLOBO MINAS
 http://c2n.one:80/testsquinta/testequinta82134/297934
-#EXTINF:-1,GLOBO MINAS FULLHD
+
+
+#EXTINF:-1,GLOBO MINAS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298894
-#EXTINF:-1,GLOBO MINAS HD
+
+
+#EXTINF:-1,GLOBO MINAS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288697
-#EXTINF:-1,GLOBO MINAS SD
+
+
+#EXTINF:-1,GLOBO MINAS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288698
-#EXTINF:-1,GLOBO NEWS FULLHD
+
+
+#EXTINF:-1,GLOBO NEWS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208969
-#EXTINF:-1,GLOBO NEWS FULLHD H265
+
+
+#EXTINF:-1,GLOBO NEWS Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275109
-#EXTINF:-1,GLOBO NEWS HD
+
+
+#EXTINF:-1,GLOBO NEWS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208970
-#EXTINF:-1,GLOBO NEWS HD (DUAL AUDIO)
+
+
+#EXTINF:-1,GLOBO NEWS Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230892
-#EXTINF:-1,GLOBO NEWS HD - ALT
+
+
+#EXTINF:-1,GLOBO NEWS Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198377
-#EXTINF:-1,GLOBO NEWS SD
+
+
+#EXTINF:-1,GLOBO NEWS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208971
+
+
 #EXTINF:-1,GLOBO NORDESTE
 http://c2n.one:80/testsquinta/testequinta82134/297951
-#EXTINF:-1,GLOBO NORDESTE FULLHD
+
+
+#EXTINF:-1,GLOBO NORDESTE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297938
-#EXTINF:-1,GLOBO NORDESTE HD
+
+
+#EXTINF:-1,GLOBO NORDESTE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297939
-#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD
+
+
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288701
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FULLHD
+
+
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288730
-#EXTINF:-1,GLOBO PARAIBA HD
+
+
+#EXTINF:-1,GLOBO PARAIBA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297953
-#EXTINF:-1,GLOBO PORTUGAL FULLHD
+
+
+#EXTINF:-1,GLOBO PORTUGAL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288736
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
+
+
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288725
-#EXTINF:-1,GLOBO RIBEIRÃO PRETO SD
+
+
+#EXTINF:-1,GLOBO RIBEIRÃO PRETO Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288702
+
+
 #EXTINF:-1,GLOBO RJ
 http://c2n.one:80/testsquinta/testequinta82134/297882
-#EXTINF:-1,GLOBO RJ FULLHD
+
+
+#EXTINF:-1,GLOBO RJ Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297884
-#EXTINF:-1,GLOBO RJ HD
+
+
+#EXTINF:-1,GLOBO RJ Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297883
-#EXTINF:-1,GLOBO RJ HD²
+
+
+#EXTINF:-1,GLOBO RJ Media Qualidade²
 http://c2n.one:80/testsquinta/testequinta82134/288703
-#EXTINF:-1,GLOBO RJ SD
+
+
+#EXTINF:-1,GLOBO RJ Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288704
-#EXTINF:-1,GLOBO RPC TV HD
+
+
+#EXTINF:-1,GLOBO RPC TV Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288705
-#EXTINF:-1,GLOBO RPC TV SD
+
+
+#EXTINF:-1,GLOBO RPC TV Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288706
-#EXTINF:-1,GLOBO SERGIPE - TV SERGIPE HD
+
+
+#EXTINF:-1,GLOBO SERGIPE - TV SERGIPE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297936
+
+
 #EXTINF:-1,GLOBO SP
 http://c2n.one:80/testsquinta/testequinta82134/297879
-#EXTINF:-1,GLOBO SP FULLHD
+
+
+#EXTINF:-1,GLOBO SP Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288735
-#EXTINF:-1,GLOBO SP FULLHD H265
+
+
+#EXTINF:-1,GLOBO SP Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/297881
-#EXTINF:-1,GLOBO SP HD
+
+
+#EXTINF:-1,GLOBO SP Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288741
-#EXTINF:-1,GLOBO SP HD*
+
+
+#EXTINF:-1,GLOBO SP Media Qualidade*
 http://c2n.one:80/testsquinta/testequinta82134/288707
-#EXTINF:-1,GLOBO SP SD
+
+
+#EXTINF:-1,GLOBO SP Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288708
-#EXTINF:-1,GLOBO TV ANHANGUERA FULLHD
+
+
+#EXTINF:-1,GLOBO TV ANHANGUERA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298895
-#EXTINF:-1,GLOBO TV ANHANGUERA GOIÂNIA HD
+
+
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIÂNIA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288726
-#EXTINF:-1,GLOBO TV BAHIA FULLHD
+
+
+#EXTINF:-1,GLOBO TV BAHIA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288732
-#EXTINF:-1,GLOBO TV BAHIA SD
+
+
+#EXTINF:-1,GLOBO TV BAHIA Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288709
-#EXTINF:-1,GLOBO TV BRASILIA FULLHD
+
+
+#EXTINF:-1,GLOBO TV BRASILIA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298903
-#EXTINF:-1,GLOBO TV CABO BRANCO FULLHD
+
+
+#EXTINF:-1,GLOBO TV CABO BRANCO Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288727
-#EXTINF:-1,GLOBO TV CABO BRANCO HD²
+
+
+#EXTINF:-1,GLOBO TV CABO BRANCO Media Qualidade²
 http://c2n.one:80/testsquinta/testequinta82134/288739
-#EXTINF:-1,GLOBO TV DIARIO MOGI DAS CRUZES FULLHD
+
+
+#EXTINF:-1,GLOBO TV DIARIO MOGI DAS CRUZES Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/290600
-#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
+
+
+#EXTINF:-1,GLOBO TV LIBERAL BELEM Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288710
-#EXTINF:-1,GLOBO TV MORENA  HD
+
+
+#EXTINF:-1,GLOBO TV MORENA  Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288711
-#EXTINF:-1,GLOBO TV SERGIPE FULLHD
+
+
+#EXTINF:-1,GLOBO TV SERGIPE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288733
-#EXTINF:-1,GLOBO TV SERGIPE HD
+
+
+#EXTINF:-1,GLOBO TV SERGIPE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288712
-#EXTINF:-1,GLOBO TV TEM BAURU SD
+
+
+#EXTINF:-1,GLOBO TV TEM BAURU Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288713
-#EXTINF:-1,GLOBO TV TEM RIO PRETO HD
+
+
+#EXTINF:-1,GLOBO TV TEM RIO PRETO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288714
-#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+
+
+#EXTINF:-1,GLOBO TV TEM SOROCABA Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288722
-#EXTINF:-1,GLOBO TV VANGUARDA S.J DOS CAMPOS SD
+
+
+#EXTINF:-1,GLOBO TV VANGUARDA S.J DOS CAMPOS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288723
-#EXTINF:-1,GLOBO TV VERDE MARES FULLHD
+
+
+#EXTINF:-1,GLOBO TV VERDE MARES Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298893
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
+
+
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288724
-#EXTINF:-1,GLOBOSAT HD - ALT
+
+
+#EXTINF:-1,GLOBOSAT Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198370
-#EXTINF:-1,GLOOB FULLHD
+
+
+#EXTINF:-1,GLOOB Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208975
-#EXTINF:-1,GLOOB FULLHD H265
+
+
+#EXTINF:-1,GLOOB Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275142
-#EXTINF:-1,GLOOB HD
+
+
+#EXTINF:-1,GLOOB Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208976
-#EXTINF:-1,GLOOB HD - ALT
+
+
+#EXTINF:-1,GLOOB Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198369
-#EXTINF:-1,GLOOB SD
+
+
+#EXTINF:-1,GLOOB Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132431
-#EXTINF:-1,GLOOBINHO FULLHD
+
+
+#EXTINF:-1,GLOOBINHO Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208978
-#EXTINF:-1,GLOOBINHO HD
+
+
+#EXTINF:-1,GLOOBINHO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208979
-#EXTINF:-1,GLOOBINHO SD
+
+
+#EXTINF:-1,GLOOBINHO Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208980
-#EXTINF:-1,GNT FULLHD
+
+
+#EXTINF:-1,GNT Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208981
-#EXTINF:-1,GNT FULLHD H265
+
+
+#EXTINF:-1,GNT Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275151
-#EXTINF:-1,GNT HD
+
+
+#EXTINF:-1,GNT Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208982
-#EXTINF:-1,GNT HD - ALT
+
+
+#EXTINF:-1,GNT Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198368
-#EXTINF:-1,GNT SD
+
+
+#EXTINF:-1,GNT Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208983
+
+
 #EXTINF:-1,GOLF CHANNEL
 http://c2n.one:80/testsquinta/testequinta82134/231371
+
+
 #EXTINF:-1,GOSPEL CARTOON
 http://c2n.one:80/testsquinta/testequinta82134/98311
-#EXTINF:-1,H2 FULLHD
+
+
+#EXTINF:-1,H2 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209011
-#EXTINF:-1,H2 FULLHD H265
+
+
+#EXTINF:-1,H2 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275104
-#EXTINF:-1,H2 HD
+
+
+#EXTINF:-1,H2 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209012
-#EXTINF:-1,H2 HD - ALT
+
+
+#EXTINF:-1,H2 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198367
-#EXTINF:-1,H2 SD
+
+
+#EXTINF:-1,H2 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209013
-#EXTINF:-1,HBO + FULLHD
+
+
+#EXTINF:-1,HBO + Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208984
-#EXTINF:-1,HBO + FULLHD H265
+
+
+#EXTINF:-1,HBO + Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275112
-#EXTINF:-1,HBO + HD
+
+
+#EXTINF:-1,HBO + Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208985
-#EXTINF:-1,HBO + HD (DUAL AUDIO)
+
+
+#EXTINF:-1,HBO + Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230879
-#EXTINF:-1,HBO + HD - ALT
+
+
+#EXTINF:-1,HBO + Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198366
-#EXTINF:-1,HBO + SD
+
+
+#EXTINF:-1,HBO + Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208986
-#EXTINF:-1,HBO 1 FULLHD
+
+
+#EXTINF:-1,HBO 1 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208993
-#EXTINF:-1,HBO 1 FULLHD H265
+
+
+#EXTINF:-1,HBO 1 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275111
-#EXTINF:-1,HBO 1 HD
+
+
+#EXTINF:-1,HBO 1 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208994
-#EXTINF:-1,HBO 1 HD (DUAL AUDIO)
+
+
+#EXTINF:-1,HBO 1 Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230877
-#EXTINF:-1,HBO 1 HD - ALT
+
+
+#EXTINF:-1,HBO 1 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198363
-#EXTINF:-1,HBO 1 SD
+
+
+#EXTINF:-1,HBO 1 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209001
-#EXTINF:-1,HBO 2 FULLHD
+
+
+#EXTINF:-1,HBO 2 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208987
-#EXTINF:-1,HBO 2 FULLHD H265
+
+
+#EXTINF:-1,HBO 2 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275114
-#EXTINF:-1,HBO 2 HD
+
+
+#EXTINF:-1,HBO 2 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208988
-#EXTINF:-1,HBO 2 HD (DUAL AUDIO)
+
+
+#EXTINF:-1,HBO 2 Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230878
-#EXTINF:-1,HBO 2 HD - ALT
+
+
+#EXTINF:-1,HBO 2 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198365
-#EXTINF:-1,HBO 2 SD
+
+
+#EXTINF:-1,HBO 2 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208989
-#EXTINF:-1,HBO FAMILLY FULLHD H265
+
+
+#EXTINF:-1,HBO FAMILLY Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275110
-#EXTINF:-1,HBO FAMILY FULLHD
+
+
+#EXTINF:-1,HBO FAMILY Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208990
-#EXTINF:-1,HBO FAMILY HD
+
+
+#EXTINF:-1,HBO FAMILY Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208991
-#EXTINF:-1,HBO FAMILY HD (DUAL AUDIO)
+
+
+#EXTINF:-1,HBO FAMILY Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230882
-#EXTINF:-1,HBO FAMILY HD - ALT
+
+
+#EXTINF:-1,HBO FAMILY Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198364
-#EXTINF:-1,HBO FAMILY SD
+
+
+#EXTINF:-1,HBO FAMILY Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208992
+
+
 #EXTINF:-1,HBO MAX 1¹
 http://c2n.one:80/testsquinta/testequinta82134/296868
+
+
 #EXTINF:-1,HBO MAX 2¹
 http://c2n.one:80/testsquinta/testequinta82134/296867
+
+
 #EXTINF:-1,HBO MAX 3¹
 http://c2n.one:80/testsquinta/testequinta82134/296866
+
+
 #EXTINF:-1,HBO MAX 4¹
 http://c2n.one:80/testsquinta/testequinta82134/296865
-#EXTINF:-1,HBO MUNDI FULLHD
+
+
+#EXTINF:-1,HBO MUNDI Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208995
-#EXTINF:-1,HBO MUNDI FULLHD H265
+
+
+#EXTINF:-1,HBO MUNDI Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275115
-#EXTINF:-1,HBO MUNDI HD
+
+
+#EXTINF:-1,HBO MUNDI Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208996
-#EXTINF:-1,HBO MUNDI HD - ALT
+
+
+#EXTINF:-1,HBO MUNDI Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198362
-#EXTINF:-1,HBO MUNDI SD
+
+
+#EXTINF:-1,HBO MUNDI Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208997
-#EXTINF:-1,HBO POP FULLHD
+
+
+#EXTINF:-1,HBO POP Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208998
-#EXTINF:-1,HBO POP FULLHD H265
+
+
+#EXTINF:-1,HBO POP Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275117
-#EXTINF:-1,HBO POP HD
+
+
+#EXTINF:-1,HBO POP Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208999
-#EXTINF:-1,HBO POP HD (DUAL AUDIO)
+
+
+#EXTINF:-1,HBO POP Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230884
-#EXTINF:-1,HBO POP HD - ALT
+
+
+#EXTINF:-1,HBO POP Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198361
-#EXTINF:-1,HBO POP SD
+
+
+#EXTINF:-1,HBO POP Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209000
-#EXTINF:-1,HBO SIGNATURE FULLHD
+
+
+#EXTINF:-1,HBO SIGNATURE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209002
-#EXTINF:-1,HBO SIGNATURE FULLHD H265
+
+
+#EXTINF:-1,HBO SIGNATURE Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275113
-#EXTINF:-1,HBO SIGNATURE HD
+
+
+#EXTINF:-1,HBO SIGNATURE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209003
-#EXTINF:-1,HBO SIGNATURE HD (DUAL AUDIO)
+
+
+#EXTINF:-1,HBO SIGNATURE Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230883
-#EXTINF:-1,HBO SIGNATURE HD - ALT
+
+
+#EXTINF:-1,HBO SIGNATURE Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198360
-#EXTINF:-1,HBO SIGNATURE SD
+
+
+#EXTINF:-1,HBO SIGNATURE Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209004
-#EXTINF:-1,HBO XTREME FULLHD
+
+
+#EXTINF:-1,HBO XTREME Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209005
-#EXTINF:-1,HBO XTREME FULLHD H265
+
+
+#EXTINF:-1,HBO XTREME Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275116
-#EXTINF:-1,HBO XTREME HD
+
+
+#EXTINF:-1,HBO XTREME Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209006
-#EXTINF:-1,HBO XTREME HD - ALT
+
+
+#EXTINF:-1,HBO XTREME Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198359
-#EXTINF:-1,HBO XTREME SD
+
+
+#EXTINF:-1,HBO XTREME Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209007
-#EXTINF:-1,HGTV FULLHD
+
+
+#EXTINF:-1,HGTV Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209008
-#EXTINF:-1,HGTV FULLHD H265
+
+
+#EXTINF:-1,HGTV Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275096
-#EXTINF:-1,HGTV HD
+
+
+#EXTINF:-1,HGTV Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209009
-#EXTINF:-1,HGTV HD - ALT
+
+
+#EXTINF:-1,HGTV Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198358
+
+
 #EXTINF:-1,HGTV HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230841
-#EXTINF:-1,HGTV SD
+
+
+#EXTINF:-1,HGTV Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209010
-#EXTINF:-1,HISTORY CHANNEL FULLHD
+
+
+#EXTINF:-1,HISTORY CHANNEL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209014
-#EXTINF:-1,HISTORY CHANNEL FULLHD H265
+
+
+#EXTINF:-1,HISTORY CHANNEL Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275103
-#EXTINF:-1,HISTORY CHANNEL HD
+
+
+#EXTINF:-1,HISTORY CHANNEL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209015
-#EXTINF:-1,HISTORY CHANNEL SD
+
+
+#EXTINF:-1,HISTORY CHANNEL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209016
-#EXTINF:-1,HISTORY HD
+
+
+#EXTINF:-1,HISTORY Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/40017
+
+
 #EXTINF:-1,IGREJA MUNDIAL DO PODER DE DEUS - IMPD
 http://c2n.one:80/testsquinta/testequinta82134/284295
-#EXTINF:-1,INTER TV CABO FRIO HD
+
+
+#EXTINF:-1,INTER TV CABO FRIO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297923
-#EXTINF:-1,INTER TV RJ FULLHD ( REGIAO SERRANA)
+
+
+#EXTINF:-1,INTER TV RJ Alta Qualidade ( REGIAO SERRANA)
 http://c2n.one:80/testsquinta/testequinta82134/297925
-#EXTINF:-1,INTER TV RJ HD (REGIAO SERRANA)
+
+
+#EXTINF:-1,INTER TV RJ Media Qualidade (REGIAO SERRANA)
 http://c2n.one:80/testsquinta/testequinta82134/297924
-#EXTINF:-1,INVESTIGATION DISCOVERY FULLHD
+
+
+#EXTINF:-1,INVESTIGATION DISCOVERY Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209017
-#EXTINF:-1,INVESTIGATION DISCOVERY FULLHD H265
+
+
+#EXTINF:-1,INVESTIGATION DISCOVERY Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275105
-#EXTINF:-1,INVESTIGATION DISCOVERY HD
+
+
+#EXTINF:-1,INVESTIGATION DISCOVERY Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209018
-#EXTINF:-1,INVESTIGATION DISCOVERY HD - ALT
+
+
+#EXTINF:-1,INVESTIGATION DISCOVERY Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198356
-#EXTINF:-1,INVESTIGATION DISCOVERY SD
+
+
+#EXTINF:-1,INVESTIGATION DISCOVERY Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209019
-#EXTINF:-1,LIFETIME FULLHD
+
+
+#EXTINF:-1,LIFETIME Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209020
-#EXTINF:-1,LIFETIME FULLHD H265
+
+
+#EXTINF:-1,LIFETIME Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275152
-#EXTINF:-1,LIFETIME HD
+
+
+#EXTINF:-1,LIFETIME Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209021
-#EXTINF:-1,LIFETIME HD - ALT
+
+
+#EXTINF:-1,LIFETIME Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198355
-#EXTINF:-1,LIFETIME SD
+
+
+#EXTINF:-1,LIFETIME Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209022
-#EXTINF:-1,LIKE FULLHD
+
+
+#EXTINF:-1,LIKE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209023
-#EXTINF:-1,LIKE HD
+
+
+#EXTINF:-1,LIKE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209024
-#EXTINF:-1,LIKE HD (DUAL AUDIO)
+
+
+#EXTINF:-1,LIKE Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230855
-#EXTINF:-1,LIKE SD
+
+
+#EXTINF:-1,LIKE Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209025
+
+
 #EXTINF:-1,LOADING TV
 http://c2n.one:80/testsquinta/testequinta82134/109710
-#EXTINF:-1,LOVE NATURE FULLHD
+
+
+#EXTINF:-1,LOVE NATURE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/275164
-#EXTINF:-1,MAIS GLOBOSAT FULLHD
+
+
+#EXTINF:-1,MAIS GLOBOSAT Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132217
-#EXTINF:-1,MAIS GLOBOSAT FULLHD H265
+
+
+#EXTINF:-1,MAIS GLOBOSAT Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275150
-#EXTINF:-1,MAIS GLOBOSAT HD
+
+
+#EXTINF:-1,MAIS GLOBOSAT Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/100770
-#EXTINF:-1,MAIS GLOBOSAT SD
+
+
+#EXTINF:-1,MAIS GLOBOSAT Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132460
-#EXTINF:-1,MAIS NA TELA FULLHD
+
+
+#EXTINF:-1,MAIS NA TELA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209026
-#EXTINF:-1,MAIS NA TELA HD
+
+
+#EXTINF:-1,MAIS NA TELA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209027
-#EXTINF:-1,MEGAPIX FULLHD
+
+
+#EXTINF:-1,MEGAPIX Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209029
-#EXTINF:-1,MEGAPIX FULLHD H265
+
+
+#EXTINF:-1,MEGAPIX Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275124
-#EXTINF:-1,MEGAPIX HD
+
+
+#EXTINF:-1,MEGAPIX Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209030
-#EXTINF:-1,MEGAPIX HD - ALT
+
+
+#EXTINF:-1,MEGAPIX Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198354
-#EXTINF:-1,MEGAPIX SD
+
+
+#EXTINF:-1,MEGAPIX Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209031
+
+
 #EXTINF:-1,MLB NETWORK
 http://c2n.one:80/testsquinta/testequinta82134/231373
-#EXTINF:-1,MTV FULLHD
+
+
+#EXTINF:-1,MTV Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209032
-#EXTINF:-1,MTV FULLHD H265
+
+
+#EXTINF:-1,MTV Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275153
-#EXTINF:-1,MTV HD
+
+
+#EXTINF:-1,MTV Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209033
-#EXTINF:-1,MTV HD - ALT
+
+
+#EXTINF:-1,MTV Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198353
-#EXTINF:-1,MTV LIVE FULLHD
+
+
+#EXTINF:-1,MTV LIVE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209034
-#EXTINF:-1,MTV LIVE HD
+
+
+#EXTINF:-1,MTV LIVE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209035
-#EXTINF:-1,MTV LIVE SD
+
+
+#EXTINF:-1,MTV LIVE Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209036
-#EXTINF:-1,MTV SD
+
+
+#EXTINF:-1,MTV Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209037
-#EXTINF:-1,MULTISHOW FULLHD
+
+
+#EXTINF:-1,MULTISHOW Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298896
-#EXTINF:-1,MULTISHOW FULLHD H265
+
+
+#EXTINF:-1,MULTISHOW Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275154
-#EXTINF:-1,MULTISHOW HD - ALT
+
+
+#EXTINF:-1,MULTISHOW Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198348
-#EXTINF:-1,MULTSHOW FULLHD
+
+
+#EXTINF:-1,MULTSHOW Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209038
-#EXTINF:-1,MULTSHOW HD
+
+
+#EXTINF:-1,MULTSHOW Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209039
-#EXTINF:-1,MULTSHOW HD
+
+
+#EXTINF:-1,MULTSHOW Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/100771
-#EXTINF:-1,MULTSHOW SD
+
+
+#EXTINF:-1,MULTSHOW Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209040
-#EXTINF:-1,MUSIC BOX BRASIL FULLHD
+
+
+#EXTINF:-1,MUSIC BOX BRASIL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132221
-#EXTINF:-1,MUSIC BOX BRAZIL FULLHD
+
+
+#EXTINF:-1,MUSIC BOX BRAZIL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209194
-#EXTINF:-1,MUSIC BOX BRAZIL HD
+
+
+#EXTINF:-1,MUSIC BOX BRAZIL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209195
-#EXTINF:-1,MUSIC BOX BRAZIL SD
+
+
+#EXTINF:-1,MUSIC BOX BRAZIL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209196
-#EXTINF:-1,NAT GEO KIDS FULLHD
+
+
+#EXTINF:-1,NAT GEO KIDS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209041
-#EXTINF:-1,NAT GEO KIDS HD
+
+
+#EXTINF:-1,NAT GEO KIDS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209042
-#EXTINF:-1,NAT GEO KIDS SD
+
+
+#EXTINF:-1,NAT GEO KIDS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209043
-#EXTINF:-1,NATGEO FULLHD
+
+
+#EXTINF:-1,NATGEO Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209047
-#EXTINF:-1,NATGEO FULLHD H265
+
+
+#EXTINF:-1,NATGEO Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275106
-#EXTINF:-1,NATGEO HD
+
+
+#EXTINF:-1,NATGEO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209048
-#EXTINF:-1,NATGEO KIDS FULLHD H265
+
+
+#EXTINF:-1,NATGEO KIDS Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275143
-#EXTINF:-1,NATGEO KIDS HD - ALT
+
+
+#EXTINF:-1,NATGEO KIDS Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198347
-#EXTINF:-1,NATGEO SD
+
+
+#EXTINF:-1,NATGEO Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209049
-#EXTINF:-1,NATGEO WILD FULLHD
+
+
+#EXTINF:-1,NATGEO WILD Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209044
-#EXTINF:-1,NATGEO WILD FULLHD H265
+
+
+#EXTINF:-1,NATGEO WILD Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275107
-#EXTINF:-1,NATGEO WILD HD
+
+
+#EXTINF:-1,NATGEO WILD Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209045
-#EXTINF:-1,NATGEO WILD HD - ALT
+
+
+#EXTINF:-1,NATGEO WILD Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198346
-#EXTINF:-1,NATGEO WILD SD
+
+
+#EXTINF:-1,NATGEO WILD Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209046
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD - ALT
+
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198345
+
+
 #EXTINF:-1,NBA TV
 http://c2n.one:80/testsquinta/testequinta82134/231374
-#EXTINF:-1,NFL NETWORK HD
+
+
+#EXTINF:-1,NFL NETWORK Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/231375
-#EXTINF:-1,NHK JAPÃO  HD
+
+
+#EXTINF:-1,NHK JAPÃO  Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/99367
-#EXTINF:-1,NICK JR FULLHD
+
+
+#EXTINF:-1,NICK JR Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209050
-#EXTINF:-1,NICK JR HD
+
+
+#EXTINF:-1,NICK JR Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209051
-#EXTINF:-1,NICK JR HD - ALT
+
+
+#EXTINF:-1,NICK JR Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198344
-#EXTINF:-1,NICK JR SD
+
+
+#EXTINF:-1,NICK JR Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209052
-#EXTINF:-1,NICKELODEON FULLHD
+
+
+#EXTINF:-1,NICKELODEON Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209053
-#EXTINF:-1,NICKELODEON FULLHD H265
+
+
+#EXTINF:-1,NICKELODEON Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275144
-#EXTINF:-1,NICKELODEON HD
+
+
+#EXTINF:-1,NICKELODEON Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209054
-#EXTINF:-1,NICKELODEON HD - ALT
+
+
+#EXTINF:-1,NICKELODEON Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198343
-#EXTINF:-1,NICKELODEON SD
+
+
+#EXTINF:-1,NICKELODEON Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209055
-#EXTINF:-1,NICKJR FULLHD H265
+
+
+#EXTINF:-1,NICKJR Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275145
-#EXTINF:-1,NSC TV CHAPECO FULLHD
+
+
+#EXTINF:-1,NSC TV CHAPECO Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297910
-#EXTINF:-1,NSC TV CHAPECO HD
+
+
+#EXTINF:-1,NSC TV CHAPECO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297909
-#EXTINF:-1,NSC TV JOI FULLHD
+
+
+#EXTINF:-1,NSC TV JOI Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297913
-#EXTINF:-1,NSC TV JOI HD
+
+
+#EXTINF:-1,NSC TV JOI Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297914
-#EXTINF:-1,NSC TV SANTA CATARINA HD
+
+
+#EXTINF:-1,NSC TV SANTA CATARINA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297911
-#EXTINF:-1,OFF FULLHD
+
+
+#EXTINF:-1,OFF Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209056
-#EXTINF:-1,OFF FULLHD H265
+
+
+#EXTINF:-1,OFF Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275092
-#EXTINF:-1,OFF HD
+
+
+#EXTINF:-1,OFF Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209057
-#EXTINF:-1,OFF HD - ALT
+
+
+#EXTINF:-1,OFF Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198342
-#EXTINF:-1,OFF SD
+
+
+#EXTINF:-1,OFF Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209058
-#EXTINF:-1,PAI ETERNO FULLHD
+
+
+#EXTINF:-1,PAI ETERNO Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209059
-#EXTINF:-1,PAI ETERNO HD
+
+
+#EXTINF:-1,PAI ETERNO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209060
-#EXTINF:-1,PARAMOUNT CHANNEL HD - ALT
+
+
+#EXTINF:-1,PARAMOUNT CHANNEL Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198341
-#EXTINF:-1,PARAMOUNT FULLHD H265
+
+
+#EXTINF:-1,PARAMOUNT Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275125
-#EXTINF:-1,PARAMOUNT NETWORK FULLHD
+
+
+#EXTINF:-1,PARAMOUNT NETWORK Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209062
-#EXTINF:-1,PARAMOUNT NETWORK HD
+
+
+#EXTINF:-1,PARAMOUNT NETWORK Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209063
-#EXTINF:-1,PARAMOUNT NETWORK SD
+
+
+#EXTINF:-1,PARAMOUNT NETWORK Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209064
+
+
 #EXTINF:-1,PLAY GOSPEL TV
 http://c2n.one:80/testsquinta/testequinta82134/210500
-#EXTINF:-1,PLAY TV FULLHD
+
+
+#EXTINF:-1,PLAY TV Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132230
-#EXTINF:-1,PREMIERE 1 CLUBES FULLHD
+
+
+#EXTINF:-1,PREMIERE 1 CLUBES Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209086
-#EXTINF:-1,PREMIERE 1 CLUBES FULLHD H265
+
+
+#EXTINF:-1,PREMIERE 1 CLUBES Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275074
-#EXTINF:-1,PREMIERE 1 CLUBES HD
+
+
+#EXTINF:-1,PREMIERE 1 CLUBES Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209087
-#EXTINF:-1,PREMIERE 1 CLUBES HD (DUAL AUDIO)
+
+
+#EXTINF:-1,PREMIERE 1 CLUBES Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230871
-#EXTINF:-1,PREMIERE 1 CLUBES HD - ALT
+
+
+#EXTINF:-1,PREMIERE 1 CLUBES Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198336
+
+
 #EXTINF:-1,PREMIERE 1 CLUBES HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230872
-#EXTINF:-1,PREMIERE 1 CLUBES SD
+
+
+#EXTINF:-1,PREMIERE 1 CLUBES Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209088
-#EXTINF:-1,PREMIERE 2 FULLHD
+
+
+#EXTINF:-1,PREMIERE 2 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209068
-#EXTINF:-1,PREMIERE 2 FULLHD H265
+
+
+#EXTINF:-1,PREMIERE 2 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275075
-#EXTINF:-1,PREMIERE 2 HD
+
+
+#EXTINF:-1,PREMIERE 2 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209069
-#EXTINF:-1,PREMIERE 2 HD (DUAL AUDIO)
+
+
+#EXTINF:-1,PREMIERE 2 Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230873
-#EXTINF:-1,PREMIERE 2 HD - ALT
+
+
+#EXTINF:-1,PREMIERE 2 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198340
-#EXTINF:-1,PREMIERE 2 SD
+
+
+#EXTINF:-1,PREMIERE 2 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209070
-#EXTINF:-1,PREMIERE 3 FULLHD
+
+
+#EXTINF:-1,PREMIERE 3 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209071
-#EXTINF:-1,PREMIERE 3 FULLHD H265
+
+
+#EXTINF:-1,PREMIERE 3 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275076
-#EXTINF:-1,PREMIERE 3 HD
+
+
+#EXTINF:-1,PREMIERE 3 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209072
-#EXTINF:-1,PREMIERE 3 HD - ALT
+
+
+#EXTINF:-1,PREMIERE 3 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198339
-#EXTINF:-1,PREMIERE 3 SD
+
+
+#EXTINF:-1,PREMIERE 3 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209073
-#EXTINF:-1,PREMIERE 4 FULLHD
+
+
+#EXTINF:-1,PREMIERE 4 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209074
-#EXTINF:-1,PREMIERE 4 FULLHD H265
+
+
+#EXTINF:-1,PREMIERE 4 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275077
-#EXTINF:-1,PREMIERE 4 HD
+
+
+#EXTINF:-1,PREMIERE 4 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209075
-#EXTINF:-1,PREMIERE 4 HD - ALT
+
+
+#EXTINF:-1,PREMIERE 4 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/211287
-#EXTINF:-1,PREMIERE 4 SD
+
+
+#EXTINF:-1,PREMIERE 4 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209076
-#EXTINF:-1,PREMIERE 5 FULLHD
+
+
+#EXTINF:-1,PREMIERE 5 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209077
-#EXTINF:-1,PREMIERE 5 FULLHD H265
+
+
+#EXTINF:-1,PREMIERE 5 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275078
-#EXTINF:-1,PREMIERE 5 HD
+
+
+#EXTINF:-1,PREMIERE 5 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209078
-#EXTINF:-1,PREMIERE 5 HD (DUAL AUDIO)
+
+
+#EXTINF:-1,PREMIERE 5 Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230874
-#EXTINF:-1,PREMIERE 5 HD - ALT
+
+
+#EXTINF:-1,PREMIERE 5 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198337
-#EXTINF:-1,PREMIERE 5 SD
+
+
+#EXTINF:-1,PREMIERE 5 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209079
-#EXTINF:-1,PREMIERE 6 FULLHD
+
+
+#EXTINF:-1,PREMIERE 6 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209080
-#EXTINF:-1,PREMIERE 6 FULLHD H265
+
+
+#EXTINF:-1,PREMIERE 6 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275079
-#EXTINF:-1,PREMIERE 6 HD
+
+
+#EXTINF:-1,PREMIERE 6 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209081
-#EXTINF:-1,PREMIERE 6 SD
+
+
+#EXTINF:-1,PREMIERE 6 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209082
-#EXTINF:-1,PREMIERE 7 FULLHD
+
+
+#EXTINF:-1,PREMIERE 7 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209083
-#EXTINF:-1,PREMIERE 7 FULLHD H265
+
+
+#EXTINF:-1,PREMIERE 7 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275080
-#EXTINF:-1,PREMIERE 7 HD
+
+
+#EXTINF:-1,PREMIERE 7 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209084
-#EXTINF:-1,PREMIERE 7 SD
+
+
+#EXTINF:-1,PREMIERE 7 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209085
+
+
 #EXTINF:-1,PREMIERE 8
 http://c2n.one:80/testsquinta/testequinta82134/215825
-#EXTINF:-1,PRIME BOX BRASIL FULLHD
+
+
+#EXTINF:-1,PRIME BOX BRASIL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209089
-#EXTINF:-1,PRIME BOX BRASIL HD
+
+
+#EXTINF:-1,PRIME BOX BRASIL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209090
-#EXTINF:-1,PRIME BOX BRASIL SD
+
+
+#EXTINF:-1,PRIME BOX BRASIL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209091
+
+
 #EXTINF:-1,Radio Vitória 87.9 FM Contagem / MG - Brasil
 http://c2n.one:80/testsquinta/testequinta82134/282277
-#EXTINF:-1,RBS CAXIAS FULLHD
+
+
+#EXTINF:-1,RBS CAXIAS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297893
-#EXTINF:-1,RBS CAXIAS HD
+
+
+#EXTINF:-1,RBS CAXIAS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297892
-#EXTINF:-1,RBS HD
+
+
+#EXTINF:-1,RBS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297891
-#EXTINF:-1,RBS PASSO FUNDO FULLHD
+
+
+#EXTINF:-1,RBS PASSO FUNDO Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297897
-#EXTINF:-1,RBS PASSO FUNDO HD
+
+
+#EXTINF:-1,RBS PASSO FUNDO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297896
-#EXTINF:-1,RBS PELOTAS FULLHD
+
+
+#EXTINF:-1,RBS PELOTAS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297894
-#EXTINF:-1,RBS PELOTAS HD
+
+
+#EXTINF:-1,RBS PELOTAS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297895
+
+
 #EXTINF:-1,RBS TV CAXIAS DO SUL
 http://c2n.one:80/testsquinta/testequinta82134/288717
+
+
 #EXTINF:-1,RBS TV PELOTAS
 http://c2n.one:80/testsquinta/testequinta82134/288716
-#EXTINF:-1,RBS TV PORTO ALEGRE FULLHD
+
+
+#EXTINF:-1,RBS TV PORTO ALEGRE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288687
+
+
 #EXTINF:-1,RBSTV STA MARIA
 http://c2n.one:80/testsquinta/testequinta82134/288677
+
+
 #EXTINF:-1,RCN SPORTS (COL)
 http://c2n.one:80/testsquinta/testequinta82134/231376
-#EXTINF:-1,RECORD BRASILIA HD*
+
+
+#EXTINF:-1,RECORD BRASILIA Media Qualidade*
 http://c2n.one:80/testsquinta/testequinta82134/211782
-#EXTINF:-1,RECORD CAMPINAS HD
+
+
+#EXTINF:-1,RECORD CAMPINAS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211771
-#EXTINF:-1,RECORD CAMPINAS HD*
+
+
+#EXTINF:-1,RECORD CAMPINAS Media Qualidade*
 http://c2n.one:80/testsquinta/testequinta82134/211783
-#EXTINF:-1,RECORD CAMPINAS SD
+
+
+#EXTINF:-1,RECORD CAMPINAS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211772
-#EXTINF:-1,RECORD ESP. SANTO SD
+
+
+#EXTINF:-1,RECORD ESP. SANTO Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211774
-#EXTINF:-1,RECORD FULLHD
+
+
+#EXTINF:-1,RECORD Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298891
-#EXTINF:-1,RECORD MG HD*
+
+
+#EXTINF:-1,RECORD MG Media Qualidade*
 http://c2n.one:80/testsquinta/testequinta82134/211785
-#EXTINF:-1,RECORD NEWS FULLHD
+
+
+#EXTINF:-1,RECORD NEWS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132240
-#EXTINF:-1,RECORD NEWS HD
+
+
+#EXTINF:-1,RECORD NEWS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/39936
-#EXTINF:-1,RECORD NEWS HD - ALT
+
+
+#EXTINF:-1,RECORD NEWS Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198334
-#EXTINF:-1,RECORD NEWS SD
+
+
+#EXTINF:-1,RECORD NEWS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132475
-#EXTINF:-1,RECORD NORDESTE HD
+
+
+#EXTINF:-1,RECORD NORDESTE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211776
-#EXTINF:-1,RECORD RJ HD
+
+
+#EXTINF:-1,RECORD RJ Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211777
-#EXTINF:-1,RECORD RJ SD*
+
+
+#EXTINF:-1,RECORD RJ Baixa Qualidade*
 http://c2n.one:80/testsquinta/testequinta82134/211788
-#EXTINF:-1,RECORD RS HD*
+
+
+#EXTINF:-1,RECORD RS Media Qualidade*
 http://c2n.one:80/testsquinta/testequinta82134/211789
-#EXTINF:-1,RECORD SP HD
+
+
+#EXTINF:-1,RECORD SP Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211779
-#EXTINF:-1,RECORD SP HD*
+
+
+#EXTINF:-1,RECORD SP Media Qualidade*
 http://c2n.one:80/testsquinta/testequinta82134/211790
-#EXTINF:-1,RECORD SP SD
+
+
+#EXTINF:-1,RECORD SP Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211780
-#EXTINF:-1,RECORD TV BAHIA HD
+
+
+#EXTINF:-1,RECORD TV BAHIA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211763
-#EXTINF:-1,RECORD TV BELEM HD
+
+
+#EXTINF:-1,RECORD TV BELEM Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211764
-#EXTINF:-1,RECORD TV BRASÍLIA HD
+
+
+#EXTINF:-1,RECORD TV BRASÍLIA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211754
-#EXTINF:-1,RECORD TV CABRALIA HD*
+
+
+#EXTINF:-1,RECORD TV CABRALIA Media Qualidade*
 http://c2n.one:80/testsquinta/testequinta82134/211792
-#EXTINF:-1,RECORD TV FULLHD
+
+
+#EXTINF:-1,RECORD TV Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211745
-#EXTINF:-1,RECORD TV GOIÂNIA HD
+
+
+#EXTINF:-1,RECORD TV GOIÂNIA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211765
-#EXTINF:-1,RECORD TV HD
+
+
+#EXTINF:-1,RECORD TV Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/226774
-#EXTINF:-1,RECORD TV INTERIOR RIBEIRAO FULL HD
+
+
+#EXTINF:-1,RECORD TV INTERIOR RIBEIRAO Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211769
-#EXTINF:-1,RECORD TV MANUAS HD
+
+
+#EXTINF:-1,RECORD TV MANUAS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211750
-#EXTINF:-1,RECORD TV MINAS HD
+
+
+#EXTINF:-1,RECORD TV MINAS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211766
-#EXTINF:-1,RECORD TV RJ HD
+
+
+#EXTINF:-1,RECORD TV RJ Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211753
-#EXTINF:-1,RECORD TV RS FULLHD
+
+
+#EXTINF:-1,RECORD TV RS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/226773
-#EXTINF:-1,RECORD TV SP HD
+
+
+#EXTINF:-1,RECORD TV SP Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211758
-#EXTINF:-1,RECORD TV SP SD
+
+
+#EXTINF:-1,RECORD TV SP Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211768
+
+
 #EXTINF:-1,RED BULL TV
 http://c2n.one:80/testsquinta/testequinta82134/231377
-#EXTINF:-1,REDE AMAZONICA BOA VISTA RORAIMA FULLHD
+
+
+#EXTINF:-1,REDE AMAZONICA BOA VISTA RORAIMA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297946
-#EXTINF:-1,REDE AMAZONICA BOA VISTA RORAIMA HD
+
+
+#EXTINF:-1,REDE AMAZONICA BOA VISTA RORAIMA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297945
-#EXTINF:-1,REDE AMAZONICA FULLHD
+
+
+#EXTINF:-1,REDE AMAZONICA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288673
-#EXTINF:-1,REDE AMAZONICA HD
+
+
+#EXTINF:-1,REDE AMAZONICA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288672
-#EXTINF:-1,REDE AMAZONICA PORTO VELHO FULLHD
+
+
+#EXTINF:-1,REDE AMAZONICA PORTO VELHO Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297950
-#EXTINF:-1,REDE AMAZONICA PORTO VELHO HD
+
+
+#EXTINF:-1,REDE AMAZONICA PORTO VELHO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297949
+
+
 #EXTINF:-1,REDE GENISIS FHULLD
 http://c2n.one:80/testsquinta/testequinta82134/132241
-#EXTINF:-1,REDE GOSPEL FULLHD
+
+
+#EXTINF:-1,REDE GOSPEL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/39869
-#EXTINF:-1,REDE SUPER FULLHD
+
+
+#EXTINF:-1,REDE SUPER Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132242
-#EXTINF:-1,REDE TV FULLHD
+
+
+#EXTINF:-1,REDE TV Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132243
-#EXTINF:-1,REDE TV HD
+
+
+#EXTINF:-1,REDE TV Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/39920
-#EXTINF:-1,REDE TV HD - ALT
+
+
+#EXTINF:-1,REDE TV Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198330
+
+
 #EXTINF:-1,REDE TV SUL1
 http://c2n.one:80/testsquinta/testequinta82134/111098
-#EXTINF:-1,REDE VIDA FULLHD
+
+
+#EXTINF:-1,REDE VIDA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209092
-#EXTINF:-1,REDE VIDA HD
+
+
+#EXTINF:-1,REDE VIDA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209093
-#EXTINF:-1,REDE VIDA HD - ALT
+
+
+#EXTINF:-1,REDE VIDA Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198329
-#EXTINF:-1,RIT FULLHD
+
+
+#EXTINF:-1,RIT Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/211744
+
+
 #EXTINF:-1,ROCK TV
 http://c2n.one:80/testsquinta/testequinta82134/283277
-#EXTINF:-1,RPC CASCAVEL FULLHD
+
+
+#EXTINF:-1,RPC CASCAVEL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288671
-#EXTINF:-1,RPC CASCAVEL HD
+
+
+#EXTINF:-1,RPC CASCAVEL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288670
-#EXTINF:-1,RPC CURITIBA FULLHD
+
+
+#EXTINF:-1,RPC CURITIBA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297918
-#EXTINF:-1,RPC CURITIBA HD
+
+
+#EXTINF:-1,RPC CURITIBA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297917
-#EXTINF:-1,RPC FOZ DO IGUAÇU FULLHD
+
+
+#EXTINF:-1,RPC FOZ DO IGUAÇU Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297921
-#EXTINF:-1,RPC FOZ DO IGUAÇU HD
+
+
+#EXTINF:-1,RPC FOZ DO IGUAÇU Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297922
-#EXTINF:-1,RPC PARANA HD
+
+
+#EXTINF:-1,RPC PARANA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297919
-#EXTINF:-1,RPC PARANAVAI FULLHD
+
+
+#EXTINF:-1,RPC PARANAVAI Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297915
-#EXTINF:-1,RPC PARANAVAI HD
+
+
+#EXTINF:-1,RPC PARANAVAI Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297916
+
+
 #EXTINF:-1,RPC TV CURITIBA
 http://c2n.one:80/testsquinta/testequinta82134/297920
+
+
 #EXTINF:-1,Rádio Alternativa FM 104.9 Lucas do Rio Verde / MT - Brasil
 http://c2n.one:80/testsquinta/testequinta82134/274809
+
+
 #EXTINF:-1,Rádio FM O Dia FM 100.5 Rio de Janeiro / RJ - Brasil
 http://c2n.one:80/testsquinta/testequinta82134/298164
+
+
 #EXTINF:-1,Rádio Gaúcha AM 600 FM 93.7 Porto Alegre / RS - Brasil
 http://c2n.one:80/testsquinta/testequinta82134/206970
+
+
 #EXTINF:-1,Rádio Nativa 97.5 FM São José dos Campos / SP - Brasil
 http://c2n.one:80/testsquinta/testequinta82134/230384
+
+
 #EXTINF:-1,Rádio Saudade FM 99.7 Santos / SP - Brasil
 http://c2n.one:80/testsquinta/testequinta82134/261223
+
+
 #EXTINF:-1,Rádio Top 100.5 FM Sorocaba / SP - Brasil
 http://c2n.one:80/testsquinta/testequinta82134/211276
+
+
 #EXTINF:-1,Rádio Vale Verde FM 96.7 Itapetininga / SP - Brasil
 http://c2n.one:80/testsquinta/testequinta82134/205218
-#EXTINF:-1,SBT FULLHD
+
+
+#EXTINF:-1,SBT Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/231506
-#EXTINF:-1,SBT FULLHD
+
+
+#EXTINF:-1,SBT Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/231525
-#EXTINF:-1,SBT HD
+
+
+#EXTINF:-1,SBT Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/231505
-#EXTINF:-1,SBT PARANÁ HD²
+
+
+#EXTINF:-1,SBT PARANÁ Media Qualidade²
 http://c2n.one:80/testsquinta/testequinta82134/231519
-#EXTINF:-1,SBT RJ FULLHD²
+
+
+#EXTINF:-1,SBT RJ Alta Qualidade²
 http://c2n.one:80/testsquinta/testequinta82134/231527
-#EXTINF:-1,SBT SP SD
+
+
+#EXTINF:-1,SBT SP Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/231524
-#EXTINF:-1,SBT TV JANGADEIRO HD²
+
+
+#EXTINF:-1,SBT TV JANGADEIRO Media Qualidade²
 http://c2n.one:80/testsquinta/testequinta82134/231521
-#EXTINF:-1,SBT TV NORDESTE HD²
+
+
+#EXTINF:-1,SBT TV NORDESTE Media Qualidade²
 http://c2n.one:80/testsquinta/testequinta82134/231522
-#EXTINF:-1,SBT TV RIBEIRÃO FULLHD²
+
+
+#EXTINF:-1,SBT TV RIBEIRÃO Alta Qualidade²
 http://c2n.one:80/testsquinta/testequinta82134/231528
-#EXTINF:-1,SBT TV SERRA DOURADA HD
+
+
+#EXTINF:-1,SBT TV SERRA DOURADA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/231518
-#EXTINF:-1,SHOPTIME FULLHD
+
+
+#EXTINF:-1,SHOPTIME Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298904
-#EXTINF:-1,SHOPTIME HD
+
+
+#EXTINF:-1,SHOPTIME Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/120442
+
+
 #EXTINF:-1,SIC INTERNACIONAL²
 http://c2n.one:80/testsquinta/testequinta82134/136190
-#EXTINF:-1,SMITHSONIAN CHANNEL FULLHD
+
+
+#EXTINF:-1,SMITHSONIAN CHANNEL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209098
-#EXTINF:-1,SMITHSONIAN CHANNEL HD
+
+
+#EXTINF:-1,SMITHSONIAN CHANNEL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209099
-#EXTINF:-1,SMITHSONIAN CHANNEL  SD
+
+
+#EXTINF:-1,SMITHSONIAN CHANNEL  Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209100
-#EXTINF:-1,SONY CHANNEL FULLHD
+
+
+#EXTINF:-1,SONY CHANNEL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208885
-#EXTINF:-1,SONY CHANNEL HD
+
+
+#EXTINF:-1,SONY CHANNEL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208886
-#EXTINF:-1,SONY CHANNEL SD
+
+
+#EXTINF:-1,SONY CHANNEL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/208887
-#EXTINF:-1,SONY HD - ALT
+
+
+#EXTINF:-1,SONY Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198324
-#EXTINF:-1,SPACE FULLHD
+
+
+#EXTINF:-1,SPACE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209101
-#EXTINF:-1,SPACE FULLHD H265
+
+
+#EXTINF:-1,SPACE Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275127
-#EXTINF:-1,SPACE HD
+
+
+#EXTINF:-1,SPACE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209102
-#EXTINF:-1,SPACE HD - ALT
+
+
+#EXTINF:-1,SPACE Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198323
-#EXTINF:-1,SPACE SD
+
+
+#EXTINF:-1,SPACE Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209103
+
+
 #EXTINF:-1,SPORT TV +
 http://c2n.one:80/testsquinta/testequinta82134/231378
+
+
 #EXTINF:-1,SPORT TV 1
 http://c2n.one:80/testsquinta/testequinta82134/231379
+
+
 #EXTINF:-1,SPORT TV 2
 http://c2n.one:80/testsquinta/testequinta82134/231380
+
+
 #EXTINF:-1,SPORT TV 3
 http://c2n.one:80/testsquinta/testequinta82134/231381
+
+
 #EXTINF:-1,SPORT TV 4
 http://c2n.one:80/testsquinta/testequinta82134/231382
+
+
 #EXTINF:-1,SPORT TV 5
 http://c2n.one:80/testsquinta/testequinta82134/231383
+
+
 #EXTINF:-1,SPORT TV NBA
 http://c2n.one:80/testsquinta/testequinta82134/231384
+
+
 #EXTINF:-1,SPORTING TV
 http://c2n.one:80/testsquinta/testequinta82134/231385
-#EXTINF:-1,SPORTV 1 FULLHD
+
+
+#EXTINF:-1,SPORTV 1 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/217303
-#EXTINF:-1,SPORTV 1 FULLHD H265
+
+
+#EXTINF:-1,SPORTV 1 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275083
-#EXTINF:-1,SPORTV 1 HD
+
+
+#EXTINF:-1,SPORTV 1 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209111
-#EXTINF:-1,SPORTV 1 HD (DUAL AUDIO)
+
+
+#EXTINF:-1,SPORTV 1 Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230805
-#EXTINF:-1,SPORTV 1 HD - ALT
+
+
+#EXTINF:-1,SPORTV 1 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198320
-#EXTINF:-1,SPORTV 1 SD
+
+
+#EXTINF:-1,SPORTV 1 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209112
-#EXTINF:-1,SPORTV 1 UHD (DUAL AUDIO)
+
+
+#EXTINF:-1,SPORTV 1 UMedia Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230803
-#EXTINF:-1,SPORTV 2 FULLHD
+
+
+#EXTINF:-1,SPORTV 2 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209104
-#EXTINF:-1,SPORTV 2 FULLHD H265
+
+
+#EXTINF:-1,SPORTV 2 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275081
-#EXTINF:-1,SPORTV 2 HD
+
+
+#EXTINF:-1,SPORTV 2 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209105
-#EXTINF:-1,SPORTV 2 HD - ALT
+
+
+#EXTINF:-1,SPORTV 2 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198322
-#EXTINF:-1,SPORTV 2 SD
+
+
+#EXTINF:-1,SPORTV 2 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209106
-#EXTINF:-1,SPORTV 3 FULLHD
+
+
+#EXTINF:-1,SPORTV 3 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209107
-#EXTINF:-1,SPORTV 3 FULLHD H265
+
+
+#EXTINF:-1,SPORTV 3 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275082
-#EXTINF:-1,SPORTV 3 HD
+
+
+#EXTINF:-1,SPORTV 3 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209108
-#EXTINF:-1,SPORTV 3 HD (DUAL AUDIO)
+
+
+#EXTINF:-1,SPORTV 3 Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230862
-#EXTINF:-1,SPORTV 3 HD - ALT
+
+
+#EXTINF:-1,SPORTV 3 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198321
+
+
 #EXTINF:-1,SPORTV 3 HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230863
-#EXTINF:-1,SPORTV 3 SD
+
+
+#EXTINF:-1,SPORTV 3 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209109
-#EXTINF:-1,STAR + 02 HD
+
+
+#EXTINF:-1,STAR + 02 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298165
-#EXTINF:-1,STAR + 03 HD
+
+
+#EXTINF:-1,STAR + 03 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298166
-#EXTINF:-1,STAR CHANNEL FULLHD
+
+
+#EXTINF:-1,STAR CHANNEL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209113
-#EXTINF:-1,STAR CHANNEL FULLHD H265
+
+
+#EXTINF:-1,STAR CHANNEL Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275128
-#EXTINF:-1,STAR CHANNEL HD
+
+
+#EXTINF:-1,STAR CHANNEL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209114
-#EXTINF:-1,STAR CHANNEL HD - ALT
+
+
+#EXTINF:-1,STAR CHANNEL Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198387
-#EXTINF:-1,STAR CHANNEL SD
+
+
+#EXTINF:-1,STAR CHANNEL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209115
-#EXTINF:-1,STAR HITS 1 FULLHD H265
+
+
+#EXTINF:-1,STAR HITS 1 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275129
-#EXTINF:-1,STAR HITS 1 HD - ALT
+
+
+#EXTINF:-1,STAR HITS 1 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198385
-#EXTINF:-1,STAR HITS 2 FULLHD
+
+
+#EXTINF:-1,STAR HITS 2 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209116
-#EXTINF:-1,STAR HITS 2 FULLHD H265
+
+
+#EXTINF:-1,STAR HITS 2 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275130
-#EXTINF:-1,STAR HITS 2 HD
+
+
+#EXTINF:-1,STAR HITS 2 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209117
-#EXTINF:-1,STAR HITS 2 HD - ALT
+
+
+#EXTINF:-1,STAR HITS 2 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198384
-#EXTINF:-1,STAR HITS 2 SD
+
+
+#EXTINF:-1,STAR HITS 2 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209118
-#EXTINF:-1,STAR HITS FULLHD
+
+
+#EXTINF:-1,STAR HITS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209119
-#EXTINF:-1,STAR HITS HD
+
+
+#EXTINF:-1,STAR HITS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209120
-#EXTINF:-1,STAR HITS SD
+
+
+#EXTINF:-1,STAR HITS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209121
-#EXTINF:-1,STAR LIFE FULLHD
+
+
+#EXTINF:-1,STAR LIFE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209122
-#EXTINF:-1,STAR LIFE HD
+
+
+#EXTINF:-1,STAR LIFE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209123
-#EXTINF:-1,STAR LIFE SD
+
+
+#EXTINF:-1,STAR LIFE Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209124
-#EXTINF:-1,STAR+ 01 HD
+
+
+#EXTINF:-1,STAR+ 01 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/296869
-#EXTINF:-1,STUDIO UNIVERSAL FULLHD
+
+
+#EXTINF:-1,STUDIO UNIVERSAL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209125
-#EXTINF:-1,STUDIO UNIVERSAL FULLHD H265
+
+
+#EXTINF:-1,STUDIO UNIVERSAL Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275131
-#EXTINF:-1,STUDIO UNIVERSAL HD
+
+
+#EXTINF:-1,STUDIO UNIVERSAL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209126
-#EXTINF:-1,STUDIO UNIVERSAL HD - ALT
+
+
+#EXTINF:-1,STUDIO UNIVERSAL Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198319
-#EXTINF:-1,STUDIO UNIVERSAL SD
+
+
+#EXTINF:-1,STUDIO UNIVERSAL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209127
-#EXTINF:-1,SYFY FULLHD
+
+
+#EXTINF:-1,SYFY Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209128
-#EXTINF:-1,SYFY FULLHD H265
+
+
+#EXTINF:-1,SYFY Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275132
-#EXTINF:-1,SYFY HD
+
+
+#EXTINF:-1,SYFY Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209129
-#EXTINF:-1,SYFY HD - ALT
+
+
+#EXTINF:-1,SYFY Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198318
-#EXTINF:-1,SYFY SD
+
+
+#EXTINF:-1,SYFY Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209130
-#EXTINF:-1,TBS FULLHD
+
+
+#EXTINF:-1,TBS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209131
-#EXTINF:-1,TBS FULLHD H265
+
+
+#EXTINF:-1,TBS Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275133
-#EXTINF:-1,TBS HD
+
+
+#EXTINF:-1,TBS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209132
-#EXTINF:-1,TBS HD (DUAL AUDIO)
+
+
+#EXTINF:-1,TBS Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230824
-#EXTINF:-1,TBS SD
+
+
+#EXTINF:-1,TBS Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209133
-#EXTINF:-1,TCM FULLHD
+
+
+#EXTINF:-1,TCM Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132254
-#EXTINF:-1,TCM HD
+
+
+#EXTINF:-1,TCM Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/57185
-#EXTINF:-1,TELECINE ACTION FULL HD H265
+
+
+#EXTINF:-1,TELECINE ACTION Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275156
-#EXTINF:-1,TELECINE ACTION FULLHD
+
+
+#EXTINF:-1,TELECINE ACTION Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209134
-#EXTINF:-1,TELECINE ACTION HD
+
+
+#EXTINF:-1,TELECINE ACTION Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209135
-#EXTINF:-1,TELECINE ACTION HD (DUAL AUDIO)
+
+
+#EXTINF:-1,TELECINE ACTION Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230801
-#EXTINF:-1,TELECINE ACTION HD - ALT
+
+
+#EXTINF:-1,TELECINE ACTION Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198317
+
+
 #EXTINF:-1,TELECINE ACTION HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230812
-#EXTINF:-1,TELECINE FUN FULL HD H265
+
+
+#EXTINF:-1,TELECINE FUN Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275158
-#EXTINF:-1,TELECINE FUN FULLHD
+
+
+#EXTINF:-1,TELECINE FUN Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209140
-#EXTINF:-1,TELECINE FUN HD
+
+
+#EXTINF:-1,TELECINE FUN Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209141
-#EXTINF:-1,TELECINE FUN HD (DUAL AUDIO)
+
+
+#EXTINF:-1,TELECINE FUN Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230815
-#EXTINF:-1,TELECINE FUN HD - ALT
+
+
+#EXTINF:-1,TELECINE FUN Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198315
+
+
 #EXTINF:-1,TELECINE FUN HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230810
-#EXTINF:-1,TELECINE FUN SD
+
+
+#EXTINF:-1,TELECINE FUN Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209142
-#EXTINF:-1,TELECINE PIPOCA FULL HD H265
+
+
+#EXTINF:-1,TELECINE PIPOCA Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275159
-#EXTINF:-1,TELECINE PIPOCA FULLHD
+
+
+#EXTINF:-1,TELECINE PIPOCA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132258
-#EXTINF:-1,TELECINE PIPOCA HD
+
+
+#EXTINF:-1,TELECINE PIPOCA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/39954
-#EXTINF:-1,TELECINE PIPOCA HD (DUAL AUDIO)
+
+
+#EXTINF:-1,TELECINE PIPOCA Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230813
-#EXTINF:-1,TELECINE PIPOCA HD - ALT
+
+
+#EXTINF:-1,TELECINE PIPOCA Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/39955
+
+
 #EXTINF:-1,TELECINE PIPOCA HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230811
-#EXTINF:-1,TELECINE PREMIUM FULL HD H265
+
+
+#EXTINF:-1,TELECINE PREMIUM Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275160
-#EXTINF:-1,TELECINE PREMIUM FULLHD
+
+
+#EXTINF:-1,TELECINE PREMIUM Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209146
-#EXTINF:-1,TELECINE PREMIUM HD
+
+
+#EXTINF:-1,TELECINE PREMIUM Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209147
-#EXTINF:-1,TELECINE PREMIUM HD (DUAL AUDIO)
+
+
+#EXTINF:-1,TELECINE PREMIUM Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230807
-#EXTINF:-1,TELECINE PREMIUM HD - ALT
+
+
+#EXTINF:-1,TELECINE PREMIUM Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198313
+
+
 #EXTINF:-1,TELECINE PREMIUM HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230808
-#EXTINF:-1,TELECINE PREMIUM SD
+
+
+#EXTINF:-1,TELECINE PREMIUM Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209148
-#EXTINF:-1,TELECINE TOUCH FULL HD H265
+
+
+#EXTINF:-1,TELECINE TOUCH Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275161
-#EXTINF:-1,TELECINE TOUCH FULLHD
+
+
+#EXTINF:-1,TELECINE TOUCH Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209149
-#EXTINF:-1,TELECINE TOUCH HD
+
+
+#EXTINF:-1,TELECINE TOUCH Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/39956
-#EXTINF:-1,TELECINE TOUCH HD
+
+
+#EXTINF:-1,TELECINE TOUCH Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209150
-#EXTINF:-1,TELECINE TOUCH HD (DUAL AUDIO)
+
+
+#EXTINF:-1,TELECINE TOUCH Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230802
-#EXTINF:-1,TELECINE TOUCH HD - ALT
+
+
+#EXTINF:-1,TELECINE TOUCH Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198312
+
+
 #EXTINF:-1,TELECINE TOUCH HEVC
 http://c2n.one:80/testsquinta/testequinta82134/230809
-#EXTINF:-1,TELECINE TOUCH SD
+
+
+#EXTINF:-1,TELECINE TOUCH Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209151
-#EXTINF:-1,TELECINE CULT FULL HD H265
+
+
+#EXTINF:-1,TELECINE CULT Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275157
-#EXTINF:-1,TELECINE CULT FULLHD
+
+
+#EXTINF:-1,TELECINE CULT Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209137
-#EXTINF:-1,TELECINE CULT HD
+
+
+#EXTINF:-1,TELECINE CULT Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209138
-#EXTINF:-1,TELECINE CULT SD
+
+
+#EXTINF:-1,TELECINE CULT Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209139
-#EXTINF:-1,TNT FULLHD
+
+
+#EXTINF:-1,TNT Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209155
-#EXTINF:-1,TNT FULLHD H265
+
+
+#EXTINF:-1,TNT Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275120
-#EXTINF:-1,TNT HD
+
+
+#EXTINF:-1,TNT Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209156
-#EXTINF:-1,TNT HD (DUAL AUDIO)
+
+
+#EXTINF:-1,TNT Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230891
-#EXTINF:-1,TNT HD - ALT
+
+
+#EXTINF:-1,TNT Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198311
-#EXTINF:-1,TNT SD
+
+
+#EXTINF:-1,TNT Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209157
-#EXTINF:-1,TNT SERIES FULLHD
+
+
+#EXTINF:-1,TNT SERIES Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209158
-#EXTINF:-1,TNT SERIES FULLHD H265
+
+
+#EXTINF:-1,TNT SERIES Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275134
-#EXTINF:-1,TNT SERIES HD
+
+
+#EXTINF:-1,TNT SERIES Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209159
-#EXTINF:-1,TNT SERIES SD
+
+
+#EXTINF:-1,TNT SERIES Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209160
-#EXTINF:-1,TNT SPORTS 1 HD¹
+
+
+#EXTINF:-1,TNT SPORTS 1 Media Qualidade¹
 http://c2n.one:80/testsquinta/testequinta82134/230098
-#EXTINF:-1,TNT SPORTS 2 HD¹
+
+
+#EXTINF:-1,TNT SPORTS 2 Media Qualidade¹
 http://c2n.one:80/testsquinta/testequinta82134/230099
-#EXTINF:-1,TNT SPORTS 3 HD¹
+
+
+#EXTINF:-1,TNT SPORTS 3 Media Qualidade¹
 http://c2n.one:80/testsquinta/testequinta82134/230100
-#EXTINF:-1,TNT SPORTS 4 HD¹
+
+
+#EXTINF:-1,TNT SPORTS 4 Media Qualidade¹
 http://c2n.one:80/testsquinta/testequinta82134/230101
-#EXTINF:-1,TNT SPORTS 5 HD¹
+
+
+#EXTINF:-1,TNT SPORTS 5 Media Qualidade¹
 http://c2n.one:80/testsquinta/testequinta82134/230102
-#EXTINF:-1,TNT SPORTS HD¹
+
+
+#EXTINF:-1,TNT SPORTS Media Qualidade¹
 http://c2n.one:80/testsquinta/testequinta82134/230097
+
+
 #EXTINF:-1,TNT SPORTS¹
 http://c2n.one:80/testsquinta/testequinta82134/230096
-#EXTINF:-1,TNT SÉRIES HD - ALT
+
+
+#EXTINF:-1,TNT SÉRIES Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198308
-#EXTINF:-1,TOONCAST FULLHD
+
+
+#EXTINF:-1,TOONCAST Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132265
-#EXTINF:-1,TOONCAST HD
+
+
+#EXTINF:-1,TOONCAST Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/57196
-#EXTINF:-1,TOONCAST HD - ALT
+
+
+#EXTINF:-1,TOONCAST Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198307
-#EXTINF:-1,TRACE BRAZUCA FHD
+
+
+#EXTINF:-1,TRACE BRAZUCA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/283579
-#EXTINF:-1,TRACE BRAZUCA HD
+
+
+#EXTINF:-1,TRACE BRAZUCA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/283580
-#EXTINF:-1,TRACE BRAZUCA HD (DUAL AUDIO)
+
+
+#EXTINF:-1,TRACE BRAZUCA Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230888
+
+
 #EXTINF:-1,Transamérica 100.1 FM São Paulo / SP - Brasil
 http://c2n.one:80/testsquinta/testequinta82134/232617
-#EXTINF:-1,TRAVEL BOX BRAZIL FULLHD
+
+
+#EXTINF:-1,TRAVEL BOX BRAZIL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209161
-#EXTINF:-1,TRAVEL BOX BRAZIL HD
+
+
+#EXTINF:-1,TRAVEL BOX BRAZIL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209162
-#EXTINF:-1,TRU TV FULLHD
+
+
+#EXTINF:-1,TRU TV Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132266
-#EXTINF:-1,TRUTV HD
+
+
+#EXTINF:-1,TRUTV Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/99109
-#EXTINF:-1,TV APARECIDA HD
+
+
+#EXTINF:-1,TV APARECIDA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209165
+
+
 #EXTINF:-1,TV APARECIDA LIVRE
 http://c2n.one:80/testsquinta/testequinta82134/67335
-#EXTINF:-1,TV APARECIDA SD
+
+
+#EXTINF:-1,TV APARECIDA Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209166
-#EXTINF:-1,TV ASA BRANCA FULLHD (GLOBO CARUARU-PE)
+
+
+#EXTINF:-1,TV ASA BRANCA Alta Qualidade (GLOBO CARUARU-PE)
 http://c2n.one:80/testsquinta/testequinta82134/288667
-#EXTINF:-1,TV ASA BRANCA HD (GLOBO-Caruaru - PE)
+
+
+#EXTINF:-1,TV ASA BRANCA Media Qualidade (GLOBO-Caruaru - PE)
 http://c2n.one:80/testsquinta/testequinta82134/297952
-#EXTINF:-1,TV BRASIL HD
+
+
+#EXTINF:-1,TV BRASIL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209168
+
+
 #EXTINF:-1,TV CLUB PIAUI
 http://c2n.one:80/testsquinta/testequinta82134/288718
+
+
 #EXTINF:-1,TV CULTURA
 http://c2n.one:80/testsquinta/testequinta82134/98296
-#EXTINF:-1,TV CULTURA FULLHD
+
+
+#EXTINF:-1,TV CULTURA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209170
-#EXTINF:-1,TV CULTURA HD
+
+
+#EXTINF:-1,TV CULTURA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209171
-#EXTINF:-1,TV CULTURA SD
+
+
+#EXTINF:-1,TV CULTURA Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209172
-#EXTINF:-1,TV DIARIO HD
+
+
+#EXTINF:-1,TV DIARIO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132267
-#EXTINF:-1,TV DIARIO HD
+
+
+#EXTINF:-1,TV DIARIO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/290599
+
+
 #EXTINF:-1,TV EVANGELIZAR
 http://c2n.one:80/testsquinta/testequinta82134/198263
-#EXTINF:-1,TV GAZETA ALAGOAS FULLHD
+
+
+#EXTINF:-1,TV GAZETA ALAGOAS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297948
-#EXTINF:-1,TV GAZETA ALAGOAS HD
+
+
+#EXTINF:-1,TV GAZETA ALAGOAS Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297947
-#EXTINF:-1,TV GAZETA FULL HD
+
+
+#EXTINF:-1,TV GAZETA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298902
-#EXTINF:-1,TV GAZETA HD
+
+
+#EXTINF:-1,TV GAZETA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/98304
+
+
 #EXTINF:-1,TV GAZETA NORTE MINEIRA
 http://c2n.one:80/testsquinta/testequinta82134/98317
-#EXTINF:-1,TV GAZETA VITORIA ES FULLHD - GLOBO
+
+
+#EXTINF:-1,TV GAZETA VITORIA ES Alta Qualidade - GLOBO
 http://c2n.one:80/testsquinta/testequinta82134/297944
-#EXTINF:-1,TV GAZETA VITORIA ES HD - GLOBO
+
+
+#EXTINF:-1,TV GAZETA VITORIA ES Media Qualidade - GLOBO
 http://c2n.one:80/testsquinta/testequinta82134/297943
+
+
 #EXTINF:-1,TV GOSPEL CEARÁ
 http://c2n.one:80/testsquinta/testequinta82134/128756
+
+
 #EXTINF:-1,TV INTEGRAÇÃO ARAXA
 http://c2n.one:80/testsquinta/testequinta82134/288719
-#EXTINF:-1,TV INTEGRAÇÃO ARAXÁ FULLHD
+
+
+#EXTINF:-1,TV INTEGRAÇÃO ARAXÁ Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297941
-#EXTINF:-1,TV INTEGRAÇÃO ARAXÁ HD
+
+
+#EXTINF:-1,TV INTEGRAÇÃO ARAXÁ Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297940
-#EXTINF:-1,TV INTEGRAÇÃO UBERABA FULLHD - GLOBO
+
+
+#EXTINF:-1,TV INTEGRAÇÃO UBERABA Alta Qualidade - GLOBO
 http://c2n.one:80/testsquinta/testequinta82134/288675
-#EXTINF:-1,TV INTEGRAÇÃO UBERABA HD - GLOBO
+
+
+#EXTINF:-1,TV INTEGRAÇÃO UBERABA Media Qualidade - GLOBO
 http://c2n.one:80/testsquinta/testequinta82134/297942
+
+
 #EXTINF:-1,TV JAGUAR
 http://c2n.one:80/testsquinta/testequinta82134/209902
+
+
 #EXTINF:-1,TV JAPI
 http://c2n.one:80/testsquinta/testequinta82134/98289
+
+
 #EXTINF:-1,TV JORNAL DO NORDESTE
 http://c2n.one:80/testsquinta/testequinta82134/98315
-#EXTINF:-1,TV LIBERAL HD (BELEM)
+
+
+#EXTINF:-1,TV LIBERAL Media Qualidade (BELEM)
 http://c2n.one:80/testsquinta/testequinta82134/297926
+
+
 #EXTINF:-1,TV MANCHETE
 http://c2n.one:80/testsquinta/testequinta82134/75388
+
+
 #EXTINF:-1,TV METROPOLE
 http://c2n.one:80/testsquinta/testequinta82134/210503
-#EXTINF:-1,TV MORENA FULLHD
+
+
+#EXTINF:-1,TV MORENA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297954
+
+
 #EXTINF:-1,TV NA ATIVA
 http://c2n.one:80/testsquinta/testequinta82134/274312
+
+
 #EXTINF:-1,TV NORDESTE
 http://c2n.one:80/testsquinta/testequinta82134/209900
+
+
 #EXTINF:-1,TV NOVA ONDA
 http://c2n.one:80/testsquinta/testequinta82134/98297
-#EXTINF:-1,TV NOVO TEMPO FULLHD
+
+
+#EXTINF:-1,TV NOVO TEMPO Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209173
-#EXTINF:-1,TV NOVO TEMPO HD
+
+
+#EXTINF:-1,TV NOVO TEMPO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209174
-#EXTINF:-1,TV NOVO TEMPO SD
+
+
+#EXTINF:-1,TV NOVO TEMPO Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209175
-#EXTINF:-1,TV NSPORTS 01 HD
+
+
+#EXTINF:-1,TV NSPORTS 01 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209218
-#EXTINF:-1,TV NSPORTS 02 HD
+
+
+#EXTINF:-1,TV NSPORTS 02 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209219
-#EXTINF:-1,TV NSPORTS 03 HD
+
+
+#EXTINF:-1,TV NSPORTS 03 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209220
-#EXTINF:-1,TV NSPORTS 04 HD
+
+
+#EXTINF:-1,TV NSPORTS 04 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209221
-#EXTINF:-1,TV NSPORTS 05 HD
+
+
+#EXTINF:-1,TV NSPORTS 05 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209222
+
+
 #EXTINF:-1,TV PADRE CICERO
 http://c2n.one:80/testsquinta/testequinta82134/209901
-#EXTINF:-1,TV PAMPA HD
+
+
+#EXTINF:-1,TV PAMPA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/234329
+
+
 #EXTINF:-1,TV POVO
 http://c2n.one:80/testsquinta/testequinta82134/205310
-#EXTINF:-1,TV RA TIM BUM FULLHD
+
+
+#EXTINF:-1,TV RA TIM BUM Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209176
-#EXTINF:-1,TV RA TIM BUM HD
+
+
+#EXTINF:-1,TV RA TIM BUM Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/40046
-#EXTINF:-1,TV RIO SUL HD
+
+
+#EXTINF:-1,TV RIO SUL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297885
-#EXTINF:-1,TV SANTA CRUZ FULLHD
+
+
+#EXTINF:-1,TV SANTA CRUZ Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/298901
-#EXTINF:-1,TV SANTA CRUZ TV BAHIA HD -GLOBO-
+
+
+#EXTINF:-1,TV SANTA CRUZ TV BAHIA Media Qualidade -GLOBO-
 http://c2n.one:80/testsquinta/testequinta82134/297888
-#EXTINF:-1,TV SAO FRANCISCO FULLHD (GLOBO JUAZEIRO BAHIA)
+
+
+#EXTINF:-1,TV SAO FRANCISCO Alta Qualidade (GLOBO JUAZEIRO BAHIA)
 http://c2n.one:80/testsquinta/testequinta82134/288669
-#EXTINF:-1,TV  SAO FRANCISCO HD (GLOBO JUAZEIRO BAHIA)
+
+
+#EXTINF:-1,TV  SAO FRANCISCO Media Qualidade (GLOBO JUAZEIRO BAHIA)
 http://c2n.one:80/testsquinta/testequinta82134/288668
+
+
 #EXTINF:-1,TV SENADO
 http://c2n.one:80/testsquinta/testequinta82134/275065
+
+
 #EXTINF:-1,TV SERIES(Anos 60,70,80e90)
 http://c2n.one:80/testsquinta/testequinta82134/98316
+
+
 #EXTINF:-1,TV SERRA VERDE
 http://c2n.one:80/testsquinta/testequinta82134/98307
-#EXTINF:-1,TV SUBAE (GLOBO BAHIA HD)
+
+
+#EXTINF:-1,TV SUBAE (GLOBO BAHIA Media Qualidade)
 http://c2n.one:80/testsquinta/testequinta82134/297889
+
+
 #EXTINF:-1,TV SÉCULO 21
 http://c2n.one:80/testsquinta/testequinta82134/212215
+
+
 #EXTINF:-1,TV TEM BAURU
 http://c2n.one:80/testsquinta/testequinta82134/297905
-#EXTINF:-1,TV TEM BAURU FULLHD
+
+
+#EXTINF:-1,TV TEM BAURU Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288678
-#EXTINF:-1,TV TEM BAURU HD
+
+
+#EXTINF:-1,TV TEM BAURU Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288680
-#EXTINF:-1,TV TEM ITAPE FULLHD
+
+
+#EXTINF:-1,TV TEM ITAPE Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297908
-#EXTINF:-1,TV TEM ITAPE HD
+
+
+#EXTINF:-1,TV TEM ITAPE Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/288679
+
+
 #EXTINF:-1,TV TEM SAO JOSE DO RIO PRETO
 http://c2n.one:80/testsquinta/testequinta82134/297906
+
+
 #EXTINF:-1,TV TEM SOROCABA
 http://c2n.one:80/testsquinta/testequinta82134/297907
-#EXTINF:-1,TV TEM SOROCABA FULLHD - GLOBO
+
+
+#EXTINF:-1,TV TEM SOROCABA Alta Qualidade - GLOBO
 http://c2n.one:80/testsquinta/testequinta82134/288676
-#EXTINF:-1,TV TEM SOROCABA HD
+
+
+#EXTINF:-1,TV TEM SOROCABA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/297904
-#EXTINF:-1,TV TRIBUNA FULLHD (GLOBO SANTOS)
+
+
+#EXTINF:-1,TV TRIBUNA Alta Qualidade (GLOBO SANTOS)
 http://c2n.one:80/testsquinta/testequinta82134/297956
-#EXTINF:-1,TV TRIBUNA HD (GLOBO SANTOS)
+
+
+#EXTINF:-1,TV TRIBUNA Media Qualidade (GLOBO SANTOS)
 http://c2n.one:80/testsquinta/testequinta82134/297955
-#EXTINF:-1,TV VANGUARDA FULLHD (SAO JOSE DOS CAMPOS)
+
+
+#EXTINF:-1,TV VANGUARDA Alta Qualidade (SAO JOSE DOS CAMPOS)
 http://c2n.one:80/testsquinta/testequinta82134/297928
-#EXTINF:-1,TV VANGUARDA HD (SAO JOSE DOS CAMPOS)
+
+
+#EXTINF:-1,TV VANGUARDA Media Qualidade (SAO JOSE DOS CAMPOS)
 http://c2n.one:80/testsquinta/testequinta82134/297929
-#EXTINF:-1,TV VERDES MARES HD CE
+
+
+#EXTINF:-1,TV VERDES MARES Media Qualidade CE
 http://c2n.one:80/testsquinta/testequinta82134/297927
+
+
 #EXTINF:-1,TVE BAHIA
 http://c2n.one:80/testsquinta/testequinta82134/226366
-#EXTINF:-1,UNIVERSAL TV FULLHD
+
+
+#EXTINF:-1,UNIVERSAL TV Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209179
-#EXTINF:-1,UNIVERSAL TV FULLHD H265
+
+
+#EXTINF:-1,UNIVERSAL TV Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275135
-#EXTINF:-1,UNIVERSAL TV HD
+
+
+#EXTINF:-1,UNIVERSAL TV Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209180
-#EXTINF:-1,UNIVERSAL TV HD (DUAL AUDIO)
+
+
+#EXTINF:-1,UNIVERSAL TV Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230870
-#EXTINF:-1,UNIVERSAL TV HD - ALT
+
+
+#EXTINF:-1,UNIVERSAL TV Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198306
-#EXTINF:-1,UNIVERSAL TV SD
+
+
+#EXTINF:-1,UNIVERSAL TV Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209181
-#EXTINF:-1,VH1 FULLHD
+
+
+#EXTINF:-1,VH1 Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209182
-#EXTINF:-1,VH1 FULLHD H265
+
+
+#EXTINF:-1,VH1 Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275155
-#EXTINF:-1,VH1 HD
+
+
+#EXTINF:-1,VH1 Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209183
-#EXTINF:-1,VH1 HD - ALT
+
+
+#EXTINF:-1,VH1 Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198304
-#EXTINF:-1,VH1 MEGA HITS FULLHD
+
+
+#EXTINF:-1,VH1 MEGA HITS Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/132274
-#EXTINF:-1,VH1 SD
+
+
+#EXTINF:-1,VH1 Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209184
-#EXTINF:-1,VIVA FULLHD
+
+
+#EXTINF:-1,VIVA Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209185
-#EXTINF:-1,VIVA FULLHD (DUAL AUDIO)
+
+
+#EXTINF:-1,VIVA Alta Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230865
-#EXTINF:-1,VIVA HD
+
+
+#EXTINF:-1,VIVA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/40072
-#EXTINF:-1,VIVA HD
+
+
+#EXTINF:-1,VIVA Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209186
-#EXTINF:-1,VIVA HD (DUAL AUDIO)
+
+
+#EXTINF:-1,VIVA Media Qualidade (DUAL AUDIO)
 http://c2n.one:80/testsquinta/testequinta82134/230864
-#EXTINF:-1,VIVA HD - ALT
+
+
+#EXTINF:-1,VIVA Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198303
-#EXTINF:-1,VIVA SD
+
+
+#EXTINF:-1,VIVA Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209187
-#EXTINF:-1,WARNER CHANNEL FULLHD
+
+
+#EXTINF:-1,WARNER CHANNEL Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209188
-#EXTINF:-1,WARNER CHANNEL HD
+
+
+#EXTINF:-1,WARNER CHANNEL Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/40112
-#EXTINF:-1,WARNER CHANNEL HD - ALT
+
+
+#EXTINF:-1,WARNER CHANNEL Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198302
-#EXTINF:-1,WARNER CHANNEL SD
+
+
+#EXTINF:-1,WARNER CHANNEL Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209190
-#EXTINF:-1,WARNER FULLHD H265
+
+
+#EXTINF:-1,WARNER Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275136
+
+
 #EXTINF:-1,WEB TV PROGRESSO
 http://c2n.one:80/testsquinta/testequinta82134/98298
+
+
 #EXTINF:-1,WIN SPORTS (COL)
 http://c2n.one:80/testsquinta/testequinta82134/231386
+
+
 #EXTINF:-1,WIN SPORTS + (COL)
 http://c2n.one:80/testsquinta/testequinta82134/231387
-#EXTINF:-1,WOOHOO FULLHD
+
+
+#EXTINF:-1,WOOHOO Alta Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209191
-#EXTINF:-1,WOOHOO FULLHD H265
+
+
+#EXTINF:-1,WOOHOO Alta Qualidade Otimizado
 http://c2n.one:80/testsquinta/testequinta82134/275093
-#EXTINF:-1,WOOHOO HD
+
+
+#EXTINF:-1,WOOHOO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209192
-#EXTINF:-1,WOOHOO HD - ALT
+
+
+#EXTINF:-1,WOOHOO Media Qualidade - Alternativo
 http://c2n.one:80/testsquinta/testequinta82134/198301
-#EXTINF:-1,WOOHOO SD
+
+
+#EXTINF:-1,WOOHOO Baixa Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/209193
-#EXTINF:-1,ZOOMOO HD
+
+
+#EXTINF:-1,ZOOMOO Media Qualidade
 http://c2n.one:80/testsquinta/testequinta82134/198300
