@@ -1,4 +1,4 @@
-
+#EXTM3U
 
 EXTM3U
 
@@ -99,19 +99,19 @@ http://grtsvk.life:8080/luiz01/luiz01/17540
 http://grtsvk.life:8080/luiz01/luiz01/23306
 
 
-#EXTINF:-1,A&E Alta Qualidade
+#EXTINF:-1,A&E [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71092
 
 
-#EXTINF:-1,A&E H265
+#EXTINF:-1,A&E - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88455
 
 
-#EXTINF:-1,A&E Media Qualidade
+#EXTINF:-1,A&E [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71311
 
 
-#EXTINF:-1,A&E Baixa Qualidade
+#EXTINF:-1,A&E [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71161
 
 
@@ -131,7 +131,7 @@ http://grtsvk.life:8080/luiz01/luiz01/87938
 http://grtsvk.life:8080/luiz01/luiz01/113252
 
 
-#EXTINF:-1,AGRO CANAL Media Qualidade
+#EXTINF:-1,AGRO CANAL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/92986
 
 
@@ -151,15 +151,15 @@ http://grtsvk.life:8080/luiz01/luiz01/17740
 http://grtsvk.life:8080/luiz01/luiz01/16942
 
 
-#EXTINF:-1,AMC Alta Qualidade
+#EXTINF:-1,AMC [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71093
 
 
-#EXTINF:-1,AMC Media Qualidade
+#EXTINF:-1,AMC [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71312
 
 
-#EXTINF:-1,AMC Baixa Qualidade
+#EXTINF:-1,AMC [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71162
 
 
@@ -171,19 +171,19 @@ http://grtsvk.life:8080/luiz01/luiz01/23309
 http://grtsvk.life:8080/luiz01/luiz01/23334
 
 
-#EXTINF:-1,ANIMAL PLANET Ultra Qualidade
+#EXTINF:-1,ANIMAL PLANET [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88415
 
 
-#EXTINF:-1,ANIMAL PLANET Alta Qualidade
+#EXTINF:-1,ANIMAL PLANET [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71058
 
 
-#EXTINF:-1,ANIMAL PLANET Media Qualidade
+#EXTINF:-1,ANIMAL PLANET [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71313
 
 
-#EXTINF:-1,ANIMAL PLANET Baixa Qualidade
+#EXTINF:-1,ANIMAL PLANET [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71163
 
 
@@ -195,7 +195,7 @@ http://grtsvk.life:8080/luiz01/luiz01/20815
 http://grtsvk.life:8080/luiz01/luiz01/48703
 
 
-#EXTINF:-1,ARG: ESPN 2 Media Qualidade
+#EXTINF:-1,ARG: ESPN 2 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/48772
 
 
@@ -207,7 +207,7 @@ http://grtsvk.life:8080/luiz01/luiz01/48738
 http://grtsvk.life:8080/luiz01/luiz01/48827
 
 
-#EXTINF:-1,ARG: ESPN Media Qualidade
+#EXTINF:-1,ARG: ESPN [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/48804
 
 
@@ -215,15 +215,15 @@ http://grtsvk.life:8080/luiz01/luiz01/48804
 http://grtsvk.life:8080/luiz01/luiz01/48749
 
 
-#EXTINF:-1,ARG: TNT Sports Media Qualidade
+#EXTINF:-1,ARG: TNT Sports [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/48800
 
 
-#EXTINF:-1,ARG: TV Pública Media Qualidade
+#EXTINF:-1,ARG: TV Pública [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/48831
 
 
-#EXTINF:-1,ARG: TyC Sports Alta Qualidade
+#EXTINF:-1,ARG: TyC Sports [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/48762
 
 
@@ -235,11 +235,11 @@ http://grtsvk.life:8080/luiz01/luiz01/23310
 http://grtsvk.life:8080/luiz01/luiz01/116507
 
 
-#EXTINF:-1,ARTE 1 Alta Qualidade
+#EXTINF:-1,ARTE 1 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71143
 
 
-#EXTINF:-1,ARTE 1 Media Qualidade
+#EXTINF:-1,ARTE 1 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71466
 
 
@@ -275,39 +275,39 @@ http://grtsvk.life:8080/luiz01/luiz01/124214
 http://grtsvk.life:8080/luiz01/luiz01/17715
 
 
-#EXTINF:-1,AXN Ultra Qualidade
+#EXTINF:-1,AXN [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136304
 
 
-#EXTINF:-1,AXN Alta Qualidade
+#EXTINF:-1,AXN [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/102217
 
 
-#EXTINF:-1,AXN Media Qualidade
+#EXTINF:-1,AXN [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71314
 
 
-#EXTINF:-1,AXN Media Qualidade LEG
+#EXTINF:-1,AXN [Media Qualidade] LEG
 http://grtsvk.life:8080/luiz01/luiz01/88864
 
 
-#EXTINF:-1,AXN Baixa Qualidade
+#EXTINF:-1,AXN [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71164
 
 
-#EXTINF:-1,AXN Baixa Qualidade LEG
+#EXTINF:-1,AXN [Baixa Qualidade] LEG
 http://grtsvk.life:8080/luiz01/luiz01/88862
 
 
-#EXTINF:-1,BABY TV Alta Qualidade
+#EXTINF:-1,BABY TV [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71078
 
 
-#EXTINF:-1,BABY TV Media Qualidade
+#EXTINF:-1,BABY TV [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71165
 
 
-#EXTINF:-1,BABY TV Baixa Qualidade
+#EXTINF:-1,BABY TV [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71691
 
 
@@ -323,67 +323,67 @@ http://grtsvk.life:8080/luiz01/luiz01/10103
 http://grtsvk.life:8080/luiz01/luiz01/35160
 
 
-#EXTINF:-1,BAND Ultra Qualidade dual audio
+#EXTINF:-1,BAND [Ultra Qualidade] dual audio
 http://grtsvk.life:8080/luiz01/luiz01/88409
 
 
-#EXTINF:-1,BAND BAHIA Media Qualidade
+#EXTINF:-1,BAND BAHIA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71166
 
 
-#EXTINF:-1,BAND BSB Media Qualidade
+#EXTINF:-1,BAND BSB [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71475
 
 
-#EXTINF:-1,BAND CAMPINAS Media Qualidade
+#EXTINF:-1,BAND CAMPINAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71476
 
 
-#EXTINF:-1,BAND CURITIBA Media Qualidade
+#EXTINF:-1,BAND CURITIBA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71566
 
 
-#EXTINF:-1,BAND NEWS Media Qualidade
+#EXTINF:-1,BAND NEWS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71428
 
 
-#EXTINF:-1,BAND NEWS Baixa Qualidade
+#EXTINF:-1,BAND NEWS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71168
 
 
-#EXTINF:-1,BAND RJ Media Qualidade
+#EXTINF:-1,BAND RJ [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71477
 
 
-#EXTINF:-1,BAND RS Media Qualidade
+#EXTINF:-1,BAND RS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71478
 
 
-#EXTINF:-1,BAND SERGIPE Media Qualidade
+#EXTINF:-1,BAND SERGIPE [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71479
 
 
-#EXTINF:-1,BAND SP Alta Qualidade
+#EXTINF:-1,BAND SP [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/133316
 
 
-#EXTINF:-1,BAND SP Media Qualidade
+#EXTINF:-1,BAND SP [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71480
 
 
-#EXTINF:-1,BAND SP Media Qualidade¹
+#EXTINF:-1,BAND SP [Media Qualidade]¹
 http://grtsvk.life:8080/luiz01/luiz01/107690
 
 
-#EXTINF:-1,BAND SPORTS Media Qualidade
+#EXTINF:-1,BAND SPORTS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71315
 
 
-#EXTINF:-1,BAND SPORTS Baixa Qualidade
+#EXTINF:-1,BAND SPORTS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71169
 
 
-#EXTINF:-1,BANDEIRANTES Baixa Qualidade
+#EXTINF:-1,BANDEIRANTES [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71167
 
 
@@ -423,15 +423,15 @@ http://grtsvk.life:8080/luiz01/luiz01/18318
 http://grtsvk.life:8080/luiz01/luiz01/17910
 
 
-#EXTINF:-1,BIS Alta Qualidade
+#EXTINF:-1,BIS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71142
 
 
-#EXTINF:-1,BIS Media Qualidade
+#EXTINF:-1,BIS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71316
 
 
-#EXTINF:-1,BIS Baixa Qualidade
+#EXTINF:-1,BIS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71170
 
 
@@ -455,23 +455,23 @@ http://grtsvk.life:8080/luiz01/luiz01/16993
 http://grtsvk.life:8080/luiz01/luiz01/124215
 
 
-#EXTINF:-1,BOOMERANG Alta Qualidade
+#EXTINF:-1,BOOMERANG [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71079
 
 
-#EXTINF:-1,BOOMERANG Media Qualidade
+#EXTINF:-1,BOOMERANG [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71458
 
 
-#EXTINF:-1,BOOMERANG Baixa Qualidade
+#EXTINF:-1,BOOMERANG [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71171
 
 
-#EXTINF:-1,BOX BRASIL Alta Qualidade
+#EXTINF:-1,BOX BRASIL [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/138718
 
 
-#EXTINF:-1,BOX BRASIL Baixa Qualidade
+#EXTINF:-1,BOX BRASIL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/138720
 
 
@@ -515,7 +515,7 @@ http://grtsvk.life:8080/luiz01/luiz01/83293
 http://grtsvk.life:8080/luiz01/luiz01/83294
 
 
-#EXTINF:-1,CANAL BRASIL Media Qualidade
+#EXTINF:-1,CANAL BRASIL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71471
 
 
@@ -527,31 +527,31 @@ http://grtsvk.life:8080/luiz01/luiz01/71173
 http://grtsvk.life:8080/luiz01/luiz01/92985
 
 
-#EXTINF:-1,CANAL SONY Alta Qualidade
+#EXTINF:-1,CANAL SONY [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135506
 
 
-#EXTINF:-1,CANAL SONY H265
+#EXTINF:-1,CANAL SONY - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88440
 
 
-#EXTINF:-1,CANAL SONY Media Qualidade
+#EXTINF:-1,CANAL SONY [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71317
 
 
-#EXTINF:-1,CANAL SONY Baixa Qualidade
+#EXTINF:-1,CANAL SONY [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71174
 
 
-#EXTINF:-1,CANCAO NOVA ES Alta Qualidade
+#EXTINF:-1,CANCAO NOVA ES [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71555
 
 
-#EXTINF:-1,CANCAO NOVA ES Media Qualidade
+#EXTINF:-1,CANCAO NOVA ES [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71556
 
 
-#EXTINF:-1,CANCAO NOVA ES Baixa Qualidade
+#EXTINF:-1,CANCAO NOVA ES [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71557
 
 
@@ -583,19 +583,19 @@ http://grtsvk.life:8080/luiz01/luiz01/32381
 http://grtsvk.life:8080/luiz01/luiz01/59112
 
 
-#EXTINF:-1,CARTOON Ultra Qualidade
+#EXTINF:-1,CARTOON [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88418
 
 
-#EXTINF:-1,CARTOON NETWORK Alta Qualidade
+#EXTINF:-1,CARTOON NETWORK [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71080
 
 
-#EXTINF:-1,CARTOON NETWORK Media Qualidade
+#EXTINF:-1,CARTOON NETWORK [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71318
 
 
-#EXTINF:-1,CARTOON NETWORK Baixa Qualidade
+#EXTINF:-1,CARTOON NETWORK [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71692
 
 
@@ -719,7 +719,7 @@ http://grtsvk.life:8080/luiz01/luiz01/87948
 http://grtsvk.life:8080/luiz01/luiz01/87949
 
 
-#EXTINF:-1,CINE Media Qualidade ACTION
+#EXTINF:-1,CINE [Media Qualidade] ACTION
 http://grtsvk.life:8080/luiz01/luiz01/32586
 
 
@@ -815,15 +815,15 @@ http://grtsvk.life:8080/luiz01/luiz01/29633
 http://grtsvk.life:8080/luiz01/luiz01/29227
 
 
-#EXTINF:-1,CINEMAX Alta Qualidade
+#EXTINF:-1,CINEMAX [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71094
 
 
-#EXTINF:-1,CINEMAX Media Qualidade
+#EXTINF:-1,CINEMAX [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71319
 
 
-#EXTINF:-1,CINEMAX Baixa Qualidade
+#EXTINF:-1,CINEMAX [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71177
 
 
@@ -831,55 +831,55 @@ http://grtsvk.life:8080/luiz01/luiz01/71177
 http://grtsvk.life:8080/luiz01/luiz01/43023
 
 
-#EXTINF:-1,CNN BRASIL Ultra Qualidade
+#EXTINF:-1,CNN BRASIL [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136306
 
 
-#EXTINF:-1,CNN BRASIL Alta Qualidade
+#EXTINF:-1,CNN BRASIL [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71972
 
 
-#EXTINF:-1,CNN BRASIL Media Qualidade
+#EXTINF:-1,CNN BRASIL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71426
 
 
-#EXTINF:-1,CNN BRASIL Baixa Qualidade
+#EXTINF:-1,CNN BRASIL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71307
 
 
-#EXTINF:-1,COMBATE Ultra Qualidade
+#EXTINF:-1,COMBATE [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88410
 
 
-#EXTINF:-1,COMBATE Alta Qualidade
+#EXTINF:-1,COMBATE [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71119
 
 
-#EXTINF:-1,COMBATE H265
+#EXTINF:-1,COMBATE - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88454
 
 
-#EXTINF:-1,COMBATE Media Qualidade
+#EXTINF:-1,COMBATE [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71320
 
 
-#EXTINF:-1,COMBATE Baixa Qualidade
+#EXTINF:-1,COMBATE [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71178
 
 
-#EXTINF:-1,COMEDY CENTRAL Ultra Qualidade
+#EXTINF:-1,COMEDY CENTRAL [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136309
 
 
-#EXTINF:-1,COMEDY CENTRAL Alta Qualidade
+#EXTINF:-1,COMEDY CENTRAL [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135484
 
 
-#EXTINF:-1,COMEDY CENTRAL Media Qualidade
+#EXTINF:-1,COMEDY CENTRAL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71321
 
 
-#EXTINF:-1,COMEDY CENTRAL Baixa Qualidade
+#EXTINF:-1,COMEDY CENTRAL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71179
 
 
@@ -903,7 +903,7 @@ http://grtsvk.life:8080/luiz01/luiz01/71129
 http://grtsvk.life:8080/luiz01/luiz01/71123
 
 
-#EXTINF:-1,CONMEBOL TV Baixa Qualidade JOGO 2
+#EXTINF:-1,CONMEBOL TV [Baixa Qualidade] JOGO 2
 http://grtsvk.life:8080/luiz01/luiz01/71160
 
 
@@ -943,15 +943,15 @@ http://grtsvk.life:8080/luiz01/luiz01/28754
 http://grtsvk.life:8080/luiz01/luiz01/17457
 
 
-#EXTINF:-1,CULTURA Media Qualidade
+#EXTINF:-1,CULTURA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71144
 
 
-#EXTINF:-1,CURTA Baixa Qualidade
+#EXTINF:-1,CURTA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71180
 
 
-#EXTINF:-1,CURTA! Media Qualidade
+#EXTINF:-1,CURTA! [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71145
 
 
@@ -963,19 +963,19 @@ http://grtsvk.life:8080/luiz01/luiz01/56499
 http://grtsvk.life:8080/luiz01/luiz01/21261
 
 
-#EXTINF:-1,DAZN 01 Media Qualidade
+#EXTINF:-1,DAZN 01 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71481
 
 
-#EXTINF:-1,DAZN 02 Media Qualidade
+#EXTINF:-1,DAZN 02 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71482
 
 
-#EXTINF:-1,DAZN 03 Media Qualidade
+#EXTINF:-1,DAZN 03 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71483
 
 
-#EXTINF:-1,DAZN 04 Media Qualidade
+#EXTINF:-1,DAZN 04 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71446
 
 
@@ -1015,155 +1015,155 @@ http://grtsvk.life:8080/luiz01/luiz01/39077
 http://grtsvk.life:8080/luiz01/luiz01/39076
 
 
-#EXTINF:-1,DISC HOME & HEALTH Ultra Qualidade
+#EXTINF:-1,DISC HOME & HEALTH [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136307
 
 
-#EXTINF:-1,DISC TURBO Ultra Qualidade
+#EXTINF:-1,DISC TURBO [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136310
 
 
-#EXTINF:-1,DISCOVERY CHANNEL Ultra Qualidade
+#EXTINF:-1,DISCOVERY CHANNEL [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88412
 
 
-#EXTINF:-1,DISCOVERY CHANNEL Alta Qualidade
+#EXTINF:-1,DISCOVERY CHANNEL [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71048
 
 
-#EXTINF:-1,DISCOVERY CHANNEL Alta Qualidade H265
+#EXTINF:-1,DISCOVERY CHANNEL [Alta Qualidade] - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88460
 
 
-#EXTINF:-1,DISCOVERY CHANNEL Media Qualidade
+#EXTINF:-1,DISCOVERY CHANNEL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71322
 
 
-#EXTINF:-1,DISCOVERY CHANNEL Baixa Qualidade
+#EXTINF:-1,DISCOVERY CHANNEL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71181
 
 
-#EXTINF:-1,DISCOVERY H & HEALTH Alta Qualidade
+#EXTINF:-1,DISCOVERY H & HEALTH [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71059
 
 
-#EXTINF:-1,DISCOVERY H & HEALTH Media Qualidade
+#EXTINF:-1,DISCOVERY H & HEALTH [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71324
 
 
-#EXTINF:-1,DISCOVERY H & HEALTH Baixa Qualidade
+#EXTINF:-1,DISCOVERY H & HEALTH [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71182
 
 
-#EXTINF:-1,DISCOVERY ID Alta Qualidade
+#EXTINF:-1,DISCOVERY ID [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71050
 
 
-#EXTINF:-1,DISCOVERY ID Media Qualidade
+#EXTINF:-1,DISCOVERY ID [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71356
 
 
-#EXTINF:-1,DISCOVERY ID Baixa Qualidade
+#EXTINF:-1,DISCOVERY ID [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71218
 
 
-#EXTINF:-1,DISCOVERY KIDS Alta Qualidade
+#EXTINF:-1,DISCOVERY KIDS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71051
 
 
-#EXTINF:-1,DISCOVERY KIDS Media Qualidade
+#EXTINF:-1,DISCOVERY KIDS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71325
 
 
-#EXTINF:-1,DISCOVERY KIDS Baixa Qualidade
+#EXTINF:-1,DISCOVERY KIDS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71077
 
 
-#EXTINF:-1,DISCOVERY KIDS Baixa Qualidade
+#EXTINF:-1,DISCOVERY KIDS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71183
 
 
-#EXTINF:-1,DISCOVERY SCIENCE Alta Qualidade
+#EXTINF:-1,DISCOVERY SCIENCE [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71061
 
 
-#EXTINF:-1,DISCOVERY SCIENCE Media Qualidade
+#EXTINF:-1,DISCOVERY SCIENCE [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71326
 
 
-#EXTINF:-1,DISCOVERY SCIENCE Baixa Qualidade
+#EXTINF:-1,DISCOVERY SCIENCE [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71052
 
 
-#EXTINF:-1,DISCOVERY THEATER Alta Qualidade
+#EXTINF:-1,DISCOVERY THEATER [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71053
 
 
-#EXTINF:-1,DISCOVERY THEATER Alta Qualidade
+#EXTINF:-1,DISCOVERY THEATER [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71062
 
 
-#EXTINF:-1,DISCOVERY THEATER Media Qualidade
+#EXTINF:-1,DISCOVERY THEATER [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71327
 
 
-#EXTINF:-1,DISCOVERY TURBO Alta Qualidade
+#EXTINF:-1,DISCOVERY TURBO [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71054
 
 
-#EXTINF:-1,DISCOVERY TURBO Media Qualidade
+#EXTINF:-1,DISCOVERY TURBO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71328
 
 
-#EXTINF:-1,DISCOVERY TURBO Baixa Qualidade
+#EXTINF:-1,DISCOVERY TURBO [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71184
 
 
-#EXTINF:-1,DISCOVERY WORLD Alta Qualidade
+#EXTINF:-1,DISCOVERY WORLD [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71064
 
 
-#EXTINF:-1,DISCOVERY WORLD Media Qualidade
+#EXTINF:-1,DISCOVERY WORLD [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71329
 
 
-#EXTINF:-1,DISNEY CHANNEL Alta Qualidade
+#EXTINF:-1,DISNEY CHANNEL [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71065
 
 
-#EXTINF:-1,DISNEY CHANNEL Media Qualidade
+#EXTINF:-1,DISNEY CHANNEL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71330
 
 
-#EXTINF:-1,DISNEY CHANNEL Baixa Qualidade
+#EXTINF:-1,DISNEY CHANNEL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71689
 
 
-#EXTINF:-1,DISNEY JR Alta Qualidade
+#EXTINF:-1,DISNEY JR [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71081
 
 
-#EXTINF:-1,DISNEY JR Media Qualidade
+#EXTINF:-1,DISNEY JR [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71331
 
 
-#EXTINF:-1,DISNEY JR Baixa Qualidade
+#EXTINF:-1,DISNEY JR [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71185
 
 
-#EXTINF:-1,DISNEY XD Alta Qualidade
+#EXTINF:-1,DISNEY XD [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71082
 
 
-#EXTINF:-1,DISNEY XD Media Qualidade
+#EXTINF:-1,DISNEY XD [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71694
 
 
-#EXTINF:-1,DISNEY XD Baixa Qualidade
+#EXTINF:-1,DISNEY XD [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71187
 
 
-#EXTINF:-1,DOG TV Media Qualidade
+#EXTINF:-1,DOG TV [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71474
 
 
@@ -1239,11 +1239,11 @@ http://grtsvk.life:8080/luiz01/luiz01/23316
 http://grtsvk.life:8080/luiz01/luiz01/63813
 
 
-#EXTINF:-1,E Media Qualidade
+#EXTINF:-1,E [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71332
 
 
-#EXTINF:-1,E Baixa Qualidade
+#EXTINF:-1,E [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71188
 
 
@@ -1259,7 +1259,7 @@ http://grtsvk.life:8080/luiz01/luiz01/71125
 http://grtsvk.life:8080/luiz01/luiz01/71126
 
 
-#EXTINF:-1,EI PLUS Baixa Qualidade
+#EXTINF:-1,EI PLUS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71159
 
 
@@ -1303,39 +1303,39 @@ http://grtsvk.life:8080/luiz01/luiz01/109280
 http://grtsvk.life:8080/luiz01/luiz01/109281
 
 
-#EXTINF:-1,EPTV CAMPINAS Alta Qualidade
+#EXTINF:-1,EPTV CAMPINAS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71533
 
 
-#EXTINF:-1,EPTV CAMPINAS Media Qualidade
+#EXTINF:-1,EPTV CAMPINAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71532
 
 
-#EXTINF:-1,EPTV CAMPINAS Baixa Qualidade
+#EXTINF:-1,EPTV CAMPINAS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71190
 
 
-#EXTINF:-1,EPTV RIBEIRAO PRETO Alta Qualidade
+#EXTINF:-1,EPTV RIBEIRAO PRETO [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135619
 
 
-#EXTINF:-1,EPTV RIBEIRAO PRETO Alta Qualidade H265
+#EXTINF:-1,EPTV RIBEIRAO PRETO [Alta Qualidade] - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/71539
 
 
-#EXTINF:-1,EPTV RIBEIRAO PRETO Baixa Qualidade
+#EXTINF:-1,EPTV RIBEIRAO PRETO [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71191
 
 
-#EXTINF:-1,EPTV SAO CARLOS Media Qualidade
+#EXTINF:-1,EPTV SAO CARLOS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71189
 
 
-#EXTINF:-1,EPTV SUL DE MINAS Alta Qualidade
+#EXTINF:-1,EPTV SUL DE MINAS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71540
 
 
-#EXTINF:-1,EPTV SUL DE MINAS Media Qualidade
+#EXTINF:-1,EPTV SUL DE MINAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71012
 
 
@@ -1343,47 +1343,47 @@ http://grtsvk.life:8080/luiz01/luiz01/71012
 http://grtsvk.life:8080/luiz01/luiz01/16946
 
 
-#EXTINF:-1,ESPN 2 Alta Qualidade
+#EXTINF:-1,ESPN 2 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71117
 
 
-#EXTINF:-1,ESPN 2 Media Qualidade
+#EXTINF:-1,ESPN 2 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71333
 
 
-#EXTINF:-1,ESPN 2 Baixa Qualidade
+#EXTINF:-1,ESPN 2 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71193
 
 
-#EXTINF:-1,ESPN BRASIL Ultra Qualidade
+#EXTINF:-1,ESPN BRASIL [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88422
 
 
-#EXTINF:-1,ESPN BRASIL Alta Qualidade
+#EXTINF:-1,ESPN BRASIL [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71118
 
 
-#EXTINF:-1,ESPN BRASIL Media Qualidade
+#EXTINF:-1,ESPN BRASIL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71334
 
 
-#EXTINF:-1,ESPN BRASIL Baixa Qualidade
+#EXTINF:-1,ESPN BRASIL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71194
 
 
-#EXTINF:-1,ESPN EXTRA Media Qualidade
+#EXTINF:-1,ESPN EXTRA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71336
 
 
-#EXTINF:-1,ESPN Alta Qualidade
+#EXTINF:-1,ESPN [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71116
 
 
-#EXTINF:-1,ESPN Media Qualidade
+#EXTINF:-1,ESPN [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71335
 
 
-#EXTINF:-1,ESPN Baixa Qualidade
+#EXTINF:-1,ESPN [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71192
 
 
@@ -1403,7 +1403,7 @@ http://grtsvk.life:8080/luiz01/luiz01/86150
 http://grtsvk.life:8080/luiz01/luiz01/86151
 
 
-#EXTINF:-1,ESTADIO TNT SPORTS Media Qualidade
+#EXTINF:-1,ESTADIO TNT SPORTS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/86152
 
 
@@ -1455,19 +1455,19 @@ http://grtsvk.life:8080/luiz01/luiz01/123511
 http://grtsvk.life:8080/luiz01/luiz01/17458
 
 
-#EXTINF:-1,FILM & ART Media Qualidade
+#EXTINF:-1,FILM & ART [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71461
 
 
-#EXTINF:-1,FILM & ARTS Baixa Qualidade
+#EXTINF:-1,FILM & ARTS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71195
 
 
-#EXTINF:-1,FISH TV Media Qualidade
+#EXTINF:-1,FISH TV [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71056
 
 
-#EXTINF:-1,FISH TV Baixa Qualidade
+#EXTINF:-1,FISH TV [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71196
 
 
@@ -1487,51 +1487,51 @@ http://grtsvk.life:8080/luiz01/luiz01/56501
 http://grtsvk.life:8080/luiz01/luiz01/89373
 
 
-#EXTINF:-1,FOOD NETWORK Alta Qualidade
+#EXTINF:-1,FOOD NETWORK [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71146
 
 
-#EXTINF:-1,FOOD NETWORK Media Qualidade
+#EXTINF:-1,FOOD NETWORK [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71337
 
 
-#EXTINF:-1,FOOD NETWORK Baixa Qualidade
+#EXTINF:-1,FOOD NETWORK [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71197
 
 
-#EXTINF:-1,FOX SPORTS 2 Ultra Qualidade dual audio
+#EXTINF:-1,FOX SPORTS 2 [Ultra Qualidade] dual audio
 http://grtsvk.life:8080/luiz01/luiz01/88420
 
 
-#EXTINF:-1,FOX SPORTS 2 Alta Qualidade
+#EXTINF:-1,FOX SPORTS 2 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135464
 
 
-#EXTINF:-1,FOX SPORTS 2 Media Qualidade
+#EXTINF:-1,FOX SPORTS 2 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71342
 
 
-#EXTINF:-1,FOX SPORTS 2 Baixa Qualidade
+#EXTINF:-1,FOX SPORTS 2 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71201
 
 
-#EXTINF:-1,FOX SPORTS Ultra Qualidade
+#EXTINF:-1,FOX SPORTS [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88413
 
 
-#EXTINF:-1,FOX SPORTS Alta Qualidade
+#EXTINF:-1,FOX SPORTS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/74903
 
 
-#EXTINF:-1,FOX SPORTS H265
+#EXTINF:-1,FOX SPORTS - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88461
 
 
-#EXTINF:-1,FOX SPORTS Media Qualidade
+#EXTINF:-1,FOX SPORTS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71343
 
 
-#EXTINF:-1,FOX SPORTS Baixa Qualidade
+#EXTINF:-1,FOX SPORTS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71200
 
 
@@ -1543,19 +1543,19 @@ http://grtsvk.life:8080/luiz01/luiz01/71202
 http://grtsvk.life:8080/luiz01/luiz01/59117
 
 
-#EXTINF:-1,FX Alta Qualidade
+#EXTINF:-1,FX [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135507
 
 
-#EXTINF:-1,FX H265
+#EXTINF:-1,FX - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88441
 
 
-#EXTINF:-1,FX Media Qualidade
+#EXTINF:-1,FX [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71344
 
 
-#EXTINF:-1,FX Baixa Qualidade
+#EXTINF:-1,FX [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71203
 
 
@@ -1579,11 +1579,11 @@ http://grtsvk.life:8080/luiz01/luiz01/23318
 http://grtsvk.life:8080/luiz01/luiz01/17741
 
 
-#EXTINF:-1,GAZETA Ultra Qualidade
+#EXTINF:-1,GAZETA [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88426
 
 
-#EXTINF:-1,GAZETA Media Qualidade SP
+#EXTINF:-1,GAZETA [Media Qualidade] SP
 http://grtsvk.life:8080/luiz01/luiz01/71489
 
 
@@ -1595,111 +1595,111 @@ http://grtsvk.life:8080/luiz01/luiz01/17719
 http://grtsvk.life:8080/luiz01/luiz01/95910
 
 
-#EXTINF:-1,GLOBINHO Alta Qualidade
+#EXTINF:-1,GLOBINHO [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135511
 
 
-#EXTINF:-1,GLOBINHO Media Qualidade
+#EXTINF:-1,GLOBINHO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71459
 
 
-#EXTINF:-1,GLOBO Ultra Qualidade
+#EXTINF:-1,GLOBO [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88431
 
 
-#EXTINF:-1,GLOBO BAHIA  Alta Qualidade SALVADOR
+#EXTINF:-1,GLOBO BAHIA  [Alta Qualidade] SALVADOR
 http://grtsvk.life:8080/luiz01/luiz01/71564
 
 
-#EXTINF:-1,GLOBO BAHIA Media Qualidade SALVADOR Alta Qualidade
+#EXTINF:-1,GLOBO BAHIA [Media Qualidade] SALVADOR [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71565
 
 
-#EXTINF:-1,GLOBO BRASILIA Media Qualidade
+#EXTINF:-1,GLOBO BRASILIA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71490
 
 
-#EXTINF:-1,GLOBO BRASILIA Baixa Qualidade
+#EXTINF:-1,GLOBO BRASILIA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71204
 
 
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS Media Qualidade
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/72238
 
 
-#EXTINF:-1,GLOBO Alta Qualidade SP H.265
+#EXTINF:-1,GLOBO [Alta Qualidade] SP H.265
 http://grtsvk.life:8080/luiz01/luiz01/88462
 
 
-#EXTINF:-1,GLOBO INTERNACIONAL Media Qualidade
+#EXTINF:-1,GLOBO INTERNACIONAL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71493
 
 
-#EXTINF:-1,GLOBO MINAS Alta Qualidade
+#EXTINF:-1,GLOBO MINAS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71205
 
 
-#EXTINF:-1,GLOBO MINAS Media Qualidade
+#EXTINF:-1,GLOBO MINAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/115444
 
 
-#EXTINF:-1,GLOBO NEWS Alta Qualidade
+#EXTINF:-1,GLOBO NEWS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71345
 
 
-#EXTINF:-1,GLOBO NEWS Media Qualidade¹
+#EXTINF:-1,GLOBO NEWS [Media Qualidade]¹
 http://grtsvk.life:8080/luiz01/luiz01/100794
 
 
-#EXTINF:-1,GLOBO NEWS Baixa Qualidade
+#EXTINF:-1,GLOBO NEWS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71206
 
 
-#EXTINF:-1,GLOBO NORDESTE Media Qualidade
+#EXTINF:-1,GLOBO NORDESTE [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71207
 
 
-#EXTINF:-1,GLOBO NORDESTE RF Alta Qualidade
+#EXTINF:-1,GLOBO NORDESTE RF [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/98243
 
 
-#EXTINF:-1,GLOBO PIAUI TV CLUBE Media Qualidade
+#EXTINF:-1,GLOBO PIAUI TV CLUBE [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/72242
 
 
-#EXTINF:-1,GLOBO RJ Alta Qualidade
+#EXTINF:-1,GLOBO RJ [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71531
 
 
-#EXTINF:-1,GLOBO RJ Media Qualidade
+#EXTINF:-1,GLOBO RJ [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71494
 
 
-#EXTINF:-1,GLOBO RJ Media Qualidade¹
+#EXTINF:-1,GLOBO RJ [Media Qualidade]¹
 http://grtsvk.life:8080/luiz01/luiz01/71574
 
 
-#EXTINF:-1,GLOBO RJ Baixa Qualidade
+#EXTINF:-1,GLOBO RJ [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71208
 
 
-#EXTINF:-1,GLOBO SERGIPE Alta Qualidade
+#EXTINF:-1,GLOBO SERGIPE [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71037
 
 
-#EXTINF:-1,GLOBO SERGIPE Media Qualidade
+#EXTINF:-1,GLOBO SERGIPE [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71495
 
 
-#EXTINF:-1,GLOBO SP Alta Qualidade
+#EXTINF:-1,GLOBO SP [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71573
 
 
-#EXTINF:-1,GLOBO SP Media Qualidade
+#EXTINF:-1,GLOBO SP [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71496
 
 
-#EXTINF:-1,GLOBO SP Baixa Qualidade
+#EXTINF:-1,GLOBO SP [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71209
 
 
@@ -1711,47 +1711,47 @@ http://grtsvk.life:8080/luiz01/luiz01/75369
 http://grtsvk.life:8080/luiz01/luiz01/71491
 
 
-#EXTINF:-1,GLOBO VITORIA Alta Qualidade ES
+#EXTINF:-1,GLOBO VITORIA [Alta Qualidade] ES
 http://grtsvk.life:8080/luiz01/luiz01/88437
 
 
-#EXTINF:-1,GLOBO VITORIA Media Qualidade ES
+#EXTINF:-1,GLOBO VITORIA [Media Qualidade] ES
 http://grtsvk.life:8080/luiz01/luiz01/71537
 
 
-#EXTINF:-1,GLOBONEWS Ultra Qualidade
+#EXTINF:-1,GLOBONEWS [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136305
 
 
-#EXTINF:-1,GLOBOSAT Media Qualidade
+#EXTINF:-1,GLOBOSAT [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71346
 
 
-#EXTINF:-1,GLOBOSAT Baixa Qualidade
+#EXTINF:-1,GLOBOSAT [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71221
 
 
-#EXTINF:-1,GLOOB Alta Qualidade
+#EXTINF:-1,GLOOB [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71083
 
 
-#EXTINF:-1,GLOOB Media Qualidade
+#EXTINF:-1,GLOOB [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71347
 
 
-#EXTINF:-1,GLOOB Baixa Qualidade
+#EXTINF:-1,GLOOB [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71210
 
 
-#EXTINF:-1,GNT Ultra Qualidade
+#EXTINF:-1,GNT [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136311
 
 
-#EXTINF:-1,GNT Media Qualidade
+#EXTINF:-1,GNT [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71348
 
 
-#EXTINF:-1,GNT Baixa Qualidade
+#EXTINF:-1,GNT [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71211
 
 
@@ -1787,55 +1787,55 @@ http://grtsvk.life:8080/luiz01/luiz01/53946
 http://grtsvk.life:8080/luiz01/luiz01/49018
 
 
-#EXTINF:-1,HBO  Baixa Qualidade LEGENDADO
+#EXTINF:-1,HBO  [Baixa Qualidade] LEGENDADO
 http://grtsvk.life:8080/luiz01/luiz01/88869
 
 
-#EXTINF:-1,HBO + Media Qualidade LEGENDADO
+#EXTINF:-1,HBO + [Media Qualidade] LEGENDADO
 http://grtsvk.life:8080/luiz01/luiz01/88871
 
 
-#EXTINF:-1,HBO + Baixa Qualidade LEGENDADO
+#EXTINF:-1,HBO + [Baixa Qualidade] LEGENDADO
 http://grtsvk.life:8080/luiz01/luiz01/88868
 
 
-#EXTINF:-1,HBO 2 Alta Qualidade
+#EXTINF:-1,HBO 2 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71131
 
 
-#EXTINF:-1,HBO 2 Media Qualidade
+#EXTINF:-1,HBO 2 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71349
 
 
-#EXTINF:-1,HBO 2 Baixa Qualidade
+#EXTINF:-1,HBO 2 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71216
 
 
-#EXTINF:-1,HBO Ultra Qualidade
+#EXTINF:-1,HBO [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88424
 
 
-#EXTINF:-1,HBO FAMILY Alta Qualidade
+#EXTINF:-1,HBO FAMILY [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135450
 
 
-#EXTINF:-1,HBO FAMILY Media Qualidade
+#EXTINF:-1,HBO FAMILY [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71350
 
 
-#EXTINF:-1,HBO FAMILY Baixa Qualidade
+#EXTINF:-1,HBO FAMILY [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71213
 
 
-#EXTINF:-1,HBO Alta Qualidade
+#EXTINF:-1,HBO [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71130
 
 
-#EXTINF:-1,HBO Media Qualidade
+#EXTINF:-1,HBO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71351
 
 
-#EXTINF:-1,HBO Media Qualidade LEGENDADO
+#EXTINF:-1,HBO [Media Qualidade] LEGENDADO
 http://grtsvk.life:8080/luiz01/luiz01/88870
 
 
@@ -1863,75 +1863,75 @@ http://grtsvk.life:8080/luiz01/luiz01/123224
 http://grtsvk.life:8080/luiz01/luiz01/136164
 
 
-#EXTINF:-1,HBO MUNDI Alta Qualidade
+#EXTINF:-1,HBO MUNDI [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71137
 
 
-#EXTINF:-1,HBO MUNDI Media Qualidade
+#EXTINF:-1,HBO MUNDI [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71358
 
 
-#EXTINF:-1,HBO PLUS Alta Qualidade
+#EXTINF:-1,HBO PLUS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71132
 
 
-#EXTINF:-1,HBO PLUS H265
+#EXTINF:-1,HBO PLUS - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88442
 
 
-#EXTINF:-1,HBO PLUS Media Qualidade
+#EXTINF:-1,HBO PLUS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71352
 
 
-#EXTINF:-1,HBO PLUS Baixa Qualidade
+#EXTINF:-1,HBO PLUS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71214
 
 
-#EXTINF:-1,HBO POP Alta Qualidade
+#EXTINF:-1,HBO POP [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71139
 
 
-#EXTINF:-1,HBO POP H265
+#EXTINF:-1,HBO POP - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88443
 
 
-#EXTINF:-1,HBO POP Media Qualidade
+#EXTINF:-1,HBO POP [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71360
 
 
-#EXTINF:-1,HBO Baixa Qualidade
+#EXTINF:-1,HBO [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71212
 
 
-#EXTINF:-1,HBO Baixa Qualidade  LEGENDADO
+#EXTINF:-1,HBO [Baixa Qualidade]  LEGENDADO
 http://grtsvk.life:8080/luiz01/luiz01/88859
 
 
-#EXTINF:-1,HBO SIGNATURE Alta Qualidade
+#EXTINF:-1,HBO SIGNATURE [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71133
 
 
-#EXTINF:-1,HBO SIGNATURE Media Qualidade
+#EXTINF:-1,HBO SIGNATURE [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71353
 
 
-#EXTINF:-1,HBO SIGNATURE Baixa Qualidade
+#EXTINF:-1,HBO SIGNATURE [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71215
 
 
-#EXTINF:-1,HBO XTREME Ultra Qualidade
+#EXTINF:-1,HBO XTREME [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88428
 
 
-#EXTINF:-1,HBO XTREME Alta Qualidade
+#EXTINF:-1,HBO XTREME [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71141
 
 
-#EXTINF:-1,HBO XTREME H265
+#EXTINF:-1,HBO XTREME - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88445
 
 
-#EXTINF:-1,HBO XTREME Media Qualidade
+#EXTINF:-1,HBO XTREME [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71359
 
 
@@ -1943,35 +1943,35 @@ http://grtsvk.life:8080/luiz01/luiz01/17456
 http://grtsvk.life:8080/luiz01/luiz01/53955
 
 
-#EXTINF:-1,HGTV Media Qualidade
+#EXTINF:-1,HGTV [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71577
 
 
-#EXTINF:-1,HGTV Media Qualidade
+#EXTINF:-1,HGTV [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71323
 
 
-#EXTINF:-1,HISTORY 2 Alta Qualidade
+#EXTINF:-1,HISTORY 2 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71576
 
 
-#EXTINF:-1,HISTORY 2 Media Qualidade
+#EXTINF:-1,HISTORY 2 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71354
 
 
-#EXTINF:-1,HISTORY 2 Baixa Qualidade
+#EXTINF:-1,HISTORY 2 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71217
 
 
-#EXTINF:-1,HISTORY Alta Qualidade
+#EXTINF:-1,HISTORY [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71575
 
 
-#EXTINF:-1,HISTORY Media Qualidade
+#EXTINF:-1,HISTORY [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71355
 
 
-#EXTINF:-1,HISTORY Baixa Qualidade
+#EXTINF:-1,HISTORY [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71303
 
 
@@ -2011,7 +2011,7 @@ http://grtsvk.life:8080/luiz01/luiz01/17460
 http://grtsvk.life:8080/luiz01/luiz01/95068
 
 
-#EXTINF:-1,IMPD TV Alta Qualidade
+#EXTINF:-1,IMPD TV [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71696
 
 
@@ -2019,31 +2019,31 @@ http://grtsvk.life:8080/luiz01/luiz01/71696
 http://grtsvk.life:8080/luiz01/luiz01/23320
 
 
-#EXTINF:-1,INTER TV ALTO LITORAL Media Qualidade
+#EXTINF:-1,INTER TV ALTO LITORAL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71013
 
 
-#EXTINF:-1,INTER TV CABO FRIO Media Qualidade
+#EXTINF:-1,INTER TV CABO FRIO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71530
 
 
-#EXTINF:-1,INTER TV CABUGI Alta Qualidade
+#EXTINF:-1,INTER TV CABUGI [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71219
 
 
-#EXTINF:-1,INTER TV CABUGI NATAL Media Qualidade
+#EXTINF:-1,INTER TV CABUGI NATAL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71014
 
 
-#EXTINF:-1,INTER TV DOS VALES Media Qualidade
+#EXTINF:-1,INTER TV DOS VALES [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71015
 
 
-#EXTINF:-1,INTER TV GRANDE MINAS Media Qualidade
+#EXTINF:-1,INTER TV GRANDE MINAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71016
 
 
-#EXTINF:-1,INTER TV SERRA MAR Media Qualidade
+#EXTINF:-1,INTER TV SERRA MAR [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71017
 
 
@@ -2095,15 +2095,15 @@ http://grtsvk.life:8080/luiz01/luiz01/18324
 http://grtsvk.life:8080/luiz01/luiz01/62390
 
 
-#EXTINF:-1,JOVEM PAN Media Qualidade
+#EXTINF:-1,JOVEM PAN [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/127560
 
 
-#EXTINF:-1,JOVEM PAN NEWS Ultra Qualidade
+#EXTINF:-1,JOVEM PAN NEWS [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136303
 
 
-#EXTINF:-1,JOVEM PAN NEWS Alta Qualidade
+#EXTINF:-1,JOVEM PAN NEWS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/133314
 
 
@@ -2155,15 +2155,15 @@ http://grtsvk.life:8080/luiz01/luiz01/16947
 http://grtsvk.life:8080/luiz01/luiz01/17463
 
 
-#EXTINF:-1,LIFETIME Alta Qualidade
+#EXTINF:-1,LIFETIME [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71357
 
 
-#EXTINF:-1,LIFETIME Media Qualidade
+#EXTINF:-1,LIFETIME [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71147
 
 
-#EXTINF:-1,LIFETIME Baixa Qualidade
+#EXTINF:-1,LIFETIME [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71220
 
 
@@ -2191,7 +2191,7 @@ http://grtsvk.life:8080/luiz01/luiz01/31085
 http://grtsvk.life:8080/luiz01/luiz01/31068
 
 
-#EXTINF:-1,LOANDING Media Qualidade
+#EXTINF:-1,LOANDING [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71469
 
 
@@ -2243,7 +2243,7 @@ http://grtsvk.life:8080/luiz01/luiz01/17466
 http://grtsvk.life:8080/luiz01/luiz01/30001
 
 
-#EXTINF:-1,MEGA PIX Ultra Qualidade dual audio
+#EXTINF:-1,MEGA PIX [Ultra Qualidade] dual audio
 http://grtsvk.life:8080/luiz01/luiz01/88419
 
 
@@ -2251,19 +2251,19 @@ http://grtsvk.life:8080/luiz01/luiz01/88419
 http://grtsvk.life:8080/luiz01/luiz01/35997
 
 
-#EXTINF:-1,MEGAPIX Alta Qualidade
+#EXTINF:-1,MEGAPIX [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71088
 
 
-#EXTINF:-1,MEGAPIX H265
+#EXTINF:-1,MEGAPIX - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88444
 
 
-#EXTINF:-1,MEGAPIX Media Qualidade
+#EXTINF:-1,MEGAPIX [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71361
 
 
-#EXTINF:-1,MEGAPIX Baixa Qualidade
+#EXTINF:-1,MEGAPIX [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71225
 
 
@@ -2315,19 +2315,19 @@ http://grtsvk.life:8080/luiz01/luiz01/89374
 http://grtsvk.life:8080/luiz01/luiz01/17711
 
 
-#EXTINF:-1,MTV Media Qualidade
+#EXTINF:-1,MTV [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71149
 
 
-#EXTINF:-1,MTV Media Qualidade
+#EXTINF:-1,MTV [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71362
 
 
-#EXTINF:-1,MTV LIVE Media Qualidade
+#EXTINF:-1,MTV LIVE [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71150
 
 
-#EXTINF:-1,MTV Baixa Qualidade
+#EXTINF:-1,MTV [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71226
 
 
@@ -2339,19 +2339,19 @@ http://grtsvk.life:8080/luiz01/luiz01/17915
 http://grtsvk.life:8080/luiz01/luiz01/62698
 
 
-#EXTINF:-1,MULTISHOW Ultra Qualidade dual audio
+#EXTINF:-1,MULTISHOW [Ultra Qualidade] dual audio
 http://grtsvk.life:8080/luiz01/luiz01/88417
 
 
-#EXTINF:-1,MULTISHOW Alta Qualidade
+#EXTINF:-1,MULTISHOW [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71151
 
 
-#EXTINF:-1,MULTISHOW Media Qualidade
+#EXTINF:-1,MULTISHOW [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71363
 
 
-#EXTINF:-1,MULTISHOW Baixa Qualidade
+#EXTINF:-1,MULTISHOW [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71227
 
 
@@ -2359,7 +2359,7 @@ http://grtsvk.life:8080/luiz01/luiz01/71227
 http://grtsvk.life:8080/luiz01/luiz01/90161
 
 
-#EXTINF:-1,MUSIC BOX BRASIL Media Qualidade
+#EXTINF:-1,MUSIC BOX BRASIL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/138719
 
 
@@ -2379,47 +2379,47 @@ http://grtsvk.life:8080/luiz01/luiz01/35162
 http://grtsvk.life:8080/luiz01/luiz01/10252
 
 
-#EXTINF:-1,NAT GEO Alta Qualidade
+#EXTINF:-1,NAT GEO [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/122064
 
 
-#EXTINF:-1,NAT GEO Media Qualidade
+#EXTINF:-1,NAT GEO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71364
 
 
-#EXTINF:-1,NAT GEO KIDS Alta Qualidade
+#EXTINF:-1,NAT GEO KIDS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135433
 
 
-#EXTINF:-1,NAT GEO Baixa Qualidade
+#EXTINF:-1,NAT GEO [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71232
 
 
-#EXTINF:-1,NAT GEO WILD Alta Qualidade
+#EXTINF:-1,NAT GEO WILD [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135432
 
 
-#EXTINF:-1,NAT GEO WILD Media Qualidade
+#EXTINF:-1,NAT GEO WILD [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71366
 
 
-#EXTINF:-1,NAT GEO WILD Baixa Qualidade
+#EXTINF:-1,NAT GEO WILD [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71231
 
 
-#EXTINF:-1,NATGEO Ultra Qualidade
+#EXTINF:-1,NATGEO [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/122063
 
 
-#EXTINF:-1,NATGEO Ultra Qualidade dual audio
+#EXTINF:-1,NATGEO [Ultra Qualidade] dual audio
 http://grtsvk.life:8080/luiz01/luiz01/88421
 
 
-#EXTINF:-1,NATGEO KIDS Media Qualidade
+#EXTINF:-1,NATGEO KIDS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71365
 
 
-#EXTINF:-1,NATGEO KIDS Baixa Qualidade
+#EXTINF:-1,NATGEO KIDS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71230
 
 
@@ -2427,7 +2427,7 @@ http://grtsvk.life:8080/luiz01/luiz01/71230
 http://grtsvk.life:8080/luiz01/luiz01/72239
 
 
-#EXTINF:-1,NBA Media Qualidade
+#EXTINF:-1,NBA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/72240
 
 
@@ -2447,31 +2447,31 @@ http://grtsvk.life:8080/luiz01/luiz01/101589
 http://grtsvk.life:8080/luiz01/luiz01/136173
 
 
-#EXTINF:-1,NICK JR Alta Qualidade
+#EXTINF:-1,NICK JR [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71085
 
 
-#EXTINF:-1,NICK JR Media Qualidade
+#EXTINF:-1,NICK JR [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71368
 
 
-#EXTINF:-1,NICK JR Baixa Qualidade
+#EXTINF:-1,NICK JR [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71234
 
 
-#EXTINF:-1,NICK JR Baixa Qualidade
+#EXTINF:-1,NICK JR [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71693
 
 
-#EXTINF:-1,NICKELODEON Alta Qualidade
+#EXTINF:-1,NICKELODEON [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135431
 
 
-#EXTINF:-1,NICKELODEON Media Qualidade
+#EXTINF:-1,NICKELODEON [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71367
 
 
-#EXTINF:-1,NICKELODEON Baixa Qualidade
+#EXTINF:-1,NICKELODEON [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71235
 
 
@@ -2483,15 +2483,15 @@ http://grtsvk.life:8080/luiz01/luiz01/115298
 http://grtsvk.life:8080/luiz01/luiz01/63465
 
 
-#EXTINF:-1,NOVO TEMPO Media Qualidade
+#EXTINF:-1,NOVO TEMPO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71155
 
 
-#EXTINF:-1,NOVO TEMPO Media Qualidade
+#EXTINF:-1,NOVO TEMPO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71431
 
 
-#EXTINF:-1,NOVO TEMPO Baixa Qualidade
+#EXTINF:-1,NOVO TEMPO [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71305
 
 
@@ -2499,23 +2499,23 @@ http://grtsvk.life:8080/luiz01/luiz01/71305
 http://grtsvk.life:8080/luiz01/luiz01/124221
 
 
-#EXTINF:-1,NSC TV BLUMENAU Media Qualidade
+#EXTINF:-1,NSC TV BLUMENAU [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71018
 
 
-#EXTINF:-1,NSC TV CHAPECO Media Qualidade
+#EXTINF:-1,NSC TV CHAPECO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71019
 
 
-#EXTINF:-1,NSC TV CRICIUMA Media Qualidade
+#EXTINF:-1,NSC TV CRICIUMA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71020
 
 
-#EXTINF:-1,NSC TV JOINVILLE Media Qualidade
+#EXTINF:-1,NSC TV JOINVILLE [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71021
 
 
-#EXTINF:-1,NSC TV SSANTA CATARINA Media Qualidade
+#EXTINF:-1,NSC TV SSANTA CATARINA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71523
 
 
@@ -2563,19 +2563,19 @@ http://grtsvk.life:8080/luiz01/luiz01/53953
 http://grtsvk.life:8080/luiz01/luiz01/137935
 
 
-#EXTINF:-1,OFF Alta Qualidade
+#EXTINF:-1,OFF [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71152
 
 
-#EXTINF:-1,OFF H265
+#EXTINF:-1,OFF - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88451
 
 
-#EXTINF:-1,OFF Media Qualidade
+#EXTINF:-1,OFF [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71369
 
 
-#EXTINF:-1,OFF Baixa Qualidade
+#EXTINF:-1,OFF [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71236
 
 
@@ -2671,15 +2671,15 @@ http://grtsvk.life:8080/luiz01/luiz01/17535
 http://grtsvk.life:8080/luiz01/luiz01/71009
 
 
-#EXTINF:-1,PARAMOUNT Alta Qualidade
+#EXTINF:-1,PARAMOUNT [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71095
 
 
-#EXTINF:-1,PARAMOUNT Media Qualidade
+#EXTINF:-1,PARAMOUNT [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71370
 
 
-#EXTINF:-1,PARAMOUNT Baixa Qualidade
+#EXTINF:-1,PARAMOUNT [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71237
 
 
@@ -2719,11 +2719,11 @@ http://grtsvk.life:8080/luiz01/luiz01/136170
 http://grtsvk.life:8080/luiz01/luiz01/137936
 
 
-#EXTINF:-1,PLAY KIDS Baixa Qualidade
+#EXTINF:-1,PLAY KIDS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71309
 
 
-#EXTINF:-1,PLAY TV Baixa Qualidade
+#EXTINF:-1,PLAY TV [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71239
 
 
@@ -2735,7 +2735,7 @@ http://grtsvk.life:8080/luiz01/luiz01/21254
 http://grtsvk.life:8080/luiz01/luiz01/53954
 
 
-#EXTINF:-1,POLISHOP TV Baixa Qualidade
+#EXTINF:-1,POLISHOP TV [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71240
 
 
@@ -2743,119 +2743,119 @@ http://grtsvk.life:8080/luiz01/luiz01/71240
 http://grtsvk.life:8080/luiz01/luiz01/17744
 
 
-#EXTINF:-1,PREMIERE 2 Alta Qualidade
+#EXTINF:-1,PREMIERE 2 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71105
 
 
-#EXTINF:-1,PREMIERE 2 Media Qualidade
+#EXTINF:-1,PREMIERE 2 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71112
 
 
-#EXTINF:-1,PREMIERE 2 Media Qualidade
+#EXTINF:-1,PREMIERE 2 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71371
 
 
-#EXTINF:-1,PREMIERE 2 Baixa Qualidade
+#EXTINF:-1,PREMIERE 2 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71241
 
 
-#EXTINF:-1,PREMIERE 3 Alta Qualidade
+#EXTINF:-1,PREMIERE 3 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71106
 
 
-#EXTINF:-1,PREMIERE 3 Alta Qualidade
+#EXTINF:-1,PREMIERE 3 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71113
 
 
-#EXTINF:-1,PREMIERE 3 Media Qualidade
+#EXTINF:-1,PREMIERE 3 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71372
 
 
-#EXTINF:-1,PREMIERE 3 Baixa Qualidade
+#EXTINF:-1,PREMIERE 3 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71242
 
 
-#EXTINF:-1,PREMIERE 4 Alta Qualidade
+#EXTINF:-1,PREMIERE 4 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71107
 
 
-#EXTINF:-1,Premiere 4 Media Qualidade
+#EXTINF:-1,Premiere 4 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71373
 
 
-#EXTINF:-1,PREMIERE 4 Baixa Qualidade
+#EXTINF:-1,PREMIERE 4 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71243
 
 
-#EXTINF:-1,PREMIERE 5 Alta Qualidade
+#EXTINF:-1,PREMIERE 5 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71115
 
 
-#EXTINF:-1,PREMIERE 5 Media Qualidade
+#EXTINF:-1,PREMIERE 5 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71374
 
 
-#EXTINF:-1,PREMIERE 5 Baixa Qualidade
+#EXTINF:-1,PREMIERE 5 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71244
 
 
-#EXTINF:-1,PREMIERE 6 Alta Qualidade
+#EXTINF:-1,PREMIERE 6 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71375
 
 
-#EXTINF:-1,PREMIERE 6 Media Qualidade
+#EXTINF:-1,PREMIERE 6 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71109
 
 
-#EXTINF:-1,PREMIERE 6 Baixa Qualidade
+#EXTINF:-1,PREMIERE 6 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71245
 
 
-#EXTINF:-1,PREMIERE 7 Alta Qualidade
+#EXTINF:-1,PREMIERE 7 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71376
 
 
-#EXTINF:-1,PREMIERE 7 Media Qualidade
+#EXTINF:-1,PREMIERE 7 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71110
 
 
-#EXTINF:-1,PREMIERE 7 Baixa Qualidade
+#EXTINF:-1,PREMIERE 7 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71246
 
 
-#EXTINF:-1,PREMIERE CLUBES Ultra Qualidade
+#EXTINF:-1,PREMIERE CLUBES [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88411
 
 
-#EXTINF:-1,PREMIERE CLUBES Alta Qualidade
+#EXTINF:-1,PREMIERE CLUBES [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71104
 
 
-#EXTINF:-1,PREMIERE CLUBES H265
+#EXTINF:-1,PREMIERE CLUBES - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88457
 
 
-#EXTINF:-1,PREMIERE CLUBES Media Qualidade
+#EXTINF:-1,PREMIERE CLUBES [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71377
 
 
-#EXTINF:-1,PREMIERE CLUBES Baixa Qualidade
+#EXTINF:-1,PREMIERE CLUBES [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71111
 
 
-#EXTINF:-1,PREMIERE CLUBES Baixa Qualidade
+#EXTINF:-1,PREMIERE CLUBES [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71249
 
 
-#EXTINF:-1,PRIME BOX BRASIL Alta Qualidade
+#EXTINF:-1,PRIME BOX BRASIL [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/138721
 
 
-#EXTINF:-1,PRIME BOX BRASIL Media Qualidade
+#EXTINF:-1,PRIME BOX BRASIL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/138722
 
 
-#EXTINF:-1,PRIME BOX BRASIL Baixa Qualidade
+#EXTINF:-1,PRIME BOX BRASIL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71250
 
 
@@ -2867,43 +2867,43 @@ http://grtsvk.life:8080/luiz01/luiz01/114752
 http://grtsvk.life:8080/luiz01/luiz01/17917
 
 
-#EXTINF:-1,PT: A BOLA TV Alta Qualidade
+#EXTINF:-1,PT: A BOLA TV [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/23418
 
 
-#EXTINF:-1,PT: BTV 1 Alta Qualidade
+#EXTINF:-1,PT: BTV 1 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/73835
 
 
-#EXTINF:-1,PT: ELEVEN SPORTS 1 Alta Qualidade
+#EXTINF:-1,PT: ELEVEN SPORTS 1 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/73829
 
 
-#EXTINF:-1,PT: ELEVEN SPORTS 2 Alta Qualidade
+#EXTINF:-1,PT: ELEVEN SPORTS 2 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/73830
 
 
-#EXTINF:-1,PT: ELEVEN SPORTS 3 Alta Qualidade
+#EXTINF:-1,PT: ELEVEN SPORTS 3 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/73831
 
 
-#EXTINF:-1,PT: ELEVEN SPORTS 4 Alta Qualidade
+#EXTINF:-1,PT: ELEVEN SPORTS 4 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/73832
 
 
-#EXTINF:-1,PT: ELEVEN SPORTS 5 Alta Qualidade
+#EXTINF:-1,PT: ELEVEN SPORTS 5 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/73833
 
 
-#EXTINF:-1,PT: ELEVEN SPORTS 6 Alta Qualidade
+#EXTINF:-1,PT: ELEVEN SPORTS 6 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/73834
 
 
-#EXTINF:-1,PT: EUROSPORT 2 Alta Qualidade
+#EXTINF:-1,PT: EUROSPORT 2 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/33987
 
 
-#EXTINF:-1,PT: EUROSPORT Media Qualidade
+#EXTINF:-1,PT: EUROSPORT [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/33988
 
 
@@ -2923,7 +2923,7 @@ http://grtsvk.life:8080/luiz01/luiz01/41756
 http://grtsvk.life:8080/luiz01/luiz01/41755
 
 
-#EXTINF:-1,RAI INTERNACIONAL Media Qualidade
+#EXTINF:-1,RAI INTERNACIONAL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71473
 
 
@@ -2931,71 +2931,71 @@ http://grtsvk.life:8080/luiz01/luiz01/71473
 http://grtsvk.life:8080/luiz01/luiz01/30008
 
 
-#EXTINF:-1,RBS CAXIAS DO SUL Alta Qualidade
+#EXTINF:-1,RBS CAXIAS DO SUL [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71546
 
 
-#EXTINF:-1,RBS CAXIAS Media Qualidade
+#EXTINF:-1,RBS CAXIAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71545
 
 
-#EXTINF:-1,RBS PELOTAS Alta Qualidade
+#EXTINF:-1,RBS PELOTAS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71547
 
 
-#EXTINF:-1,RBS PELOTAS Media Qualidade
+#EXTINF:-1,RBS PELOTAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71548
 
 
-#EXTINF:-1,RBS TV CAXIAS DO SUL Media Qualidade
+#EXTINF:-1,RBS TV CAXIAS DO SUL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71022
 
 
-#EXTINF:-1,RBS TV PASSO FUNDO Media Qualidade
+#EXTINF:-1,RBS TV PASSO FUNDO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71497
 
 
-#EXTINF:-1,RBS TV PELOTAS Media Qualidade
+#EXTINF:-1,RBS TV PELOTAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71023
 
 
-#EXTINF:-1,RBS TV PORTO ALEGRE H265
+#EXTINF:-1,RBS TV PORTO ALEGRE - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/71024
 
 
-#EXTINF:-1,RBS TV PORTO ALEGRE Media Qualidade
+#EXTINF:-1,RBS TV PORTO ALEGRE [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71251
 
 
-#EXTINF:-1,RBS TV SANTA MARIA Media Qualidade
+#EXTINF:-1,RBS TV SANTA MARIA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71025
 
 
-#EXTINF:-1,RECORD Ultra Qualidade 
+#EXTINF:-1,RECORD [Ultra Qualidade] 
 http://grtsvk.life:8080/luiz01/luiz01/88436
 
 
-#EXTINF:-1,RECORD BAHIA Media Qualidade
+#EXTINF:-1,RECORD BAHIA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71046
 
 
-#EXTINF:-1,RECORD BH MINAS Media Qualidade
+#EXTINF:-1,RECORD BH MINAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71447
 
 
-#EXTINF:-1,RECORD BRASILIA Media Qualidade
+#EXTINF:-1,RECORD BRASILIA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71045
 
 
-#EXTINF:-1,RECORD BRASILIA Media Qualidade
+#EXTINF:-1,RECORD BRASILIA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71498
 
 
-#EXTINF:-1,RECORD CAMPINAS Alta Qualidade
+#EXTINF:-1,RECORD CAMPINAS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/139427
 
 
-#EXTINF:-1,RECORD GOIAS Media Qualidade
+#EXTINF:-1,RECORD GOIAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71044
 
 
@@ -3003,87 +3003,87 @@ http://grtsvk.life:8080/luiz01/luiz01/71044
 http://grtsvk.life:8080/luiz01/luiz01/71544
 
 
-#EXTINF:-1,RECORD MANAUS Media Qualidade
+#EXTINF:-1,RECORD MANAUS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71047
 
 
-#EXTINF:-1,RECORD MANAUS Media Qualidade
+#EXTINF:-1,RECORD MANAUS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71542
 
 
-#EXTINF:-1,RECORD MG Media Qualidade
+#EXTINF:-1,RECORD MG [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71039
 
 
-#EXTINF:-1,RECORD MINAS Media Qualidade
+#EXTINF:-1,RECORD MINAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71043
 
 
-#EXTINF:-1,RECORD NEWS Media Qualidade
+#EXTINF:-1,RECORD NEWS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71429
 
 
-#EXTINF:-1,RECORD NEWS Baixa Qualidade
+#EXTINF:-1,RECORD NEWS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71252
 
 
-#EXTINF:-1,RECORD PARA Media Qualidade
+#EXTINF:-1,RECORD PARA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71041
 
 
-#EXTINF:-1,RECORD RIO Media Qualidade
+#EXTINF:-1,RECORD RIO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71040
 
 
-#EXTINF:-1,RECORD RJ Media Qualidade
+#EXTINF:-1,RECORD RJ [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71506
 
 
-#EXTINF:-1,RECORD RS Media Qualidade
+#EXTINF:-1,RECORD RS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71500
 
 
-#EXTINF:-1,RECORD SAO JOSE RIO PRETO Media Qualidade
+#EXTINF:-1,RECORD SAO JOSE RIO PRETO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71501
 
 
-#EXTINF:-1,RECORD SERGIPE TV ATALAIA Media Qualidade
+#EXTINF:-1,RECORD SERGIPE TV ATALAIA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71502
 
 
-#EXTINF:-1,RECORD SP Alta Qualidade
+#EXTINF:-1,RECORD SP [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135508
 
 
-#EXTINF:-1,RECORD SP Media Qualidade
+#EXTINF:-1,RECORD SP [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71038
 
 
-#EXTINF:-1,RECORD TV BELEM Media Qualidade
+#EXTINF:-1,RECORD TV BELEM [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71503
 
 
-#EXTINF:-1,RECORD TV GOIANIA Media Qualidade
+#EXTINF:-1,RECORD TV GOIANIA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71378
 
 
-#EXTINF:-1,RECORD TV LITORAL Media Qualidade SANTOS
+#EXTINF:-1,RECORD TV LITORAL [Media Qualidade] SANTOS
 http://grtsvk.life:8080/luiz01/luiz01/71504
 
 
-#EXTINF:-1,RECORD TV MINAS Media Qualidade
+#EXTINF:-1,RECORD TV MINAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71505
 
 
-#EXTINF:-1,RECORD TV PARANA Media Qualidade
+#EXTINF:-1,RECORD TV PARANA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71529
 
 
-#EXTINF:-1,RECORD TV SANTA CATARINA Media Qualidade
+#EXTINF:-1,RECORD TV SANTA CATARINA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71524
 
 
-#EXTINF:-1,RECORD TV Baixa Qualidade
+#EXTINF:-1,RECORD TV [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71253
 
 
@@ -3091,11 +3091,11 @@ http://grtsvk.life:8080/luiz01/luiz01/71253
 http://grtsvk.life:8080/luiz01/luiz01/17567
 
 
-#EXTINF:-1,REDE AMAZONICA MANAUS Media Qualidade
+#EXTINF:-1,REDE AMAZONICA MANAUS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71254
 
 
-#EXTINF:-1,REDE BRASIL Baixa Qualidade
+#EXTINF:-1,REDE BRASIL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71255
 
 
@@ -3103,7 +3103,7 @@ http://grtsvk.life:8080/luiz01/luiz01/71255
 http://grtsvk.life:8080/luiz01/luiz01/135512
 
 
-#EXTINF:-1,REDE MINAS Media Qualidade
+#EXTINF:-1,REDE MINAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71432
 
 
@@ -3111,19 +3111,19 @@ http://grtsvk.life:8080/luiz01/luiz01/71432
 http://grtsvk.life:8080/luiz01/luiz01/96334
 
 
-#EXTINF:-1,REDE TV Alta Qualidade
+#EXTINF:-1,REDE TV [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135509
 
 
-#EXTINF:-1,REDE TV Media Qualidade
+#EXTINF:-1,REDE TV [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71379
 
 
-#EXTINF:-1,REDE TV Media Qualidade¹
+#EXTINF:-1,REDE TV [Media Qualidade]¹
 http://grtsvk.life:8080/luiz01/luiz01/71553
 
 
-#EXTINF:-1,REDE TV Baixa Qualidade
+#EXTINF:-1,REDE TV [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71256
 
 
@@ -3131,7 +3131,7 @@ http://grtsvk.life:8080/luiz01/luiz01/71256
 http://grtsvk.life:8080/luiz01/luiz01/71257
 
 
-#EXTINF:-1,REDETV Ultra Qualidade
+#EXTINF:-1,REDETV [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88425
 
 
@@ -3171,31 +3171,31 @@ http://grtsvk.life:8080/luiz01/luiz01/10704
 http://grtsvk.life:8080/luiz01/luiz01/17568
 
 
-#EXTINF:-1,RPC FOZ DO IGUACU Alta Qualidade
+#EXTINF:-1,RPC FOZ DO IGUACU [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71561
 
 
-#EXTINF:-1,RPC FOZ DO IGUACU Media Qualidade
+#EXTINF:-1,RPC FOZ DO IGUACU [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71026
 
 
-#EXTINF:-1,RPC PARANAVAI Media Qualidade
+#EXTINF:-1,RPC PARANAVAI [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71526
 
 
-#EXTINF:-1,RPC PARANAVAI Media Qualidade
+#EXTINF:-1,RPC PARANAVAI [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71027
 
 
-#EXTINF:-1,RPC PONTA GROSSA Media Qualidade
+#EXTINF:-1,RPC PONTA GROSSA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71028
 
 
-#EXTINF:-1,RPC TV CURITIBA Media Qualidade
+#EXTINF:-1,RPC TV CURITIBA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/86171
 
 
-#EXTINF:-1,RPC TV CURITIBA Baixa Qualidade
+#EXTINF:-1,RPC TV CURITIBA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71258
 
 
@@ -3247,47 +3247,47 @@ http://grtsvk.life:8080/luiz01/luiz01/56498
 http://grtsvk.life:8080/luiz01/luiz01/17536
 
 
-#EXTINF:-1,SBT Ultra Qualidade
+#EXTINF:-1,SBT [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88414
 
 
-#EXTINF:-1,SBT BSB Media Qualidade
+#EXTINF:-1,SBT BSB [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71507
 
 
-#EXTINF:-1,SBT MG TV ALTEROSA Alta Qualidade
+#EXTINF:-1,SBT MG TV ALTEROSA [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71536
 
 
-#EXTINF:-1,SBT PARANA Media Qualidade
+#EXTINF:-1,SBT PARANA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71528
 
 
-#EXTINF:-1,SBT RJ Alta Qualidade
+#EXTINF:-1,SBT RJ [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71541
 
 
-#EXTINF:-1,SBT RJ Media Qualidade
+#EXTINF:-1,SBT RJ [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71538
 
 
-#EXTINF:-1,SBT RS Media Qualidade
+#EXTINF:-1,SBT RS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71508
 
 
-#EXTINF:-1,SBT Baixa Qualidade
+#EXTINF:-1,SBT [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71259
 
 
-#EXTINF:-1,SBT SERGIPE TV APERIPER Media Qualidade
+#EXTINF:-1,SBT SERGIPE TV APERIPER [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71509
 
 
-#EXTINF:-1,SBT SP Media Qualidade
+#EXTINF:-1,SBT SP [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71510
 
 
-#EXTINF:-1,SBT SP Media Qualidade¹
+#EXTINF:-1,SBT SP [Media Qualidade]¹
 http://grtsvk.life:8080/luiz01/luiz01/90159
 
 
@@ -3335,10 +3335,6 @@ http://grtsvk.life:8080/luiz01/luiz01/62357
 http://grtsvk.life:8080/luiz01/luiz01/18327
 
 
-#EXTINF:-1,Shurato.mp4
-http://grtsvk.life:8080/luiz01/luiz01/16994
-
-
 #EXTINF:-1,Simon
 http://grtsvk.life:8080/luiz01/luiz01/137937
 
@@ -3383,23 +3379,23 @@ http://grtsvk.life:8080/luiz01/luiz01/39080
 http://grtsvk.life:8080/luiz01/luiz01/39082
 
 
-#EXTINF:-1,SPACE Ultra Qualidade dual audio
+#EXTINF:-1,SPACE [Ultra Qualidade] dual audio
 http://grtsvk.life:8080/luiz01/luiz01/88433
 
 
-#EXTINF:-1,SPACE Alta Qualidade
+#EXTINF:-1,SPACE [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71099
 
 
-#EXTINF:-1,SPACE H265
+#EXTINF:-1,SPACE - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88446
 
 
-#EXTINF:-1,SPACE Media Qualidade
+#EXTINF:-1,SPACE [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71380
 
 
-#EXTINF:-1,SPACE Baixa Qualidade
+#EXTINF:-1,SPACE [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71262
 
 
@@ -3407,147 +3403,147 @@ http://grtsvk.life:8080/luiz01/luiz01/71262
 http://grtsvk.life:8080/luiz01/luiz01/18328
 
 
-#EXTINF:-1,SPORT TV 1 Alta Qualidade
+#EXTINF:-1,SPORT TV 1 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/32616
 
 
-#EXTINF:-1,SPORT TV 1 Alta Qualidade
+#EXTINF:-1,SPORT TV 1 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/39984
 
 
-#EXTINF:-1,SPORT TV 2 Alta Qualidade
+#EXTINF:-1,SPORT TV 2 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/39986
 
 
-#EXTINF:-1,SPORT TV 4 Alta Qualidade
+#EXTINF:-1,SPORT TV 4 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/39990
 
 
-#EXTINF:-1,SPORT TV 4 Media Qualidade
+#EXTINF:-1,SPORT TV 4 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/39991
 
 
-#EXTINF:-1,SPORT TV 5 Media Qualidade
+#EXTINF:-1,SPORT TV 5 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/39993
 
 
-#EXTINF:-1,SPORTV 2 Alta Qualidade
+#EXTINF:-1,SPORTV 2 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71121
 
 
-#EXTINF:-1,SPORTV 2 Media Qualidade
+#EXTINF:-1,SPORTV 2 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71381
 
 
-#EXTINF:-1,SPORTV 2 Baixa Qualidade
+#EXTINF:-1,SPORTV 2 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71264
 
 
-#EXTINF:-1,SPORTV 3 Alta Qualidade
+#EXTINF:-1,SPORTV 3 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71122
 
 
-#EXTINF:-1,SPORTV 3 Alta Qualidade
+#EXTINF:-1,SPORTV 3 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/32618
 
 
-#EXTINF:-1,SPORTV 3 H265
+#EXTINF:-1,SPORTV 3 - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88459
 
 
-#EXTINF:-1,SPORTV 3 Baixa Qualidade
+#EXTINF:-1,SPORTV 3 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71265
 
 
-#EXTINF:-1,SPORTV Ultra Qualidade
+#EXTINF:-1,SPORTV [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88416
 
 
-#EXTINF:-1,SPORTV Alta Qualidade
+#EXTINF:-1,SPORTV [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71120
 
 
-#EXTINF:-1,SPORTV H265
+#EXTINF:-1,SPORTV - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88458
 
 
-#EXTINF:-1,SPORTV Media Qualidade
+#EXTINF:-1,SPORTV [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71382
 
 
-#EXTINF:-1,SPORTV Baixa Qualidade
+#EXTINF:-1,SPORTV [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71263
 
 
-#EXTINF:-1,STAR CHANNEL Ultra Qualidade
+#EXTINF:-1,STAR CHANNEL [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88430
 
 
-#EXTINF:-1,STAR CHANNEL Alta Qualidade
+#EXTINF:-1,STAR CHANNEL [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135430
 
 
-#EXTINF:-1,STAR CHANNEL Media Qualidade
+#EXTINF:-1,STAR CHANNEL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71338
 
 
-#EXTINF:-1,STAR CHANNEL Media Qualidade LEG
+#EXTINF:-1,STAR CHANNEL [Media Qualidade] LEG
 http://grtsvk.life:8080/luiz01/luiz01/88861
 
 
-#EXTINF:-1,STAR CHANNEL Baixa Qualidade
+#EXTINF:-1,STAR CHANNEL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71198
 
 
-#EXTINF:-1,STAR CHANNEL Baixa Qualidade LEG
+#EXTINF:-1,STAR CHANNEL [Baixa Qualidade] LEG
 http://grtsvk.life:8080/luiz01/luiz01/88860
 
 
-#EXTINF:-1,STAR HITS 2 Alta Qualidade
+#EXTINF:-1,STAR HITS 2 [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71103
 
 
-#EXTINF:-1,STAR HITS 2 H265
+#EXTINF:-1,STAR HITS 2 - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88453
 
 
-#EXTINF:-1,STAR HITS 2 Media Qualidade
+#EXTINF:-1,STAR HITS 2 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71341
 
 
-#EXTINF:-1,STAR HITS 2 Baixa Qualidade
+#EXTINF:-1,STAR HITS 2 [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71101
 
 
-#EXTINF:-1,STAR HITS Ultra Qualidade
+#EXTINF:-1,STAR HITS [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/126002
 
 
-#EXTINF:-1,STAR HITS Alta Qualidade
+#EXTINF:-1,STAR HITS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71102
 
 
-#EXTINF:-1,STAR HITS H265
+#EXTINF:-1,STAR HITS - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88452
 
 
-#EXTINF:-1,STAR HITS Media Qualidade
+#EXTINF:-1,STAR HITS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71340
 
 
-#EXTINF:-1,STAR HITS Baixa Qualidade
+#EXTINF:-1,STAR HITS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71100
 
 
-#EXTINF:-1,STAR LIFE Alta Qualidade
+#EXTINF:-1,STAR LIFE [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135429
 
 
-#EXTINF:-1,STAR LIFE Media Qualidade
+#EXTINF:-1,STAR LIFE [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71339
 
 
-#EXTINF:-1,STAR LIFE Baixa Qualidade
+#EXTINF:-1,STAR LIFE [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71199
 
 
@@ -3587,15 +3583,15 @@ http://grtsvk.life:8080/luiz01/luiz01/23327
 http://grtsvk.life:8080/luiz01/luiz01/23328
 
 
-#EXTINF:-1,STUDIO UNIVERSAL Alta Qualidade
+#EXTINF:-1,STUDIO UNIVERSAL [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71098
 
 
-#EXTINF:-1,STUDIO UNIVERSAL Media Qualidade
+#EXTINF:-1,STUDIO UNIVERSAL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71383
 
 
-#EXTINF:-1,STUDIO UNIVERSAL Baixa Qualidade
+#EXTINF:-1,STUDIO UNIVERSAL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71266
 
 
@@ -3623,15 +3619,15 @@ http://grtsvk.life:8080/luiz01/luiz01/28758
 http://grtsvk.life:8080/luiz01/luiz01/53966
 
 
-#EXTINF:-1,SYFY Alta Qualidade
+#EXTINF:-1,SYFY [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71153
 
 
-#EXTINF:-1,SYFY Media Qualidade
+#EXTINF:-1,SYFY [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71384
 
 
-#EXTINF:-1,SYFY Baixa Qualidade
+#EXTINF:-1,SYFY [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71267
 
 
@@ -3647,19 +3643,19 @@ http://grtsvk.life:8080/luiz01/luiz01/22052
 http://grtsvk.life:8080/luiz01/luiz01/29631
 
 
-#EXTINF:-1,TBS Alta Qualidade
+#EXTINF:-1,TBS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71154
 
 
-#EXTINF:-1,TBS Media Qualidade
+#EXTINF:-1,TBS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71385
 
 
-#EXTINF:-1,TBS Baixa Qualidade
+#EXTINF:-1,TBS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71268
 
 
-#EXTINF:-1,TCM Media Qualidade
+#EXTINF:-1,TCM [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71467
 
 
@@ -3667,131 +3663,131 @@ http://grtsvk.life:8080/luiz01/luiz01/71467
 http://grtsvk.life:8080/luiz01/luiz01/83423
 
 
-#EXTINF:-1,TCM Baixa Qualidade
+#EXTINF:-1,TCM [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71269
 
 
-#EXTINF:-1,TELECINE ACTION Ultra Qualidade
+#EXTINF:-1,TELECINE ACTION [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136313
 
 
-#EXTINF:-1,TELECINE ACTION Alta Qualidade
+#EXTINF:-1,TELECINE ACTION [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71066
 
 
-#EXTINF:-1,TELECINE ACTION Media Qualidade
+#EXTINF:-1,TELECINE ACTION [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71386
 
 
-#EXTINF:-1,TELECINE ACTION Media Qualidade LEGENDADO
+#EXTINF:-1,TELECINE ACTION [Media Qualidade] LEGENDADO
 http://grtsvk.life:8080/luiz01/luiz01/88884
 
 
-#EXTINF:-1,TELECINE ACTION Baixa Qualidade
+#EXTINF:-1,TELECINE ACTION [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71270
 
 
-#EXTINF:-1,TELECINE ACTION Baixa Qualidade LEGENDADO
+#EXTINF:-1,TELECINE ACTION [Baixa Qualidade] LEGENDADO
 http://grtsvk.life:8080/luiz01/luiz01/88885
 
 
-#EXTINF:-1,TELECINE CULT Alta Qualidade
+#EXTINF:-1,TELECINE CULT [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71072
 
 
-#EXTINF:-1,TELECINE CULT Media Qualidade
+#EXTINF:-1,TELECINE CULT [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71387
 
 
-#EXTINF:-1,TELECINE CULT Media Qualidade LEGENDADO
+#EXTINF:-1,TELECINE CULT [Media Qualidade] LEGENDADO
 http://grtsvk.life:8080/luiz01/luiz01/88875
 
 
-#EXTINF:-1,TELECINE CULT Baixa Qualidade
+#EXTINF:-1,TELECINE CULT [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71271
 
 
-#EXTINF:-1,TELECINE CULT Baixa Qualidade LEGENDADO
+#EXTINF:-1,TELECINE CULT [Baixa Qualidade] LEGENDADO
 http://grtsvk.life:8080/luiz01/luiz01/88874
 
 
-#EXTINF:-1,TELECINE FUN Alta Qualidade
+#EXTINF:-1,TELECINE FUN [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71073
 
 
-#EXTINF:-1,TELECINE FUN Alta Qualidade DUAL AUDIO H.265
+#EXTINF:-1,TELECINE FUN [Alta Qualidade] DUAL AUDIO H.265
 http://grtsvk.life:8080/luiz01/luiz01/88456
 
 
-#EXTINF:-1,TELECINE FUN Media Qualidade
+#EXTINF:-1,TELECINE FUN [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71388
 
 
-#EXTINF:-1,TELECINE FUN Baixa Qualidade
+#EXTINF:-1,TELECINE FUN [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71272
 
 
-#EXTINF:-1,TELECINE PIPOCA Ultra Qualidade
+#EXTINF:-1,TELECINE PIPOCA [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88429
 
 
-#EXTINF:-1,TELECINE PIPOCA Alta Qualidade
+#EXTINF:-1,TELECINE PIPOCA [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71068
 
 
-#EXTINF:-1,TELECINE PIPOCA H265
+#EXTINF:-1,TELECINE PIPOCA - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88448
 
 
-#EXTINF:-1,TELECINE PIPOCA Media Qualidade
+#EXTINF:-1,TELECINE PIPOCA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71389
 
 
-#EXTINF:-1,TELECINE PIPOCA Baixa Qualidade
+#EXTINF:-1,TELECINE PIPOCA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71273
 
 
-#EXTINF:-1,TELECINE PREMIUM Ultra Qualidade
+#EXTINF:-1,TELECINE PREMIUM [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/88423
 
 
-#EXTINF:-1,TELECINE PREMIUM Alta Qualidade
+#EXTINF:-1,TELECINE PREMIUM [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71069
 
 
-#EXTINF:-1,TELECINE PREMIUM H265
+#EXTINF:-1,TELECINE PREMIUM - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88450
 
 
-#EXTINF:-1,TELECINE PREMIUM Media Qualidade
+#EXTINF:-1,TELECINE PREMIUM [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71390
 
 
-#EXTINF:-1,TELECINE PREMIUM Media Qualidade LEGENDADO
+#EXTINF:-1,TELECINE PREMIUM [Media Qualidade] LEGENDADO
 http://grtsvk.life:8080/luiz01/luiz01/88873
 
 
-#EXTINF:-1,TELECINE PREMIUM Baixa Qualidade
+#EXTINF:-1,TELECINE PREMIUM [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71274
 
 
-#EXTINF:-1,TELECINE PREMIUM Baixa Qualidade LEGENDADO
+#EXTINF:-1,TELECINE PREMIUM [Baixa Qualidade] LEGENDADO
 http://grtsvk.life:8080/luiz01/luiz01/88872
 
 
-#EXTINF:-1,TELECINE TOUCH Alta Qualidade
+#EXTINF:-1,TELECINE TOUCH [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71076
 
 
-#EXTINF:-1,TELECINE TOUCH Media Qualidade
+#EXTINF:-1,TELECINE TOUCH [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71391
 
 
-#EXTINF:-1,TELECINE TOUCH Baixa Qualidade
+#EXTINF:-1,TELECINE TOUCH [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71275
 
 
-#EXTINF:-1,TERRA VIVA Baixa Qualidade
+#EXTINF:-1,TERRA VIVA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71276
 
 
@@ -3831,43 +3827,43 @@ http://grtsvk.life:8080/luiz01/luiz01/30144
 http://grtsvk.life:8080/luiz01/luiz01/54121
 
 
-#EXTINF:-1,TLC Alta Qualidade
+#EXTINF:-1,TLC [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/135510
 
 
-#EXTINF:-1,TLC Media Qualidade
+#EXTINF:-1,TLC [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71392
 
 
-#EXTINF:-1,TLC Baixa Qualidade
+#EXTINF:-1,TLC [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71277
 
 
-#EXTINF:-1,TNT Ultra Qualidade dual audio
+#EXTINF:-1,TNT [Ultra Qualidade] dual audio
 http://grtsvk.life:8080/luiz01/luiz01/88434
 
 
-#EXTINF:-1,TNT Alta Qualidade
+#EXTINF:-1,TNT [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71087
 
 
-#EXTINF:-1,TNT Media Qualidade
+#EXTINF:-1,TNT [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71393
 
 
-#EXTINF:-1,TNT Baixa Qualidade
+#EXTINF:-1,TNT [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71278
 
 
-#EXTINF:-1,TNT SERIES Alta Qualidade
+#EXTINF:-1,TNT SERIES [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71096
 
 
-#EXTINF:-1,TNT SERIES Media Qualidade
+#EXTINF:-1,TNT SERIES [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71394
 
 
-#EXTINF:-1,TNT SERIES Baixa Qualidade
+#EXTINF:-1,TNT SERIES [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71279
 
 
@@ -3883,27 +3879,27 @@ http://grtsvk.life:8080/luiz01/luiz01/22063
 http://grtsvk.life:8080/luiz01/luiz01/55738
 
 
-#EXTINF:-1,TOONCAST Alta Qualidade
+#EXTINF:-1,TOONCAST [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71086
 
 
-#EXTINF:-1,TOONCAST Media Qualidade
+#EXTINF:-1,TOONCAST [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71460
 
 
-#EXTINF:-1,TOONCAST Baixa Qualidade
+#EXTINF:-1,TOONCAST [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71280
 
 
-#EXTINF:-1,TRAVEL BOX BRASIL Media Qualidade
+#EXTINF:-1,TRAVEL BOX BRASIL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71472
 
 
-#EXTINF:-1,TRU TV Media Qualidade
+#EXTINF:-1,TRU TV [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71281
 
 
-#EXTINF:-1,TRUT TV Media Qualidade
+#EXTINF:-1,TRUT TV [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71468
 
 
@@ -3919,7 +3915,7 @@ http://grtsvk.life:8080/luiz01/luiz01/17537
 http://grtsvk.life:8080/luiz01/luiz01/49106
 
 
-#EXTINF:-1,TV ALTEROSA Media Qualidade SBT MG
+#EXTINF:-1,TV ALTEROSA [Media Qualidade] SBT MG
 http://grtsvk.life:8080/luiz01/luiz01/71525
 
 
@@ -3927,11 +3923,11 @@ http://grtsvk.life:8080/luiz01/luiz01/71525
 http://grtsvk.life:8080/luiz01/luiz01/32422
 
 
-#EXTINF:-1,TV ANHAGUERA Media Qualidade
+#EXTINF:-1,TV ANHAGUERA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71395
 
 
-#EXTINF:-1,TV ANHANGUERA Media Qualidade
+#EXTINF:-1,TV ANHANGUERA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71282
 
 
@@ -3939,7 +3935,7 @@ http://grtsvk.life:8080/luiz01/luiz01/71282
 http://grtsvk.life:8080/luiz01/luiz01/71283
 
 
-#EXTINF:-1,TV APARECIDA Baixa Qualidade
+#EXTINF:-1,TV APARECIDA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/110259
 
 
@@ -3947,39 +3943,39 @@ http://grtsvk.life:8080/luiz01/luiz01/110259
 http://grtsvk.life:8080/luiz01/luiz01/121326
 
 
-#EXTINF:-1,TV ARATU Media Qualidade SBT BAHIA
+#EXTINF:-1,TV ARATU [Media Qualidade] SBT BAHIA
 http://grtsvk.life:8080/luiz01/luiz01/71511
 
 
-#EXTINF:-1,TV ASA BRANCA Alta Qualidade
+#EXTINF:-1,TV ASA BRANCA [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/94364
 
 
-#EXTINF:-1,TV BAHIA Baixa Qualidade
+#EXTINF:-1,TV BAHIA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71284
 
 
-#EXTINF:-1,TV BRASIL Media Qualidade
+#EXTINF:-1,TV BRASIL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71457
 
 
-#EXTINF:-1,TV BRASIL Baixa Qualidade
+#EXTINF:-1,TV BRASIL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71172
 
 
-#EXTINF:-1,TV CABO BRANCO Media Qualidade
+#EXTINF:-1,TV CABO BRANCO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71030
 
 
-#EXTINF:-1,TV CABRALIA Media Qualidade BAHIA RECORD
+#EXTINF:-1,TV CABRALIA [Media Qualidade] BAHIA RECORD
 http://grtsvk.life:8080/luiz01/luiz01/71512
 
 
-#EXTINF:-1,TV CAMARA Baixa Qualidade
+#EXTINF:-1,TV CAMARA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71285
 
 
-#EXTINF:-1,TV CENTRO AMERICA CUIABA Media Qualidade
+#EXTINF:-1,TV CENTRO AMERICA CUIABA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71286
 
 
@@ -3991,19 +3987,19 @@ http://grtsvk.life:8080/luiz01/luiz01/136343
 http://grtsvk.life:8080/luiz01/luiz01/121325
 
 
-#EXTINF:-1,TV CULTURA Alta Qualidade
+#EXTINF:-1,TV CULTURA [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71558
 
 
-#EXTINF:-1,TV CULTURA Media Qualidade
+#EXTINF:-1,TV CULTURA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71559
 
 
-#EXTINF:-1,TV CULTURA Baixa Qualidade
+#EXTINF:-1,TV CULTURA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71560
 
 
-#EXTINF:-1,TV CULTURA Baixa Qualidade
+#EXTINF:-1,TV CULTURA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71287
 
 
@@ -4011,43 +4007,43 @@ http://grtsvk.life:8080/luiz01/luiz01/71287
 http://grtsvk.life:8080/luiz01/luiz01/136160
 
 
-#EXTINF:-1,TV DIARIO FORTALEZA Alta Qualidade
+#EXTINF:-1,TV DIARIO FORTALEZA [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136163
 
 
-#EXTINF:-1,TV DIARIO FORTALEZA Media Qualidade
+#EXTINF:-1,TV DIARIO FORTALEZA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136161
 
 
-#EXTINF:-1,TV DIARIO FORTALEZA Baixa Qualidade
+#EXTINF:-1,TV DIARIO FORTALEZA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136162
 
 
-#EXTINF:-1,TV DIARIO MOGI DAS CRUZES Alta Qualidade
+#EXTINF:-1,TV DIARIO MOGI DAS CRUZES [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136159
 
 
-#EXTINF:-1,TV DIARIO MOGI DAS CRUZES Media Qualidade
+#EXTINF:-1,TV DIARIO MOGI DAS CRUZES [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71433
 
 
-#EXTINF:-1,TV ESCOLA Baixa Qualidade
+#EXTINF:-1,TV ESCOLA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71308
 
 
-#EXTINF:-1,TV EVANGELIZAR Baixa Qualidade
+#EXTINF:-1,TV EVANGELIZAR [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71310
 
 
-#EXTINF:-1,TV GAZETA DE ALAGOAS Media Qualidade
+#EXTINF:-1,TV GAZETA DE ALAGOAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71031
 
 
-#EXTINF:-1,TV GAZETA SUL Media Qualidade
+#EXTINF:-1,TV GAZETA SUL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71032
 
 
-#EXTINF:-1,TV GLOBO RJ INTERIOR Media Qualidade
+#EXTINF:-1,TV GLOBO RJ INTERIOR [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71033
 
 
@@ -4055,11 +4051,11 @@ http://grtsvk.life:8080/luiz01/luiz01/71033
 http://grtsvk.life:8080/luiz01/luiz01/71396
 
 
-#EXTINF:-1,TV IDEAL Baixa Qualidade
+#EXTINF:-1,TV IDEAL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71306
 
 
-#EXTINF:-1,TV INTEGRACAO ARAXA Media Qualidade
+#EXTINF:-1,TV INTEGRACAO ARAXA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71034
 
 
@@ -4067,15 +4063,15 @@ http://grtsvk.life:8080/luiz01/luiz01/71034
 http://grtsvk.life:8080/luiz01/luiz01/136342
 
 
-#EXTINF:-1,TV JUSTICA Baixa Qualidade
+#EXTINF:-1,TV JUSTICA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71288
 
 
-#EXTINF:-1,TV LIBERAL BELEM Alta Qualidade
+#EXTINF:-1,TV LIBERAL BELEM [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71289
 
 
-#EXTINF:-1,TV Liberal Media Qualidade (BELEM)
+#EXTINF:-1,TV Liberal [Media Qualidade] (BELEM)
 http://grtsvk.life:8080/luiz01/luiz01/71534
 
 
@@ -4083,19 +4079,19 @@ http://grtsvk.life:8080/luiz01/luiz01/71534
 http://grtsvk.life:8080/luiz01/luiz01/121327
 
 
-#EXTINF:-1,TV MIRANTE Media Qualidade GLOBO MARANHAO
+#EXTINF:-1,TV MIRANTE [Media Qualidade] GLOBO MARANHAO
 http://grtsvk.life:8080/luiz01/luiz01/74587
 
 
-#EXTINF:-1,TV PAI ETERNO Media Qualidade
+#EXTINF:-1,TV PAI ETERNO [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71156
 
 
-#EXTINF:-1,TV PAMPA RS Media Qualidade
+#EXTINF:-1,TV PAMPA RS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71567
 
 
-#EXTINF:-1,TV PARANAIBA Media Qualidade RECORD UBERLANDIA MG
+#EXTINF:-1,TV PARANAIBA [Media Qualidade] RECORD UBERLANDIA MG
 http://grtsvk.life:8080/luiz01/luiz01/71514
 
 
@@ -4103,31 +4099,31 @@ http://grtsvk.life:8080/luiz01/luiz01/71514
 http://grtsvk.life:8080/luiz01/luiz01/71290
 
 
-#EXTINF:-1,TV RA TIM BUM Media Qualidade
+#EXTINF:-1,TV RA TIM BUM [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71397
 
 
-#EXTINF:-1,TV RIO SUL Media Qualidade
+#EXTINF:-1,TV RIO SUL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71035
 
 
-#EXTINF:-1,TV SANTA CRUZ Alta Qualidade
+#EXTINF:-1,TV SANTA CRUZ [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71036
 
 
-#EXTINF:-1,TV SANTA CRUZ Media Qualidade
+#EXTINF:-1,TV SANTA CRUZ [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71515
 
 
-#EXTINF:-1,TV SENADO Baixa Qualidade
+#EXTINF:-1,TV SENADO [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71291
 
 
-#EXTINF:-1,TV SERRA DOURADA Media Qualidade SBT
+#EXTINF:-1,TV SERRA DOURADA [Media Qualidade] SBT
 http://grtsvk.life:8080/luiz01/luiz01/71398
 
 
-#EXTINF:-1,TV SUBAE GLOBO BAHIA Media Qualidade
+#EXTINF:-1,TV SUBAE GLOBO BAHIA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71516
 
 
@@ -4139,19 +4135,19 @@ http://grtsvk.life:8080/luiz01/luiz01/127582
 http://grtsvk.life:8080/luiz01/luiz01/121328
 
 
-#EXTINF:-1,TV TAROBA Media Qualidade BAND PARANA
+#EXTINF:-1,TV TAROBA [Media Qualidade] BAND PARANA
 http://grtsvk.life:8080/luiz01/luiz01/71527
 
 
-#EXTINF:-1,TV TEM BAURU Media Qualidade
+#EXTINF:-1,TV TEM BAURU [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71292
 
 
-#EXTINF:-1,TV TEM SAO JOSE DO RIO PRETO Baixa Qualidade
+#EXTINF:-1,TV TEM SAO JOSE DO RIO PRETO [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71293
 
 
-#EXTINF:-1,TV TEM SOROCABA Media Qualidade
+#EXTINF:-1,TV TEM SOROCABA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71294
 
 
@@ -4171,31 +4167,31 @@ http://grtsvk.life:8080/luiz01/luiz01/71295
 http://grtsvk.life:8080/luiz01/luiz01/121329
 
 
-#EXTINF:-1,TV VANGUARDA DOS CAMPOS Baixa Qualidade
+#EXTINF:-1,TV VANGUARDA DOS CAMPOS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71296
 
 
-#EXTINF:-1,TV VANGUARDA Alta Qualidade SAO JOSE DOS CAMPOS Media Qualidade
+#EXTINF:-1,TV VANGUARDA [Alta Qualidade] SAO JOSE DOS CAMPOS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71562
 
 
-#EXTINF:-1,TV VANGUARDA Media Qualidade SAO JOSE DOS CAMPOS Alta Qualidade
+#EXTINF:-1,TV VANGUARDA [Media Qualidade] SAO JOSE DOS CAMPOS [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71563
 
 
-#EXTINF:-1,TV VERDES MARES FORTALEZA Media Qualidade
+#EXTINF:-1,TV VERDES MARES FORTALEZA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71535
 
 
-#EXTINF:-1,TV VERDES MARES FORTALEZA Baixa Qualidade
+#EXTINF:-1,TV VERDES MARES FORTALEZA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71297
 
 
-#EXTINF:-1,TV VITORIA ES Baixa Qualidade
+#EXTINF:-1,TV VITORIA ES [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71519
 
 
-#EXTINF:-1,TVB RECORD CAMPINAS Media Qualidade
+#EXTINF:-1,TVB RECORD CAMPINAS [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71522
 
 
@@ -4215,19 +4211,19 @@ http://grtsvk.life:8080/luiz01/luiz01/23330
 http://grtsvk.life:8080/luiz01/luiz01/119829
 
 
-#EXTINF:-1,UNIVERSAL Ultra Qualidade
+#EXTINF:-1,UNIVERSAL [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136312
 
 
-#EXTINF:-1,UNIVERSAL TV Alta Qualidade
+#EXTINF:-1,UNIVERSAL TV [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71090
 
 
-#EXTINF:-1,UNIVERSAL TV Media Qualidade
+#EXTINF:-1,UNIVERSAL TV [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71399
 
 
-#EXTINF:-1,UNIVERSAL TV Baixa Qualidade
+#EXTINF:-1,UNIVERSAL TV [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71304
 
 
@@ -4243,7 +4239,7 @@ http://grtsvk.life:8080/luiz01/luiz01/23331
 http://grtsvk.life:8080/luiz01/luiz01/49020
 
 
-#EXTINF:-1,UY: VTV Alta Qualidade
+#EXTINF:-1,UY: VTV [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/86081
 
 
@@ -4259,11 +4255,11 @@ http://grtsvk.life:8080/luiz01/luiz01/55739
 http://grtsvk.life:8080/luiz01/luiz01/63467
 
 
-#EXTINF:-1,VH1 Media Qualidade
+#EXTINF:-1,VH1 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/22015
 
 
-#EXTINF:-1,VH1 Media Qualidade
+#EXTINF:-1,VH1 [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71400
 
 
@@ -4271,7 +4267,7 @@ http://grtsvk.life:8080/luiz01/luiz01/71400
 http://grtsvk.life:8080/luiz01/luiz01/22014
 
 
-#EXTINF:-1,VH1 MEGAHITS Baixa Qualidade
+#EXTINF:-1,VH1 MEGAHITS [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71298
 
 
@@ -4279,19 +4275,19 @@ http://grtsvk.life:8080/luiz01/luiz01/71298
 http://grtsvk.life:8080/luiz01/luiz01/30011
 
 
-#EXTINF:-1,VIVA Ultra Qualidade
+#EXTINF:-1,VIVA [Ultra Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/136308
 
 
-#EXTINF:-1,VIVA Alta Qualidade
+#EXTINF:-1,VIVA [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/133315
 
 
-#EXTINF:-1,VIVA Media Qualidade
+#EXTINF:-1,VIVA [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71401
 
 
-#EXTINF:-1,VIVA Baixa Qualidade
+#EXTINF:-1,VIVA [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71299
 
 
@@ -4299,27 +4295,27 @@ http://grtsvk.life:8080/luiz01/luiz01/71299
 http://grtsvk.life:8080/luiz01/luiz01/17538
 
 
-#EXTINF:-1,WARNER CHANNEL Alta Qualidade
+#EXTINF:-1,WARNER CHANNEL [Alta Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71097
 
 
-#EXTINF:-1,WARNER CHANNEL Media Qualidade
+#EXTINF:-1,WARNER CHANNEL [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71402
 
 
-#EXTINF:-1,WARNER CHANNEL Baixa Qualidade
+#EXTINF:-1,WARNER CHANNEL [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71300
 
 
-#EXTINF:-1,WARNER CHANNEL Baixa Qualidade LEG
+#EXTINF:-1,WARNER CHANNEL [Baixa Qualidade] LEG
 http://grtsvk.life:8080/luiz01/luiz01/88866
 
 
-#EXTINF:-1,WARNER CHHANEL Media Qualidade HEVC LEG
+#EXTINF:-1,WARNER CHHANEL [Media Qualidade] HEVC LEG
 http://grtsvk.life:8080/luiz01/luiz01/88863
 
 
-#EXTINF:-1,WARNER H265
+#EXTINF:-1,WARNER - Otimizado
 http://grtsvk.life:8080/luiz01/luiz01/88449
 
 
@@ -4331,11 +4327,11 @@ http://grtsvk.life:8080/luiz01/luiz01/41752
 http://grtsvk.life:8080/luiz01/luiz01/113253
 
 
-#EXTINF:-1,WOOHOO  Media Qualidade
+#EXTINF:-1,WOOHOO  [Media Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71465
 
 
-#EXTINF:-1,WOOHOO Baixa Qualidade 
+#EXTINF:-1,WOOHOO [Baixa Qualidade] 
 http://grtsvk.life:8080/luiz01/luiz01/71301
 
 
@@ -4363,11 +4359,11 @@ http://grtsvk.life:8080/luiz01/luiz01/32387
 http://grtsvk.life:8080/luiz01/luiz01/119827
 
 
-#EXTINF:-1,ZOOMOO Media Qualidade 
+#EXTINF:-1,ZOOMOO [Media Qualidade] 
 http://grtsvk.life:8080/luiz01/luiz01/71695
 
 
-#EXTINF:-1,ZOOMOO Baixa Qualidade
+#EXTINF:-1,ZOOMOO [Baixa Qualidade]
 http://grtsvk.life:8080/luiz01/luiz01/71302
 
 
@@ -4379,7 +4375,7 @@ http://grtsvk.life:8080/luiz01/luiz01/136171
 http://grtsvk.life:8080/luiz01/luiz01/62355
 
 
-#EXTINF:-1, A Espada Era a Lei (1963) 
-http://grtsvk.life:8080/movie/luiz01/luiz01/43037.mp4
+#EXTINF:-1,ESPECIAL DE NATAL
+http://grtsvk.life:8080/luiz01/luiz01/140276
 
 
