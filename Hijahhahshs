@@ -1,1494 +1,2300 @@
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 4 [Alter]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 3 [Alter]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Furacao Play TV [ALTER]
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Abertos",Band Bahia HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Cidade Verde PI HD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="Canais | Notícias",Jovem PAN News HD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="Canais | Notícias",Jovem PAN News FHD[H265]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="Canais | Notícias",Jovem PAN News FHD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="Canais | Notícias",Jovem PAN News SD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="Canais | 4K",Jovem PAN News [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title=" Canais | Esportes",Band Sport FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title=" Canais | Esportes",Band Sports FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title=" Canais | Esportes",Band Sports HD
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title=" Canais | Esportes",Band Sports HD
-#EXTINF:-1 tvg-logo="http://z4.vc/na3" group-title=" Canais | Esportes",Combate FHD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title=" Canais | Esportes",Combate FHD[H265]
-#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",Combate HD
-#EXTINF:-1 tvg-logo="http://z4.vc/na3" group-title=" Canais | Esportes",Combate SD
-#EXTINF:-1 tvg-logo="http://p6.vc/T" group-title=" Canais | Esportes",ESPN 2 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/T" group-title=" Canais | Esportes",ESPN 2 FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/T" group-title=" Canais | Esportes",ESPN 2 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/T" group-title=" Canais | Esportes",ESPN 2 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/R" group-title=" Canais | Esportes",ESPN Brasil FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/R" group-title=" Canais | Esportes",ESPN Brasil FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/R" group-title=" Canais | Esportes",ESPN Brasil HD
-#EXTINF:-1 tvg-logo="http://p6.vc/R" group-title=" Canais | Esportes",ESPN Brasil SD
-#EXTINF:-1 tvg-logo="http://p6.vc/Q" group-title=" Canais | Esportes",ESPN Extra FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/Q" group-title=" Canais | Esportes",ESPN Extra FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/Q" group-title=" Canais | Esportes",ESPN Extra HD
-#EXTINF:-1 tvg-logo="http://p6.vc/Q" group-title=" Canais | Esportes",ESPN Extra SD
-#EXTINF:-1 tvg-logo="http://p6.vc/S" group-title=" Canais | Esportes",ESPN FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/S" group-title=" Canais | Esportes",ESPN FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/S" group-title=" Canais | Esportes",ESPN HD
-#EXTINF:-1 tvg-logo="http://p6.vc/S" group-title=" Canais | Esportes",ESPN SD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title=" Canais | Esportes",Estadio TNT Sports 02
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title=" Canais | Esportes",Estadio TNT Sports 03
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title=" Canais | Esportes",Estadio TNT Sports 04
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title=" Canais | Esportes",Estadio TNT Sports 05
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title=" Canais | Esportes",Estadio TNT Sports 06
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title=" Canais | Esportes",Estadio TNT Sports HD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title=" Canais | Esportes",Estadio TNT Sports SD
-#EXTINF:-1 tvg-logo="http://z4.vc/Qen" group-title=" Canais | Esportes",Fox Sport 2 FHD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title=" Canais | Esportes",Fox Sports 2 FHD[H265]
-#EXTINF:-1 tvg-logo="http://z4.vc/Qen" group-title=" Canais | Esportes",Fox Sports 2 HD
-#EXTINF:-1 tvg-logo="http://z4.vc/Qen" group-title=" Canais | Esportes",Fox Sports 2 SD
-#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports FHD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title=" Canais | Esportes",Fox Sports FHD[H265]
-#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports HD
-#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",Fox Sports SD
-#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",OFF FHD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title=" Canais | Esportes",OFF FHD[H265]
-#EXTINF:-1 tvg-logo="http://z4.vc/DH2" group-title=" Canais | Esportes",OFF HD
-#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",OFF SD
-#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[ARG]  TNT Sports HD
-#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[IT] Rai Sport 1 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[IT] EuroSport 2 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[IT] EuroSport 1 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] E! FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] E! HD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] ELEVEN SPORTS 1 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] ELEVEN SPORTS 2 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] ELEVEN SPORTS 3 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] ELEVEN SPORTS 4 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] ELEVEN SPORTS 5 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] ELEVEN SPORTS 6 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] EUROSPORT 1 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] EUROSPORT 2 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[PT] FOX SPORTS
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] B1G Network
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] CBS Sports Network USA FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] ELEVEN SPORTS HD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] FOX SPORTS 1 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] FOX SPORTS 1 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] FOX SPORTS 2 FHD
-#EXTINF:-1 tvg-logo="MUDAR" group-title=" Canais | Esportes",[US] FOX SPORTS 2 HD
-#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[US] NBA HD
-#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[US] WWE Network HD
-#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[US] WWE Network FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Anhanguera Goiania SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Asa Branca SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Brasilia FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Brasilia FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Brasilia HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Brasilia SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Campinas FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Centro América Cuiaba SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo CLOSED CAPTION FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo CLOSED CAPTION HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo CLOSED CAPTION SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Diario Fortaleza HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo EPTV Araraquara SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo EPTV Campinas FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo EPTV Campinas HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo EPTV Campinas SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo EPTV Ribeirao Preto HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo EPTV Ribeirao Preto SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo EPTV Riberao Preto SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo EPTV Sao Carlos SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Fortaleza FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Goiania FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Goiania HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Integracao ARAXA HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Integracao ARAXA SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Integracao MG FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Integracao MG HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Inter Grande Minas HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo INTER TV Alto Litoral FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Inter Tv Alto Litoral HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Inter Tv Alto Litoral SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo INTER TV Cabugi RN SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Inter TV Dos Vales FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Inter Tv Dos Vales HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Inter Tv Dos Vales SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Inter TV Grande Minas FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Inter Tv Grande Minas SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Inter TV Natal SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Inter TV Serra Mar FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Inter Tv Serra Mar HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Inter Tv Serra Mar SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo INTER Vale MG FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo INTER Vale MG HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo InterTV Cabugi RN FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo InterTV Cabugi RN HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Manaus FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Manaus HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Manaus SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Mato Grosso FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Mato Grosso HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Minas FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Minas FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Minas HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Minas SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Nordeste FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Nordeste FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Nordeste HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Nordeste SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo NSC Joinville HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo NSC TV Blumenau FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo NSC Tv Blumenau HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo NSC Tv Blumenau SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo NSC Tv Florianopolis FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo NSC Tv Florianopolis HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo NSC Tv Florianopolis SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo NSC Tv Joinville FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo NSC Tv Joinville SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Porto Alegre FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS Porto Alegre FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS Porto Alegre HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS Porto Alegre SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS TV Blumenal FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS TV Blumenal HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS Tv Caxias do Sul FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS Tv Caxias do Sul HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS Tv Caxias do Sul SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS TV Criciuma FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS TV Criciuma HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo rbs tv Criciuma SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS Tv Pelotas FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS Tv Pelotas HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS Tv Pelotas SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS Tv Porto Alegre HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS Tv Porto Alegre SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS TV Santa Maria FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS TV Santa Maria HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RBS TV Santa Maria SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Rede AM. Manaus HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Rede Amazonica Boa Vista HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Rede Amazonica Boa Vista SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Rede Amazonica Porto Velho HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Rede Amazonica Porto Velho SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Rede Amazonica Rio Branco HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Rede Amazonica SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Ribeirao Preto FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RJ FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RJ FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RJ HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RJ HD Lagos
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RJ SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC Cascavel HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC Curitiba FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC Curitiba HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC Curitiba SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC Foz Do Iguacu FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC Foz Do Iguacu HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC Foz do Iguacu SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC Maringa FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC Maringa HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC Maringa SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC Paranavai SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC TV Paranavai FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo RPC TV Paranavai HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo S. J. Dos Campos SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Salvador FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Salvador HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Salvador SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Sao Luis  FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo SP FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo SP FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo SP HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo SP SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TEM S. J. do Rio Preto SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Anhanguera FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Anhanguera HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Anhanguera Luziania HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Anhanguera Rio Verde HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Anhanguera SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Asa Branca FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Bahia FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Bahia HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Bahia SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Cabo Branco FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Cabo Branco HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Cabo Branco SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Caruaru (Asa Branca) HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Centro America FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Centro America HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Clube PI HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Clube PI SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Clube Teresina FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Clube Teresina HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Clube Teresina SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Diario Fortaleza FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Diario Fortaleza SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Fortaleza HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Fronteira Paulista HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Fronteira Paulista SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Gazeta Alagoas FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Gazeta Alagoas HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Gazeta Alagoas SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Gazeta Norte HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo tv Gazeta Sul ES FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Gazeta Sul ES HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo tv Gazeta Sul ES SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Gazeta Vitoria FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Gazeta Vitoria HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Gazeta Vitoria SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Integracao  ARAXA FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Integracao JF FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Integracao JF HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo tv Integracao JF SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Integracao Uberaba HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Integração SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV InterTv Cabo Frio HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Itapetininga SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Liberal Belem HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Liberal Belem Sd
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Mirante Sao Luis FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Mirante Sao Luis HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Mirante Sao Luis SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Morena Campo Grande HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Morena Campo Grande SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Morena Grande FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Rede Amazonica Manaus FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Rede Amazonica Manaus HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Rede Amazonica Manaus SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Rio Sul FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Rio Sul HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Rio Sul SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Santa Cruz FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Santa Cruz HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Santa Cruz SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Sergipe FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Sergipe HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Sergipe SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Tem Bauru FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Tem Bauru HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Tem Bauru SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV TEM ITAPE FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV TEM ITAPE HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Tem Rio Preto SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv TEM S. J. Do Rio Preto HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV TEM S. J. Rio Preto FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv TEM Sorocaba SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Tribuna Santos HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Tribuna Santos SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Vanguarda Sao Jose Dos Campos SD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Vanguarda Taubate FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo TV Vanguarda Taubate HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Verdes Mares Fortaleza FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Verdes Mares Fortaleza HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Verdes Mares Fortaleza SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] 3 Palavrinhas
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Cobrinha Azul
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Familía Hathaways
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Grande Familia
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A historia de Deus com Morgan Freeman 1 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A historia de Deus com Morgan Freeman 2 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Mumia
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Pantera Cor De Rosa
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Turma Da Monica
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Turma Do Pateta
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Aladdin
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] American Horror 3 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] American Horror 5 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] American Horror 6 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] American Horror 7 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] American Housewife
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Aventuras De Jackie Chan
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Aventuras De Piggley Winks
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Aventuras de Tintim
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Meninas Superpoderosas
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Tartarugas Ninja 
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Telefonistas 1 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Telefonistas 2 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Telefonistas 3 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Baby Shark
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bates Motel 1 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bates Motel 2 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bates Motel 3 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bates Motel 4 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bates Motel 5 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Batman e Robin Classico
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] BEN 10
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Ben E Holly
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Black Lightning
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] BOB ESPONJA
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bob Zoom
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Bones
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Breaking Bad
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Capitão Tsubasa
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Carcereiros
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Carga Pesada
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Cascão Maratona
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Cavalo de Fogo
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Caverna do Dragao
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Caçadores de Mitos
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Chapolin Colorado
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] CHAVES
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] CHAVES DESENHO
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Chicago Med 1 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Chicago Med 2 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Cine 007
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Classicos Disney
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Construções Primitivas
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Coragem o Cao Covarde
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] CSI Las Vegas
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Daniel Tigre
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Demolidor 1 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Demolidor 2 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Denis o Pimentinha
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Desenhos Biblicos
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Desenhos Disney
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Digimon
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 1 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 2 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 3 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 4 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 5 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 6 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 7 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doctor Who 8 TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doug
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] DRAGON BALL
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Dragon Ball Super
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] DRAGON BALL Z
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Drake & Josh
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Eu a Patroa e as Criancas
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Faisca E Fumaça
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Flash Gordon
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Formiga Atómica
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Futurama
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Galinha Pintadinha
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Gigantes da Industria
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Guardiões da Galaxia
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] He-Man
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] High Score Girl
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Hilda Furacão
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Historias Disney
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Homem Aranha
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Homem de Ferro
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] HOMEMS DE PRETO
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Hércules
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Icarly
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Incrível Hulk
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Irmãos a Obra
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Jaspion
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Jiban
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] JIRAYA O Incrível Ninja
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Jonny Quest
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Jose Rei Do Egito
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Kenan e Kel
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Largados e Pelados
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Largados e Pelados - A Tribo
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Log Horizon
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Luluzinha
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Malhação 1990
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Manual do Mundo
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Maria Madalena
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Masha e o Urso
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Medabots
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] MegaMan
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Meu Amigoozao
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Mickey e Donald
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Mickey Mouse
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Mortal Kombat
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Mr.Ben
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Mundo Bita
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Naruto
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Naruto Shippuden DUB
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] O Fantástico Mundo de Bobby
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] O INSPETOR
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] O Mandaloriano
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] O Maskara
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] O Sócio
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Onde esta Chicky?
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco 
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Flinstones
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] OS FLINTSTONES
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Padrinhos Mágicos
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Simpsons
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Trapalhoes
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Vingadores
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Papa-Leguas
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Patati Patata
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Patrulha Canina
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Peppa Pig
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] PERNALONGA
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Phineas e Ferb
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pica Pau
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pica Pau Classico
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pink-e-Cerebro
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] POKEMON
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Policia 24 horas
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Popeye O Marinheiro
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Punky a Levada da Breca
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Rambo
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Retro Cartoon
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Rick And Morty
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Rick And Morty 2TEMP
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Rugrats Os Anjinhos
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Scooby-Doo
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Sitio Do Pica Pau Amarelo
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Smallville
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Sobrenatural
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] South Park
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Spartacus
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Steven Universe
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Superman
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Tarzan
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] The Big Bang Theory
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Thundercats
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] TIMAO E PUMBA
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] TODO MUNDO ODEIA O CHRIS
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Tom & Jerry
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Tres Espias Demais
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Um Maluco No Pedaço
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Uma Família da Pesada
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Ursinhos Carinhos
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] V a Batalha Final
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Verdades Secretas
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] X-MAN
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] X-MAN Classico
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] X-Men Antigo
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Xena
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Xena a Princesa Guerreira
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] YU-GI-OH
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] YU-YU-Hakusho
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Zorro Classico
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Black Jesus
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Eric Andre Show
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Mr. Pickles
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Rick and Morty
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Squidbillies
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Tim and Eric
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Venture Bros.
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H][US] Williams Stream
-#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | 24 Horas",[IT] TGCOM 24 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/bb" group-title="Canais | 4K",Animal Planet [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | 4K",AXN [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | 4K",Band SP [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/bc" group-title="Canais | 4K",Cartoon Network [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/cc" group-title="Canais | 4K",CNN Brasil [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/8" group-title="Canais | 4K",Combate [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/w" group-title="Canais | 4K",Comedy Central [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | 4K",Conmebol [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/9" group-title="Canais | 4K",Discovery Channel [4K]
-#EXTINF:-1 tvg-logo="" group-title="Canais | 4K",Discovery Home&Health [4K]
-#EXTINF:-1 tvg-logo="" group-title="Canais | 4K",Discovery Turbo [4K]
-#EXTINF:-1 tvg-logo="" group-title="Canais | 4K",ESPN Brasil [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/S" group-title="Canais | 4K",ESPN [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/be" group-title="Canais | 4K",Fox Sport 2 [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/ba" group-title="Canais | 4K",Fox Sports [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/bh" group-title="Canais | 4K",Gazeta [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title="Canais | 4K",Globo News [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title="Canais | 4K",Globo SP[4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/B" group-title="Canais | 4K",GNT [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/Y" group-title="Canais | 4K",HBO Xtreme [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/0" group-title="Canais | 4K",HBO [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | 4K",Megapix [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/c" group-title="Canais | 4K",MultiShow [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/bf" group-title="Canais | 4K",National Geographic [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | 4K",Premiere Club [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | 4K",RecordTV SP [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/l" group-title="Canais | 4K",RedeTV News [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | 4K",SBT SP [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/bg" group-title="Canais | 4K",Space [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/7" group-title="Canais | 4K",SporTV [4K]
-#EXTINF:-1 tvg-logo="http://z4.vc/yeh" group-title="Canais | 4K",STAR CHANNEL [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Canais | 4K",Telecine Action [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Canais | 4K",Telecine Pipoca [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Canais | 4K",Telecine Premium [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | 4K",TNT Series [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/bi" group-title="Canais | 4K",TNT [4K]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLm" group-title="Canais | 4K",Universal Channel [4K]
-#EXTINF:-1 tvg-logo="" group-title="Canais | 4K",VIVA [4K]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 8
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 7
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 6
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 5
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 4
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 3
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 2
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 1
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A Fazenda Sinal 1 [ALTER]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A Fazenda Sinal 2 [ALTER]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A Fazenda Sinal 3 [ALTER]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A Fazenda Sinal 4 [ALTER]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A Fazenda Sinal 5 [ALTER]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A Fazenda Sinal 6 [ALTER]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A Fazenda Sinal 7 [ALTER]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A Fazenda Sinal 8 [ALTER]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A Fazenda Sinal 9 [ALTER]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A FAZENDA SINAL 1 [ALTER2]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A FAZENDA SINAL 2 [ALTER2]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A FAZENDA SINAL 4 [ALTER2]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A FAZENDA SINAL 5 [ALTER2]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A FAZENDA SINAL 6 [ALTER2]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A FAZENDA SINAL 7 [ALTER2]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A FAZENDA SINAL 8 [ALTER2]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/afazend.png" group-title="Canais | A Fazenda 2021",A FAZENDA SINAL 3 [ALTER2]
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Abertos",Band Campinas HD
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Abertos",BAND Campinas SD
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Abertos",BAND FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Abertos",BAND Nordeste SD
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Abertos",Band SP FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Abertos",Band SP HD
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Abertos",Band SP SD
-#EXTINF:-1 tvg-logo="http://p6.vc/s" group-title="Canais | Abertos",Canal do Boi FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/s" group-title="Canais | Abertos",Canal do Boi SD
-#EXTINF:-1 tvg-logo="http://p6.vc/r" group-title="Canais | Abertos",Canal Rural SD
-#EXTINF:-1 tvg-logo="http://p6.vc/g" group-title="Canais | Abertos",Futura FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/g" group-title="Canais | Abertos",Futura FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/g" group-title="Canais | Abertos",Futura HD
-#EXTINF:-1 tvg-logo="http://p6.vc/g" group-title="Canais | Abertos",Futura SD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Abertos",NBR SD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV BA HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV BA SD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV BELEM HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Belem SD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Campinas FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Campinas HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Campinas SD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV DF HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV DF SD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Espirito Santo SD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV GO HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV GO SD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Itapoan (Bahia) HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV MG HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV MG SD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV NDTV Florianópolis HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV RJ FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV RJ HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV RJ SD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV RS HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV RS SD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTv Sergipe (Atalaia) HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV SP FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTv SP FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV SP HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV SP SD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV SP2 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV SP2 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Vitoria SD
-#EXTINF:-1 tvg-logo="http://p6.vc/t" group-title="Canais | Abertos",Rede Brasil SD
-#EXTINF:-1 tvg-logo="http://p6.vc/l" group-title="Canais | Abertos",RedeTV! FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/l" group-title="Canais | Abertos",RedeTv! FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/l" group-title="Canais | Abertos",RedeTV! HD
-#EXTINF:-1 tvg-logo="http://p6.vc/l" group-title="Canais | Abertos",RedeTV! SD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT (PE) Caruaru HD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT BSB HD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT ES HD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT Goias HD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT Interior SP SD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT MG Tv Alterosa FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT MG Tv Alterosa HD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT Parana HD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT RJ FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT RJ HD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT RS HD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT SD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT Sergipe Tv Aperiper HD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT SP FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT SP HD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT SP SD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT TV Aratu Bahia HD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT  TV Aratu Bahia HD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT TV Jornal Pernambuco SD
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT TV Serra Dourada FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT Tv Serra Dourada HD
-#EXTINF:-1 tvg-logo="http://p6.vc/u" group-title="Canais | Abertos",Terra Viva SD
-#EXTINF:-1 tvg-logo="http://p6.vc/v" group-title="Canais | Abertos",TV Brasil SD
-#EXTINF:-1 tvg-logo="http://p6.vc/p" group-title="Canais | Abertos",TV Camara SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV CI SD
-#EXTINF:-1 tvg-logo="http://p6.vc/k" group-title="Canais | Abertos",TV Cultura FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/k" group-title="Canais | Abertos",TV Cultura FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/k" group-title="Canais | Abertos",TV Cultura HD
-#EXTINF:-1 tvg-logo="http://p6.vc/k" group-title="Canais | Abertos",TV Cultura SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Diario Sertao SD
-#EXTINF:-1 tvg-logo="http://p6.vc/q" group-title="Canais | Abertos",TV Escola SD
-#EXTINF:-1 tvg-logo="http://p6.vc/m" group-title="Canais | Abertos",TV Gazeta SP FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/m" group-title="Canais | Abertos",Tv Gazeta SP FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/m" group-title="Canais | Abertos",TV Gazeta SP HD
-#EXTINF:-1 tvg-logo="http://p6.vc/m" group-title="Canais | Abertos",TV Gazeta SP SD
-#EXTINF:-1 tvg-logo="http://p6.vc/o" group-title="Canais | Abertos",TV Justica SD
-#EXTINF:-1 tvg-logo="http://p6.vc/n" group-title="Canais | Abertos",TV Senado SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Univesp FHD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/univesp.png" group-title="Canais | Abertos",TV Univesp HD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/univesp.png" group-title="Canais | Abertos",TV Univesp SD
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 01 HD [D]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 02 HD [D]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 03 HD [D]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 1 FHD [B]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 1 FHD [C]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 1 HD [A]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 1 HD [B]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 1 HD [C]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 1 SD [C]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol  TV 2 FHD [B]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 2 FHD [C]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 2 HD [A]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 2 HD [B]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 2 HD [C]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 2 SD [C]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 3 FHD [B]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 3 FHD [C]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 3 HD [A]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 3 HD [B]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 3 HD [C]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 3 SD [C]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 FHD [B]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 FHD [C]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 HD [A]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 HD [B]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 HD [C]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 HD [D]
-#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 SD [C]
-#EXTINF:-1 tvg-logo="http://p6.vc/bb" group-title="Canais | Documentários",Animal Planet FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/bb" group-title="Canais | Documentários",Animal Planet FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/bb" group-title="Canais | Documentários",Animal Planet HD
-#EXTINF:-1 tvg-logo="http://p6.vc/bb" group-title="Canais | Documentários",Animal Planet SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eKY" group-title="Canais | Documentários",Arte 1 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eKY" group-title="Canais | Documentários",Arte 1 FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eKY" group-title="Canais | Documentários",Arte 1 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eKY" group-title="Canais | Documentários",Arte 1 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/9" group-title="Canais | Documentários",Discovery Channel FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/9" group-title="Canais | Documentários",Discovery Channel FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/9" group-title="Canais | Documentários",Discovery Channel HD
-#EXTINF:-1 tvg-logo="http://p6.vc/9" group-title="Canais | Documentários",Discovery Channel SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK0" group-title="Canais | Documentários",Discovery Home & Health FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK0" group-title="Canais | Documentários",Discovery Home & Health HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK0" group-title="Canais | Documentários",Discovery Home & Health SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK0" group-title="Canais | Documentários",Discovery Home&Health FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eK1" group-title="Canais | Documentários",Discovery Science FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK1" group-title="Canais | Documentários",Discovery Science FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eK1" group-title="Canais | Documentários",Discovery Science HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK1" group-title="Canais | Documentários",Discovery Science SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK2" group-title="Canais | Documentários",Discovery Theater FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK2" group-title="Canais | Documentários",Discovery Theater FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eK2" group-title="Canais | Documentários",Discovery Theater HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK2" group-title="Canais | Documentários",Discovery Theater SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK3" group-title="Canais | Documentários",Discovery Turbo FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK3" group-title="Canais | Documentários",Discovery Turbo FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eK3" group-title="Canais | Documentários",Discovery Turbo HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK3" group-title="Canais | Documentários",Discovery Turbo SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK4" group-title="Canais | Documentários",Discovery World FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK4" group-title="Canais | Documentários",Discovery World FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eK4" group-title="Canais | Documentários",Discovery World HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK4" group-title="Canais | Documentários",Discovery World SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eKZ" group-title="Canais | Documentários",HGTV FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eKZ" group-title="Canais | Documentários",HGTV FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eKZ" group-title="Canais | Documentários",HGTV HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eKZ" group-title="Canais | Documentários",HGTV SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK5" group-title="Canais | Documentários",History Channel 2 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK5" group-title="Canais | Documentários",History Channel 2 FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eK5" group-title="Canais | Documentários",History Channel 2 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK5" group-title="Canais | Documentários",History Channel 2 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK6" group-title="Canais | Documentários",History Channel FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK6" group-title="Canais | Documentários",History Channel FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eK6" group-title="Canais | Documentários",History Channel HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK6" group-title="Canais | Documentários",History Channel SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK7" group-title="Canais | Documentários",Investigacao Discovery Channel FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eK7" group-title="Canais | Documentários",Investigacao Discovery FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK7" group-title="Canais | Documentários",Investigacao Discovery HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK7" group-title="Canais | Documentários",Investigacao Discovery SD
-#EXTINF:-1 tvg-logo="http://p6.vc/bf" group-title="Canais | Documentários",National Geografic FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eK8" group-title="Canais | Documentários",National Geografic Wild FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/bf" group-title="Canais | Documentários",National Geographic FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/bf" group-title="Canais | Documentários",National Geographic HD
-#EXTINF:-1 tvg-logo="http://p6.vc/bf" group-title="Canais | Documentários",National Geographic SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK8" group-title="Canais | Documentários",National Geographic Wild FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK8" group-title="Canais | Documentários",National Geographic Wild HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK8" group-title="Canais | Documentários",National Geographic Wild SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK9" group-title="Canais | Documentários",Smithsonian Channel FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK9" group-title="Canais | Documentários",Smithsonian Channel HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK9" group-title="Canais | Documentários",Smithsonian Channel SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eK9" group-title="Canais | Documentários",Smithsonian FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/U" group-title="Canais | Filmes e Séries",A&E FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/U" group-title="Canais | Filmes e Séries",A&E FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/U" group-title="Canais | Filmes e Séries",A&E HD
-#EXTINF:-1 tvg-logo="http://p6.vc/U" group-title="Canais | Filmes e Séries",A&E SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLo" group-title="Canais | Filmes e Séries",AMC FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLo" group-title="Canais | Filmes e Séries",AMC FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLo" group-title="Canais | Filmes e Séries",AMC HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLo" group-title="Canais | Filmes e Séries",AMC SD
-#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Filmes e Séries",AXN FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Filmes e Séries",AXN FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Filmes e Séries",AXN HD
-#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Filmes e Séries",AXN SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLr" group-title="Canais | Filmes e Séries",Canal Brasil FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLr" group-title="Canais | Filmes e Séries",Canal Brasil FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLr" group-title="Canais | Filmes e Séries",Canal Brasil HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLr" group-title="Canais | Filmes e Séries",Canal Brasil SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLx" group-title="Canais | Filmes e Séries",Cine Action HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLv" group-title="Canais | Filmes e Séries",Cine Edition HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLw" group-title="Canais | Filmes e Séries",Cine Emotion HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 1 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 10 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 11 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 12 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 13 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 14 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 2 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 3 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 4 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 5 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 6 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 7 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 8 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 9 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",CINE SKY 01 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 01 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 02 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 03 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 04 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 05 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",CINE SKY 06 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 06 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 07 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 08 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 09 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 10 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 11 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 12 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 13 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 14 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 15 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 16 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 17 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 18 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 19 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",CINE SKY 20 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 20 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",CINE SKY 21 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLu" group-title="Canais | Filmes e Séries",Cine Top HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLb" group-title="Canais | Filmes e Séries",CineMax FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLb" group-title="Canais | Filmes e Séries",CineMax FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLb" group-title="Canais | Filmes e Séries",CineMax HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLb" group-title="Canais | Filmes e Séries",CineMax SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLt" group-title="Canais | Filmes e Séries",Film&Arts HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLt" group-title="Canais | Filmes e Séries",Film&Arts SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLf" group-title="Canais | Filmes e Séries",FX FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLf" group-title="Canais | Filmes e Séries",FX FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLf" group-title="Canais | Filmes e Séries",FX HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLf" group-title="Canais | Filmes e Séries",FX SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Gospel Movie TV HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLg" group-title="Canais | Filmes e Séries",Life Time FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLg" group-title="Canais | Filmes e Séries",Life Time FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLg" group-title="Canais | Filmes e Séries",Life Time HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLg" group-title="Canais | Filmes e Séries",Life Time SD
-#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",MegaPix FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",MegaPix FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",Megapix HD
-#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",MegaPix SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLp" group-title="Canais | Filmes e Séries",Paramount Channel FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLp" group-title="Canais | Filmes e Séries",Paramount Channel FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLp" group-title="Canais | Filmes e Séries",Paramount Channel HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLp" group-title="Canais | Filmes e Séries",Paramount Channel SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLa" group-title="Canais | Filmes e Séries",Sony Channel FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLa" group-title="Canais | Filmes e Séries",Sony Channel  FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLa" group-title="Canais | Filmes e Séries",Sony Channel HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLa" group-title="Canais | Filmes e Séries",Sony Channel SD
-#EXTINF:-1 tvg-logo="http://p6.vc/bg" group-title="Canais | Filmes e Séries",Space FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/bg" group-title="Canais | Filmes e Séries",Space FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/bg" group-title="Canais | Filmes e Séries",Space HD
-#EXTINF:-1 tvg-logo="http://p6.vc/bg" group-title="Canais | Filmes e Séries",Space SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | Filmes e Séries",Star Channel FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | Filmes e Séries",Star Channel FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | Filmes e Séries",Star Channel HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | Filmes e Séries",Star Channel SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLd" group-title="Canais | Filmes e Séries",Star Hits 1 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLd" group-title="Canais | Filmes e Séries",Star Hits 1 FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLd" group-title="Canais | Filmes e Séries",Star Hits 1 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLd" group-title="Canais | Filmes e Séries",Star Hits 1 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLe" group-title="Canais | Filmes e Séries",Star Hits 2 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLe" group-title="Canais | Filmes e Séries",Star Hits 2 FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLe" group-title="Canais | Filmes e Séries",Star Hits 2 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLe" group-title="Canais | Filmes e Séries",Star Hits 2 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLc" group-title="Canais | Filmes e Séries",Star Life FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLc" group-title="Canais | Filmes e Séries",Star Life FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLc" group-title="Canais | Filmes e Séries",Star Life HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLc" group-title="Canais | Filmes e Séries",Star Life SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLh" group-title="Canais | Filmes e Séries",Studio Universal FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLh" group-title="Canais | Filmes e Séries",Studio Universal FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLh" group-title="Canais | Filmes e Séries",Studio Universal HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLh" group-title="Canais | Filmes e Séries",Studio Universal SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLi" group-title="Canais | Filmes e Séries",SYFY FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLi" group-title="Canais | Filmes e Séries",SYFY FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLi" group-title="Canais | Filmes e Séries",SYFY HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLi" group-title="Canais | Filmes e Séries",SYFY SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLj" group-title="Canais | Filmes e Séries",TBS FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLj" group-title="Canais | Filmes e Séries",TBS FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLj" group-title="Canais | Filmes e Séries",TBS HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLj" group-title="Canais | Filmes e Séries",TBS SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLs" group-title="Canais | Filmes e Séries",TCM FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLs" group-title="Canais | Filmes e Séries",TCM HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLs" group-title="Canais | Filmes e Séries",TCM SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLk" group-title="Canais | Filmes e Séries",TLC FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLk" group-title="Canais | Filmes e Séries",TLC FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLk" group-title="Canais | Filmes e Séries",TLC HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLk" group-title="Canais | Filmes e Séries",TLC SD
-#EXTINF:-1 tvg-logo="http://p6.vc/bi" group-title="Canais | Filmes e Séries",TNT FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/bi" group-title="Canais | Filmes e Séries",TNT FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/bi" group-title="Canais | Filmes e Séries",TNT HD
-#EXTINF:-1 tvg-logo="http://p6.vc/bi" group-title="Canais | Filmes e Séries",TNT SD
-#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Filmes e Séries",TNT Serie HD
-#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Filmes e Séries",TNT Serie SD
-#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Filmes e Séries",TNT Series FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Filmes e Séries",TNT Series FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLl" group-title="Canais | Filmes e Séries",TruTV FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLl" group-title="Canais | Filmes e Séries",TruTV FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLl" group-title="Canais | Filmes e Séries",TruTV HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLl" group-title="Canais | Filmes e Séries",TruTV SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries",Universal Channel FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries",Universal Channel FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries",Universal Channel HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries",Universal Channel SD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries",Warner Channel FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries",Warner Channel FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries",Warner Channel HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries",Warner Channel SD
-#EXTINF:-1 tvg-logo="http://p6.vc/Z" group-title="Canais | HBO",HBO 2 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/Z" group-title="Canais | HBO",HBO 2 FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/Z" group-title="Canais | HBO",HBO 2 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/Z" group-title="Canais | HBO",HBO 2 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/V" group-title="Canais | HBO",HBO Family FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/V" group-title="Canais | HBO",HBO Family FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/V" group-title="Canais | HBO",HBO Family HD
-#EXTINF:-1 tvg-logo="http://p6.vc/V" group-title="Canais | HBO",HBO Family SD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | HBO",HBO FHD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | HBO",HBO FHD [H265]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | HBO",HBO HD
-#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | HBO",HBO Mundi FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | HBO",HBO Mundi FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | HBO",HBO Mundi HD
-#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | HBO",HBO Mundi SD
-#EXTINF:-1 tvg-logo="http://p6.vc/I" group-title="Canais | HBO",HBO Plus FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/I" group-title="Canais | HBO",HBO Plus FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/I" group-title="Canais | HBO",HBO Plus HD
-#EXTINF:-1 tvg-logo="http://p6.vc/I" group-title="Canais | HBO",HBO Plus SD
-#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | HBO",HBO POP FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | HBO",HBO Pop FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | HBO",HBO Pop HD
-#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | HBO",HBO Pop SD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | HBO",HBO SD
-#EXTINF:-1 tvg-logo="http://p6.vc/W" group-title="Canais | HBO",HBO Signature FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/W" group-title="Canais | HBO",HBO Signature FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/W" group-title="Canais | HBO",HBO Signature HD
-#EXTINF:-1 tvg-logo="http://p6.vc/W" group-title="Canais | HBO",HBO Signature SD
-#EXTINF:-1 tvg-logo="http://p6.vc/Y" group-title="Canais | HBO",HBO Xtreme FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/Y" group-title="Canais | HBO",HBO Xtreme FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/Y" group-title="Canais | HBO",HBO Xtreme HD
-#EXTINF:-1 tvg-logo="http://p6.vc/Y" group-title="Canais | HBO",HBO Xtreme SD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 1
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 2
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 3
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 4
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 5
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 6
-#EXTINF:-1 tvg-logo="http://p6.vc/eKX" group-title="Canais | Infantis",Baby TV HD
-#EXTINF:-1 tvg-logo="http://p6.vc/eKX" group-title="Canais | Infantis",Baby TV SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",BooMerang FHD
-#EXTINF:-1 tvg-logo="http://z4.vc/DAg" group-title="Canais | Infantis",Boomerang FHD [H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Boomerang HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Boomerang SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Cartoon Network FHD
-#EXTINF:-1 tvg-logo="http://z4.vc/6WN" group-title="Canais | Infantis",Cartoon Network FHD [H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Cartoon Network HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Cartoon Network SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Discovery Kids FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Discovery Kids HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Discovery Kids SD
-#EXTINF:-1 tvg-logo="http://z4.vc/N8Y" group-title="Canais | Infantis",Discovery Kids[H265]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Infantis",Disney Channel FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney Channel FHD [H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney Channel HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney Channel SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney Jr FHD
-#EXTINF:-1 tvg-logo="http://z4.vc/pw6" group-title="Canais | Infantis",Disney Jr FHD [H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney Jr HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney Jr SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney XD FHD
-#EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais | Infantis",Disney XD FHD[H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney XD HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney XD SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Gloob FHD
-#EXTINF:-1 tvg-logo="http://z4.vc/EuT" group-title="Canais | Infantis",Gloob FHD [H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Gloob HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Gloob SD
-#EXTINF:-1 tvg-logo="http://p6.vc/G" group-title="Canais | Infantis",Gloobinho FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/G" group-title="Canais | Infantis",Gloobinho FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/G" group-title="Canais | Infantis",Gloobinho HD
-#EXTINF:-1 tvg-logo="http://p6.vc/G" group-title="Canais | Infantis",Gloobinho SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",NatGeo Kids FHD
-#EXTINF:-1 tvg-logo="http://z4.vc/yTi" group-title="Canais | Infantis",NatGeo KIDS FHD [H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",NatGeo Kids HD
-#EXTINF:-1 tvg-logo="http://z4.vc/yTi" group-title="Canais | Infantis",NatGeo Kids SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nick JR FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nick JR FHD[H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nick JR HD
-#EXTINF:-1 tvg-logo="http://z4.vc/HZk" group-title="Canais | Infantis",Nick Jr SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nickelodeon FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nickelodeon FHD [H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nickelodeon HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nickelodeon SD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Infantis",PlayKids FHD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Infantis",PlayKids HD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Infantis",PlayKids SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Tooncast FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Tooncast HD
-#EXTINF:-1 tvg-logo="http://z4.vc/7YA" group-title="Canais | Infantis",Tooncast SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",TV Gospel Cartoon HD
-#EXTINF:-1 tvg-logo="http://z4.vc/I7O" group-title="Canais | Infantis",TV RA TIM BUM [H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",TV RA-TIM-BUM FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",TV RA-TIM-BUM HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",TV RA-TIM-BUM SD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Infantis",Zoomoo SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[CA] ICI RDI
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ARB] Abu Dhabi Sports 2 UFC
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[CA] Canada One
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[CA] Amazing Discoveries TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[CA] 5AAB TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[CA] Tamil Vision TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[CA] IIPC TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[CA] Prime Asia TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Hunt Channel
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[CA] QVTV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Esport Club
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[RSS] Russia Today
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Telearanda
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TVG Momento
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] RTP Madeira
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[PT] RTP Internacional
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TVG Musigal
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TVG Musigal
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] RiberaTV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Canal 33 Madrid
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Galicia TV América
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TVG Infantil
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Alcarria TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TVG Infantil
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Canal D
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ARM] H1
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] ETB 2
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Sophia TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] 7 Murcia
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Canal 25 Barbastro
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Canal 4 Mancha Centro
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Condavision
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] EITB
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Television de Galicia America
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Popular TV Melilla
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TeleSafor
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Televisio Girona
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TV Municipal Cordoba
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TVG
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TVG América
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TVG Cultural
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TVG Evento 1
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Aragón TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Canal Parlamento
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Red Bull TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Hamaika Telebista
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] RiberaTV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] CBSN Minnesota
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] 3ABN KIDS TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] ETB 1
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Interalmeria TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TVG 2
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Taroteame TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] La Voz 24h
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] CBSN
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Movie Kingdom
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Newsmax TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Adult Swim
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] FOX 28 Savannah GA (WTGS)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] 23 ABC (KERO)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] CBS News
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] ET Live
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] BlazeTV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Fail Army
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Law And Crime Network
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] The Tennis Channel
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Stadium
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Fox Sports
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Bek Sports West
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] 7News Boston (WHDH)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] ABC 2 Baton Rouge LA (WBRZ-HD)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] CBS News Los Angeles
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] 30A Music
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Beach TV (30A)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] C-Span
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] CBS News New York
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] CNBC TV18
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] CMC-USA
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[JP] New Japan Pro Wrestling World
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Beach TV (CSULB)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] American Horrors
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Telemundo 44
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] CBN News
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] CBS News Boston
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] ABC 7 Sarasota FL (WWSB)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Beach TV (Pawleys Island)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Al Hurra - Arabic
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Beach TV (Panama City)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] CBSN New York
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Akaku 54 (Hawaii)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] AMG TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] CBSN
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Pluto TV Headlines
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] 3News Now (KMTV-TV)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Akaku 53 (Hawaii)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] AKC TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Atlanta Channel
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Beauty IQ
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Speech TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Beto TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Bowie TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] BUTV10 (Boston University)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Cerritos TV3
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Charge!
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Pluto TV Cars
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] CGTV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] Fashion TV Midnite Secrets
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Telemax
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] La Chaine Normande TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] Fashion TV Paris
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] RMC
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] Radio Contact
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[PT] ON FM Portugal
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] France 24 English
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] Fashion TV PG13
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] Francophonie
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] Teleislas
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] Primocanale Liguria
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] TV3V
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] TV7 Colmar
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] France 24 English
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] France 24 Arabic
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] KTO
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] BipTV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] Grand Lille TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Rai News 24
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Videolina
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Super TV Brescia
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] VH1
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[DE] Telebasel
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Rai 3
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Rai Sport
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[EU] TeleSafor
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Nove
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Sardegna Uno
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Canale 7
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Canale 10
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Italia 2 TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] DeeJay TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Rai 3
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] MCafe TV24
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Prima TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Radio Lombardia TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Canale 8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] MotorTrend
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] RTC Telecalabria
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] TVRS
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Carina TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Euro Indie Music Chart TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Radio Capital TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] TV2 Bornholm
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] ReggioTV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[ES] TV Marti
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] 51 Radio TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Aurora Arte
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Azzurra TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Radio 51
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] RMK TV Sciacca
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Telefoggia
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Radio Italia TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Elive TV Brescia
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Videolina (Sardegna)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] RTP
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Canale 2 Altamura
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Icaro TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] Fashion TV Czech & Slovak
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Lucania TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Orler TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Reteveneta
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Vera TV Marche
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Sophia TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] TeleBoario
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Telechiara
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] RDS Social TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] TV7 Triveneta
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[FR] DJing Classics
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] Discovery Giallo
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[IT] TV2000
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[US] WHDH Boston7
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",[JP] NHK World Japan live
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Jogos & Eventos",#EVENTOS 01
-#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Jogos & Eventos",#EVENTOS 02
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 03
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 04
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 05
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 06
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Campeonato Carioca 2021 (Extra) FHD  
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Campeonato Carioca 2021 HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 02
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 02
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 03
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 04
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CARIOCA 01 2021
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CARIOCA 02 2021
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CARIOCA 03 2021
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Catarinense 01
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Catarinense 02
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 01
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa do Nordeste 01[ALTER]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 02 [ALTER2]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa do Nordeste 02[ALTER]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 03 [ALTER2]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa do Nordeste 03[ALTER]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 04 [ALTER2]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa do Nordeste 04[ALTER]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Libertadores HD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Nordeste 1
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 1 [ALTER]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Nordeste 2
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 2 [ALTER]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Nordeste 3
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 4
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 01
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 02
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 03
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 04
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 05
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 06
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 07
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 08
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 09
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 10
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 11
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 12
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 13
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",EI Plus HD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01[ALTER]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 02[ALTER]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 03[ALTER]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",EiMax Jogos04
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01 HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",FaceBook Watch 1 HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",FaceBook Watch 2 HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",FLA TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",FOX APP
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Furacao Play TV
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title="Canais | Jogos & Eventos",Globo Esporte
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Liga Futsal
-#EXTINF:-1 tvg-logo="http://p6.vc/iTX" group-title="Canais | Jogos & Eventos",MLB Network Live HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",MyCujoo TV
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Jogos & Eventos",Premiere Internacional
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Rai Italia FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Rai Italia HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Star+ 1
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Star+ 1 [Alter2]  
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Star+ 1 [Alter]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",TV Coxa HD (Coritiba FC)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",TV FLA
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",TV NSport 1 HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",TV NSport 2 HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",TV NSport 3 HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",WATCH ESPN
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Sport Italia HD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 04[ALTER]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01 [ALTER2]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 02 [ALTER2]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 03 [ALTER2]  
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 04 [ALTER2]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 05 [ALTER2] 
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 06 [ALTER2]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports ARG HD
-#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Legendados",AXN FHD[LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Legendados",AXN HD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Legendados",AXN SD [LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",FX HD [LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",FX SD [LEG]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | Legendados",HBO FHD [LEG]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | Legendados",HBO HD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Mundi FHD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Mundi HD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO PLUS FHD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO PLUS HD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/I" group-title="Canais | Legendados",HBO PLUS SD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO POP FHD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | Legendados",HBO POP HD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | Legendados",HBO POP SD [LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",HBO SD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Signature FHD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Signature HD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Xtreme FHD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Xtreme HD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Xtreme SD [LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",MAX SD [LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Megapix HD[LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Megapix SD [LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Sony HD [LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Sony SD [LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Space HD[LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Space SD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Channel FHD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Channel HD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Channel SD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Hits 2 FHD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Hits 2 HD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Hits FHD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Hits HD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Canais | Legendados",Telecine Action FHD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Canais | Legendados",Telecine Action HD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Canais | Legendados",Telecine Action SD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/P" group-title="Canais | Legendados",Telecine Cult FHD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/P" group-title="Canais | Legendados",Telecine Cult HD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/P" group-title="Canais | Legendados",Telecine Cult SD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/K" group-title="Canais | Legendados",Telecine Fun FHD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/K" group-title="Canais | Legendados",Telecine Fun HD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/K" group-title="Canais | Legendados",Telecine Fun SD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Canais | Legendados",Telecine Pipoca FHD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Canais | Legendados",Telecine Pipoca HD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Canais | Legendados",Telecine Pipoca SD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Canais | Legendados",Telecine Premium FHD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Canais | Legendados",Telecine Premium HD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Canais | Legendados",Telecine Premium SD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Telecine Touch FHD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/N" group-title="Canais | Legendados",Telecine Touch HD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/N" group-title="Canais | Legendados",Telecine Touch SD [LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",TNT HD [LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",TNT SD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Legendados",TNT Series HD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Legendados",TNT Series SD [LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Warner Channel FHD [LEG]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Warner Channel HD[LEG]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Warner Channel SD [LEG]
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Notícias",Band Internacional
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Notícias",Band News FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Notícias",Band News FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Notícias",Band News HD
-#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Notícias",Band News SD
-#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",CNN Brasil FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",CNN Brasil FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",CNN Brasil HD
-#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",CNN Brasil SD
-#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",CNN Internacional HD
-#EXTINF:-1 tvg-logo="http://p6.vc/3" group-title="Canais | Notícias",Globo Internacional
-#EXTINF:-1 tvg-logo="http://p6.vc/3" group-title="Canais | Notícias",Globo News FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/3" group-title="Canais | Notícias",Globo News FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/3" group-title="Canais | Notícias",Globo News HD
-#EXTINF:-1 tvg-logo="http://p6.vc/3" group-title="Canais | Notícias",Globo News SD
-#EXTINF:-1 tvg-logo="http://p6.vc/2" group-title="Canais | Notícias",Record News FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/2" group-title="Canais | Notícias",Record News FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/2" group-title="Canais | Notícias",Record News HD
-#EXTINF:-1 tvg-logo="http://p6.vc/2" group-title="Canais | Notícias",Record News SD
-#EXTINF:-1 tvg-logo="http://p6.vc/ch" group-title="Canais | Notícias",[CA] CNBC HD
-#EXTINF:-1 tvg-logo="http://p6.vc/cg" group-title="Canais | Notícias",[CA] FOX News HD
-#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",[ES] CNN Espanol
-#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",[PT] CNN
-#EXTINF:-1 tvg-logo="http://p6.vc/cf" group-title="Canais | Notícias",[PT] euronews HD
-#EXTINF:-1 tvg-logo="http://p6.vc/cg" group-title="Canais | Notícias",[PT] Fox News
-#EXTINF:-1 tvg-logo="http://p6.vc/ci" group-title="Canais | Notícias",[US] BBC WORLD FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/ci" group-title="Canais | Notícias",[US] BBC World News HD
-#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",[US] CNN FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 2 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 2 FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 2 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 2 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 3 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 3  FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 3 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 3 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 4 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 4 FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 4 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 4 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 5 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 5 FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 5 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 5 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 6 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 6 FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 6 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 6 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 7 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 7 FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 7 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 7 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere Clubes FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere Clubes HD
-#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere Clubes SD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",Boa Vontade FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Boa Vontade FHD [H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Boa Vontade HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Cancao Nova FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Cancao Nova HD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",Cancao Nova SD
-#EXTINF:-1 tvg-logo="http://p6.vc/ce" group-title="Canais | Religiosos",Novo Tempo FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Novo Tempo FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/ce" group-title="Canais | Religiosos",Novo Tempo HD
-#EXTINF:-1 tvg-logo="http://p6.vc/ce" group-title="Canais | Religiosos",Novo Tempo SD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",RCI SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede 21 HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Familia SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Gospel SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Plenitude TV HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Super
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",Rede Vida FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Vida FHD [H265]
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",Rede Vida HD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",Rede Vida SD
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",RIT TV SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Santa Cruz Web Tv HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Aparecida FHD [H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Tv Aparecida HD
-#EXTINF:-1 tvg-logo="http://z4.vc/0Eb" group-title="Canais | Religiosos",Tv Aparecida SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV CLIPES GOSPEL
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Evangelizar
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Evangelizar Maringa HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Gideoes HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Imaculada Conceicao HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Rede Gospel
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Tubá
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Universal (IURD)
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Tv Vianney HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",VIVA FHD[H265]
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",[BR] Rede Seculo 21
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",[IT] Padre Pio TV
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",[PT] Ad Almada Tv
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Religiosos",[PT] ADB TV
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",[PT] Canal Vida
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",[PT] ies TV - Igreja do Espírito Santo
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",[PT] Sobrenatural TV
-#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",SporTV 2 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",SporTV 2 FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",SporTV 2 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",SporTV 2 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/6" group-title="Canais | SporTV",SporTV 3 FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/6" group-title="Canais | SporTV",SporTV 3 FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/6" group-title="Canais | SporTV",SporTV 3 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/6" group-title="Canais | SporTV",SporTV 3 SD
-#EXTINF:-1 tvg-logo="http://p6.vc/7" group-title="Canais | SporTV",SporTV FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/7" group-title="Canais | SporTV",SporTV FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/7" group-title="Canais | SporTV",SporTV HD
-#EXTINF:-1 tvg-logo="http://p6.vc/7" group-title="Canais | SporTV",SporTV SD
-#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SporTV 2 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SporTV 3 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SporTV 4 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SporTV 5 HD
-#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SporTV HD
-#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[CA] Sport NBA HD
-#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SporTV NBA FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SPORT TV + FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Canais | Telecine",Telecine Action FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Canais | Telecine",Telecine Action FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Canais | Telecine",Telecine Action HD
-#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Canais | Telecine",Telecine Action SD
-#EXTINF:-1 tvg-logo="http://p6.vc/P" group-title="Canais | Telecine",Telecine Cult FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/P" group-title="Canais | Telecine",Telecine Cult FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/P" group-title="Canais | Telecine",Telecine Cult HD
-#EXTINF:-1 tvg-logo="http://p6.vc/P" group-title="Canais | Telecine",Telecine Cult SD
-#EXTINF:-1 tvg-logo="http://p6.vc/K" group-title="Canais | Telecine",Telecine Fun FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/K" group-title="Canais | Telecine",Telecine Fun FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/K" group-title="Canais | Telecine",Telecine Fun HD
-#EXTINF:-1 tvg-logo="http://p6.vc/K" group-title="Canais | Telecine",Telecine Fun SD
-#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Canais | Telecine",Telecine Pipoca FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Canais | Telecine",Telecine Pipoca FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Canais | Telecine",Telecine Pipoca HD
-#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Canais | Telecine",Telecine Pipoca SD
-#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Canais | Telecine",Telecine Premium FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Canais | Telecine",Telecine Premium FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Canais | Telecine",Telecine Premium HD
-#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Canais | Telecine",Telecine Premium SD
-#EXTINF:-1 tvg-logo="http://p6.vc/N" group-title="Canais | Telecine",Telecine Touch FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/N" group-title="Canais | Telecine",Telecine Touch FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/N" group-title="Canais | Telecine",Telecine Touch HD
-#EXTINF:-1 tvg-logo="http://p6.vc/N" group-title="Canais | Telecine",Telecine Touch SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Chef TV HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Chefe TV HD
-#EXTINF:-1 tvg-logo="http://p6.vc/w" group-title="Canais | Variedades",Comedy Central FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/w" group-title="Canais | Variedades",Comedy Central FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/w" group-title="Canais | Variedades",Comedy Central HD
-#EXTINF:-1 tvg-logo="http://p6.vc/w" group-title="Canais | Variedades",Comedy Central SD
-#EXTINF:-1 tvg-logo="http://p6.vc/x" group-title="Canais | Variedades",Curta! FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/x" group-title="Canais | Variedades",Curta! FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/x" group-title="Canais | Variedades",Curta! HD
-#EXTINF:-1 tvg-logo="http://p6.vc/x" group-title="Canais | Variedades",Curta! SD
-#EXTINF:-1 tvg-logo="http://p6.vc/b9" group-title="Canais | Variedades",Dog TV FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/b9" group-title="Canais | Variedades",Dog TV HD
-#EXTINF:-1 tvg-logo="http://p6.vc/y" group-title="Canais | Variedades",E! FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/y" group-title="Canais | Variedades",E! FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/y" group-title="Canais | Variedades",E! HD
-#EXTINF:-1 tvg-logo="http://p6.vc/y" group-title="Canais | Variedades",E! SD
-#EXTINF:-1 tvg-logo="http://p6.vc/z" group-title="Canais | Variedades",Fish Tv FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/z" group-title="Canais | Variedades",Fish Tv FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/z" group-title="Canais | Variedades",Fish Tv HD
-#EXTINF:-1 tvg-logo="http://p6.vc/z" group-title="Canais | Variedades",Fish Tv SD
-#EXTINF:-1 tvg-logo="http://p6.vc/A" group-title="Canais | Variedades",Food Network FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/A" group-title="Canais | Variedades",Food Network FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/A" group-title="Canais | Variedades",Food Network HD
-#EXTINF:-1 tvg-logo="http://p6.vc/A" group-title="Canais | Variedades",Food Network SD
-#EXTINF:-1 tvg-logo="http://p6.vc/B" group-title="Canais | Variedades",GNT FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/B" group-title="Canais | Variedades",GNT FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/B" group-title="Canais | Variedades",GNT HD
-#EXTINF:-1 tvg-logo="http://p6.vc/B" group-title="Canais | Variedades",GNT SD
-#EXTINF:-1 tvg-logo="http://p6.vc/cj" group-title="Canais | Variedades",Loading FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/cj" group-title="Canais | Variedades",Loading HD
-#EXTINF:-1 tvg-logo="http://p6.vc/cj" group-title="Canais | Variedades",Loading SD
-#EXTINF:-1 tvg-logo="http://p6.vc/cb" group-title="Canais | Variedades",Love Natural FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/cb" group-title="Canais | Variedades",Love Natural HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title="Canais | Variedades",Mais GloboSat FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title="Canais | Variedades",Mais GloboSat FHD[H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title="Canais | Variedades",Mais GloboSat HD
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title="Canais | Variedades",Mais GloboSat SD
-#EXTINF:-1 tvg-logo="http://p6.vc/F" group-title="Canais | Variedades",Polishop TV SD
-#EXTINF:-1 tvg-logo="http://p6.vc/D" group-title="Canais | Variedades",Prime Box Brasil FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/D" group-title="Canais | Variedades",Prime Box Brasil FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/D" group-title="Canais | Variedades",Prime Box Brasil HD
-#EXTINF:-1 tvg-logo="http://p6.vc/D" group-title="Canais | Variedades",Prime Box Brasil SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Shoptime SD
-#EXTINF:-1 tvg-logo="http://p6.vc/bk" group-title="Canais | Variedades",Travel Box Brasil FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/bk" group-title="Canais | Variedades",Travel Box Brasil FHD [H265]
-#EXTINF:-1 tvg-logo="http://p6.vc/bk" group-title="Canais | Variedades",Travel Box Brasil HD
-#EXTINF:-1 tvg-logo="http://p6.vc/bk" group-title="Canais | Variedades",Travel Box Brasil SD
-#EXTINF:-1 tvg-logo="http://p6.vc/E" group-title="Canais | Variedades",Viva FHD
-#EXTINF:-1 tvg-logo="http://p6.vc/E" group-title="Canais | Variedades",Viva HD
-#EXTINF:-1 tvg-logo="http://p6.vc/E" group-title="Canais | Variedades",Viva SD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[PT] BBC Entertainment HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[PT] HBO Portugal HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[PT] Hollywood HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[PT] Nos Studios FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[PT] Fox Comedy FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[PT] Fox Crime FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[PT] RTP Classic 2 FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",[PT] Crime+ Investigation HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",[PT] Odisseia FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",[PT] Outdoor Channel HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",[PT] Porto Canal FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",[PT] Toros TV HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",[PT] TVI Reality FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[PT]  RTP 3 FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[PT] RTP ACores HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[PT] RTP Africa HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[PT] RTP Madeira HD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",[PT] TCV Internacional HD
-#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[PT] NBA Tv FHD
-#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[PT] Sporting TV FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | SporTV",[PT] SporTV 6 FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[PT] TVCine Action FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[PT] TVCine Edition FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[PT] TVCine Emotion FHD
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",[PT] TVCine Top FHD
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 1 [Alter]
-#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 2 [Alter]
-#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Tribuna Santos FHD
+#EXTINF:-1,A&E Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71092
+
+
+#EXTINF:-1,A&E Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71311
+
+
+#EXTINF:-1,A&E Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71161
+
+
+#EXTINF:-1,AGRO CANAL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/92986
+
+
+#EXTINF:-1,AMC Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71093
+
+
+#EXTINF:-1,AMC Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71312
+
+
+#EXTINF:-1,AMC Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71162
+
+
+#EXTINF:-1,ANIMAL PLANET Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88415
+
+
+#EXTINF:-1,ANIMAL PLANET Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71058
+
+
+#EXTINF:-1,ANIMAL PLANET Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71313
+
+
+#EXTINF:-1,ANIMAL PLANET Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71163
+
+
+#EXTINF:-1,ARG: ESPN 2 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/48772
+
+
+#EXTINF:-1,ARG: ESPN Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/48804
+
+
+#EXTINF:-1,ARG: TNT Sports Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/48800
+
+
+#EXTINF:-1,ARG: TV Pública Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/48831
+
+
+#EXTINF:-1,ARG: TyC Sports Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/48762
+
+
+#EXTINF:-1,ARTE 1 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71143
+
+
+#EXTINF:-1,ARTE 1 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71466
+
+
+#EXTINF:-1,AXN Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136304
+
+
+#EXTINF:-1,AXN Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/102217
+
+
+#EXTINF:-1,AXN Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71314
+
+
+#EXTINF:-1,AXN Media Qualidade LEG
+http://grtsvk.life:8080/luiz01/luiz01/88864
+
+
+#EXTINF:-1,AXN Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71164
+
+
+#EXTINF:-1,AXN Baixa Qualidade LEG
+http://grtsvk.life:8080/luiz01/luiz01/88862
+
+
+#EXTINF:-1,BABY TV Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71078
+
+
+#EXTINF:-1,BABY TV Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71165
+
+
+#EXTINF:-1,BABY TV Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71691
+
+
+#EXTINF:-1,BAND Ultra Qualidade dual audio
+http://grtsvk.life:8080/luiz01/luiz01/88409
+
+
+#EXTINF:-1,BAND BAHIA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71166
+
+
+#EXTINF:-1,BAND BSB Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71475
+
+
+#EXTINF:-1,BAND CAMPINAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71476
+
+
+#EXTINF:-1,BAND CURITIBA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71566
+
+
+#EXTINF:-1,BAND NEWS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71428
+
+
+#EXTINF:-1,BAND NEWS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71168
+
+
+#EXTINF:-1,BAND RJ Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71477
+
+
+#EXTINF:-1,BAND RS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71478
+
+
+#EXTINF:-1,BAND SERGIPE Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71479
+
+
+#EXTINF:-1,BAND SP Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/133316
+
+
+#EXTINF:-1,BAND SP Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71480
+
+
+#EXTINF:-1,BAND SP Media Qualidade¹
+http://grtsvk.life:8080/luiz01/luiz01/107690
+
+
+#EXTINF:-1,BAND SPORTS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71315
+
+
+#EXTINF:-1,BAND SPORTS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71169
+
+
+#EXTINF:-1,BANDEIRANTES Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71167
+
+
+#EXTINF:-1,BIS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71142
+
+
+#EXTINF:-1,BIS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71316
+
+
+#EXTINF:-1,BIS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71170
+
+
+#EXTINF:-1,BOOMERANG Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71079
+
+
+#EXTINF:-1,BOOMERANG Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71458
+
+
+#EXTINF:-1,BOOMERANG Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71171
+
+
+#EXTINF:-1,BOX BRASIL Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/138718
+
+
+#EXTINF:-1,BOX BRASIL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/138720
+
+
+#EXTINF:-1,CANAL BRASIL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71471
+
+
+#EXTINF:-1,CANAL SONY Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135506
+
+
+#EXTINF:-1,CANAL SONY Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71317
+
+
+#EXTINF:-1,CANAL SONY Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71174
+
+
+#EXTINF:-1,CANCAO NOVA ES Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71555
+
+
+#EXTINF:-1,CANCAO NOVA ES Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71556
+
+
+#EXTINF:-1,CANCAO NOVA ES Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71557
+
+
+#EXTINF:-1,CARTOON Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88418
+
+
+#EXTINF:-1,CARTOON NETWORK Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71080
+
+
+#EXTINF:-1,CARTOON NETWORK Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71318
+
+
+#EXTINF:-1,CARTOON NETWORK Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71692
+
+
+#EXTINF:-1,CINE Media Qualidade ACTION
+http://grtsvk.life:8080/luiz01/luiz01/32586
+
+
+#EXTINF:-1,CINEMAX Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71094
+
+
+#EXTINF:-1,CINEMAX Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71319
+
+
+#EXTINF:-1,CINEMAX Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71177
+
+
+#EXTINF:-1,CNN BRASIL Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136306
+
+
+#EXTINF:-1,CNN BRASIL Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71972
+
+
+#EXTINF:-1,CNN BRASIL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71426
+
+
+#EXTINF:-1,CNN BRASIL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71307
+
+
+#EXTINF:-1,COMBATE Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88410
+
+
+#EXTINF:-1,COMBATE Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71119
+
+
+#EXTINF:-1,COMBATE Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71320
+
+
+#EXTINF:-1,COMBATE Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71178
+
+
+#EXTINF:-1,COMEDY CENTRAL Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136309
+
+
+#EXTINF:-1,COMEDY CENTRAL Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135484
+
+
+#EXTINF:-1,COMEDY CENTRAL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71321
+
+
+#EXTINF:-1,COMEDY CENTRAL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71179
+
+
+#EXTINF:-1,CONMEBOL TV Baixa Qualidade JOGO 2
+http://grtsvk.life:8080/luiz01/luiz01/71160
+
+
+#EXTINF:-1,CULTURA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71144
+
+
+#EXTINF:-1,CURTA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71180
+
+
+#EXTINF:-1,CURTA! Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71145
+
+
+#EXTINF:-1,DAZN 01 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71481
+
+
+#EXTINF:-1,DAZN 02 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71482
+
+
+#EXTINF:-1,DAZN 03 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71483
+
+
+#EXTINF:-1,DAZN 04 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71446
+
+
+#EXTINF:-1,DISC HOME & HEALTH Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136307
+
+
+#EXTINF:-1,DISC TURBO Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136310
+
+
+#EXTINF:-1,DISCOVERY CHANNEL Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88412
+
+
+#EXTINF:-1,DISCOVERY CHANNEL Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71048
+
+
+#EXTINF:-1,DISCOVERY CHANNEL Alta Qualidade H265
+http://grtsvk.life:8080/luiz01/luiz01/88460
+
+
+#EXTINF:-1,DISCOVERY CHANNEL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71322
+
+
+#EXTINF:-1,DISCOVERY CHANNEL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71181
+
+
+#EXTINF:-1,DISCOVERY H & HEALTH Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71059
+
+
+#EXTINF:-1,DISCOVERY H & HEALTH Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71324
+
+
+#EXTINF:-1,DISCOVERY H & HEALTH Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71182
+
+
+#EXTINF:-1,DISCOVERY ID Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71050
+
+
+#EXTINF:-1,DISCOVERY ID Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71356
+
+
+#EXTINF:-1,DISCOVERY ID Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71218
+
+
+#EXTINF:-1,DISCOVERY KIDS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71051
+
+
+#EXTINF:-1,DISCOVERY KIDS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71325
+
+
+#EXTINF:-1,DISCOVERY KIDS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71077
+
+
+#EXTINF:-1,DISCOVERY KIDS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71183
+
+
+#EXTINF:-1,DISCOVERY SCIENCE Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71061
+
+
+#EXTINF:-1,DISCOVERY SCIENCE Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71326
+
+
+#EXTINF:-1,DISCOVERY SCIENCE Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71052
+
+
+#EXTINF:-1,DISCOVERY THEATER Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71053
+
+
+#EXTINF:-1,DISCOVERY THEATER Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71062
+
+
+#EXTINF:-1,DISCOVERY THEATER Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71327
+
+
+#EXTINF:-1,DISCOVERY TURBO Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71054
+
+
+#EXTINF:-1,DISCOVERY TURBO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71328
+
+
+#EXTINF:-1,DISCOVERY TURBO Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71184
+
+
+#EXTINF:-1,DISCOVERY WORLD Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71064
+
+
+#EXTINF:-1,DISCOVERY WORLD Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71329
+
+
+#EXTINF:-1,DISNEY CHANNEL Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71065
+
+
+#EXTINF:-1,DISNEY CHANNEL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71330
+
+
+#EXTINF:-1,DISNEY CHANNEL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71689
+
+
+#EXTINF:-1,DISNEY JR Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71081
+
+
+#EXTINF:-1,DISNEY JR Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71331
+
+
+#EXTINF:-1,DISNEY JR Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71185
+
+
+#EXTINF:-1,DISNEY XD Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71082
+
+
+#EXTINF:-1,DISNEY XD Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71694
+
+
+#EXTINF:-1,DISNEY XD Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71187
+
+
+#EXTINF:-1,DOG TV Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71474
+
+
+#EXTINF:-1,E Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71332
+
+
+#EXTINF:-1,E Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71188
+
+
+#EXTINF:-1,EI PLUS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71159
+
+
+#EXTINF:-1,EPTV CAMPINAS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71533
+
+
+#EXTINF:-1,EPTV CAMPINAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71532
+
+
+#EXTINF:-1,EPTV CAMPINAS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71190
+
+
+#EXTINF:-1,EPTV RIBEIRAO PRETO Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135619
+
+
+#EXTINF:-1,EPTV RIBEIRAO PRETO Alta Qualidade H265
+http://grtsvk.life:8080/luiz01/luiz01/71539
+
+
+#EXTINF:-1,EPTV RIBEIRAO PRETO Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71191
+
+
+#EXTINF:-1,EPTV SAO CARLOS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71189
+
+
+#EXTINF:-1,EPTV SUL DE MINAS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71540
+
+
+#EXTINF:-1,EPTV SUL DE MINAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71012
+
+
+#EXTINF:-1,ESPN 2 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71117
+
+
+#EXTINF:-1,ESPN 2 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71333
+
+
+#EXTINF:-1,ESPN 2 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71193
+
+
+#EXTINF:-1,ESPN BRASIL Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88422
+
+
+#EXTINF:-1,ESPN BRASIL Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71118
+
+
+#EXTINF:-1,ESPN BRASIL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71334
+
+
+#EXTINF:-1,ESPN BRASIL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71194
+
+
+#EXTINF:-1,ESPN EXTRA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71336
+
+
+#EXTINF:-1,ESPN Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71116
+
+
+#EXTINF:-1,ESPN Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71335
+
+
+#EXTINF:-1,ESPN Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71192
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/86152
+
+
+#EXTINF:-1,FILM & ART Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71461
+
+
+#EXTINF:-1,FILM & ARTS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71195
+
+
+#EXTINF:-1,FISH TV Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71056
+
+
+#EXTINF:-1,FISH TV Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71196
+
+
+#EXTINF:-1,FOOD NETWORK Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71146
+
+
+#EXTINF:-1,FOOD NETWORK Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71337
+
+
+#EXTINF:-1,FOOD NETWORK Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71197
+
+
+#EXTINF:-1,FOX SPORTS 2 Ultra Qualidade dual audio
+http://grtsvk.life:8080/luiz01/luiz01/88420
+
+
+#EXTINF:-1,FOX SPORTS 2 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135464
+
+
+#EXTINF:-1,FOX SPORTS 2 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71342
+
+
+#EXTINF:-1,FOX SPORTS 2 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71201
+
+
+#EXTINF:-1,FOX SPORTS Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88413
+
+
+#EXTINF:-1,FOX SPORTS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/74903
+
+
+#EXTINF:-1,FOX SPORTS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71343
+
+
+#EXTINF:-1,FOX SPORTS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71200
+
+
+#EXTINF:-1,FX Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135507
+
+
+#EXTINF:-1,FX Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71344
+
+
+#EXTINF:-1,FX Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71203
+
+
+#EXTINF:-1,GAZETA Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88426
+
+
+#EXTINF:-1,GAZETA Media Qualidade SP
+http://grtsvk.life:8080/luiz01/luiz01/71489
+
+
+#EXTINF:-1,GLOBINHO Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135511
+
+
+#EXTINF:-1,GLOBINHO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71459
+
+
+#EXTINF:-1,GLOBO Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88431
+
+
+#EXTINF:-1,GLOBO BAHIA  Alta Qualidade SALVADOR
+http://grtsvk.life:8080/luiz01/luiz01/71564
+
+
+#EXTINF:-1,GLOBO BAHIA Media Qualidade SALVADOR Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71565
+
+
+#EXTINF:-1,GLOBO BRASILIA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71490
+
+
+#EXTINF:-1,GLOBO BRASILIA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71204
+
+
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/72238
+
+
+#EXTINF:-1,GLOBO Alta Qualidade SP H.265
+http://grtsvk.life:8080/luiz01/luiz01/88462
+
+
+#EXTINF:-1,GLOBO INTERNACIONAL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71493
+
+
+#EXTINF:-1,GLOBO MINAS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71205
+
+
+#EXTINF:-1,GLOBO MINAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/115444
+
+
+#EXTINF:-1,GLOBO NEWS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71345
+
+
+#EXTINF:-1,GLOBO NEWS Media Qualidade¹
+http://grtsvk.life:8080/luiz01/luiz01/100794
+
+
+#EXTINF:-1,GLOBO NEWS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71206
+
+
+#EXTINF:-1,GLOBO NORDESTE Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71207
+
+
+#EXTINF:-1,GLOBO NORDESTE RF Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/98243
+
+
+#EXTINF:-1,GLOBO PIAUI TV CLUBE Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/72242
+
+
+#EXTINF:-1,GLOBO RJ Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71531
+
+
+#EXTINF:-1,GLOBO RJ Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71494
+
+
+#EXTINF:-1,GLOBO RJ Media Qualidade¹
+http://grtsvk.life:8080/luiz01/luiz01/71574
+
+
+#EXTINF:-1,GLOBO RJ Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71208
+
+
+#EXTINF:-1,GLOBO SERGIPE Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71037
+
+
+#EXTINF:-1,GLOBO SERGIPE Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71495
+
+
+#EXTINF:-1,GLOBO SP Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71573
+
+
+#EXTINF:-1,GLOBO SP Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71496
+
+
+#EXTINF:-1,GLOBO SP Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71209
+
+
+#EXTINF:-1,GLOBO VITORIA Alta Qualidade ES
+http://grtsvk.life:8080/luiz01/luiz01/88437
+
+
+#EXTINF:-1,GLOBO VITORIA Media Qualidade ES
+http://grtsvk.life:8080/luiz01/luiz01/71537
+
+
+#EXTINF:-1,GLOBONEWS Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136305
+
+
+#EXTINF:-1,GLOBOSAT Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71346
+
+
+#EXTINF:-1,GLOBOSAT Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71221
+
+
+#EXTINF:-1,GLOOB Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71083
+
+
+#EXTINF:-1,GLOOB Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71347
+
+
+#EXTINF:-1,GLOOB Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71210
+
+
+#EXTINF:-1,GNT Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136311
+
+
+#EXTINF:-1,GNT Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71348
+
+
+#EXTINF:-1,GNT Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71211
+
+
+#EXTINF:-1,HBO  Baixa Qualidade LEGENDADO
+http://grtsvk.life:8080/luiz01/luiz01/88869
+
+
+#EXTINF:-1,HBO + Media Qualidade LEGENDADO
+http://grtsvk.life:8080/luiz01/luiz01/88871
+
+
+#EXTINF:-1,HBO + Baixa Qualidade LEGENDADO
+http://grtsvk.life:8080/luiz01/luiz01/88868
+
+
+#EXTINF:-1,HBO 2 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71131
+
+
+#EXTINF:-1,HBO 2 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71349
+
+
+#EXTINF:-1,HBO 2 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71216
+
+
+#EXTINF:-1,HBO Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88424
+
+
+#EXTINF:-1,HBO FAMILY Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135450
+
+
+#EXTINF:-1,HBO FAMILY Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71350
+
+
+#EXTINF:-1,HBO FAMILY Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71213
+
+
+#EXTINF:-1,HBO Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71130
+
+
+#EXTINF:-1,HBO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71351
+
+
+#EXTINF:-1,HBO Media Qualidade LEGENDADO
+http://grtsvk.life:8080/luiz01/luiz01/88870
+
+
+#EXTINF:-1,HBO MUNDI Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71137
+
+
+#EXTINF:-1,HBO MUNDI Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71358
+
+
+#EXTINF:-1,HBO PLUS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71132
+
+
+#EXTINF:-1,HBO PLUS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71352
+
+
+#EXTINF:-1,HBO PLUS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71214
+
+
+#EXTINF:-1,HBO POP Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71139
+
+
+#EXTINF:-1,HBO POP Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71360
+
+
+#EXTINF:-1,HBO Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71212
+
+
+#EXTINF:-1,HBO Baixa Qualidade  LEGENDADO
+http://grtsvk.life:8080/luiz01/luiz01/88859
+
+
+#EXTINF:-1,HBO SIGNATURE Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71133
+
+
+#EXTINF:-1,HBO SIGNATURE Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71353
+
+
+#EXTINF:-1,HBO SIGNATURE Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71215
+
+
+#EXTINF:-1,HBO XTREME Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88428
+
+
+#EXTINF:-1,HBO XTREME Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71141
+
+
+#EXTINF:-1,HBO XTREME Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71359
+
+
+#EXTINF:-1,HGTV Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71577
+
+
+#EXTINF:-1,HGTV Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71323
+
+
+#EXTINF:-1,HISTORY 2 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71576
+
+
+#EXTINF:-1,HISTORY 2 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71354
+
+
+#EXTINF:-1,HISTORY 2 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71217
+
+
+#EXTINF:-1,HISTORY Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71575
+
+
+#EXTINF:-1,HISTORY Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71355
+
+
+#EXTINF:-1,HISTORY Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71303
+
+
+#EXTINF:-1,IMPD TV Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71696
+
+
+#EXTINF:-1,INTER TV ALTO LITORAL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71013
+
+
+#EXTINF:-1,INTER TV CABO FRIO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71530
+
+
+#EXTINF:-1,INTER TV CABUGI Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71219
+
+
+#EXTINF:-1,INTER TV CABUGI NATAL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71014
+
+
+#EXTINF:-1,INTER TV DOS VALES Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71015
+
+
+#EXTINF:-1,INTER TV GRANDE MINAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71016
+
+
+#EXTINF:-1,INTER TV SERRA MAR Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71017
+
+
+#EXTINF:-1,JOVEM PAN Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/127560
+
+
+#EXTINF:-1,JOVEM PAN NEWS Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136303
+
+
+#EXTINF:-1,JOVEM PAN NEWS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/133314
+
+
+#EXTINF:-1,LIFETIME Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71357
+
+
+#EXTINF:-1,LIFETIME Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71147
+
+
+#EXTINF:-1,LIFETIME Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71220
+
+
+#EXTINF:-1,LOANDING Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71469
+
+
+#EXTINF:-1,MEGA PIX Ultra Qualidade dual audio
+http://grtsvk.life:8080/luiz01/luiz01/88419
+
+
+#EXTINF:-1,MEGAPIX Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71088
+
+
+#EXTINF:-1,MEGAPIX Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71361
+
+
+#EXTINF:-1,MEGAPIX Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71225
+
+
+#EXTINF:-1,MTV Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71149
+
+
+#EXTINF:-1,MTV Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71362
+
+
+#EXTINF:-1,MTV LIVE Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71150
+
+
+#EXTINF:-1,MTV Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71226
+
+
+#EXTINF:-1,MULTISHOW Ultra Qualidade dual audio
+http://grtsvk.life:8080/luiz01/luiz01/88417
+
+
+#EXTINF:-1,MULTISHOW Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71151
+
+
+#EXTINF:-1,MULTISHOW Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71363
+
+
+#EXTINF:-1,MULTISHOW Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71227
+
+
+#EXTINF:-1,MUSIC BOX BRASIL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/138719
+
+
+#EXTINF:-1,NAT GEO Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/122064
+
+
+#EXTINF:-1,NAT GEO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71364
+
+
+#EXTINF:-1,NAT GEO KIDS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135433
+
+
+#EXTINF:-1,NAT GEO Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71232
+
+
+#EXTINF:-1,NAT GEO WILD Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135432
+
+
+#EXTINF:-1,NAT GEO WILD Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71366
+
+
+#EXTINF:-1,NAT GEO WILD Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71231
+
+
+#EXTINF:-1,NATGEO Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/122063
+
+
+#EXTINF:-1,NATGEO Ultra Qualidade dual audio
+http://grtsvk.life:8080/luiz01/luiz01/88421
+
+
+#EXTINF:-1,NATGEO KIDS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71365
+
+
+#EXTINF:-1,NATGEO KIDS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71230
+
+
+#EXTINF:-1,NBA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/72240
+
+
+#EXTINF:-1,NICK JR Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71085
+
+
+#EXTINF:-1,NICK JR Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71368
+
+
+#EXTINF:-1,NICK JR Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71234
+
+
+#EXTINF:-1,NICK JR Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71693
+
+
+#EXTINF:-1,NICKELODEON Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135431
+
+
+#EXTINF:-1,NICKELODEON Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71367
+
+
+#EXTINF:-1,NICKELODEON Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71235
+
+
+#EXTINF:-1,NOVO TEMPO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71155
+
+
+#EXTINF:-1,NOVO TEMPO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71431
+
+
+#EXTINF:-1,NOVO TEMPO Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71305
+
+
+#EXTINF:-1,NSC TV BLUMENAU Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71018
+
+
+#EXTINF:-1,NSC TV CHAPECO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71019
+
+
+#EXTINF:-1,NSC TV CRICIUMA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71020
+
+
+#EXTINF:-1,NSC TV JOINVILLE Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71021
+
+
+#EXTINF:-1,NSC TV SSANTA CATARINA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71523
+
+
+#EXTINF:-1,OFF Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71152
+
+
+#EXTINF:-1,OFF Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71369
+
+
+#EXTINF:-1,OFF Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71236
+
+
+#EXTINF:-1,PARAMOUNT Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71095
+
+
+#EXTINF:-1,PARAMOUNT Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71370
+
+
+#EXTINF:-1,PARAMOUNT Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71237
+
+
+#EXTINF:-1,PLAY KIDS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71309
+
+
+#EXTINF:-1,PLAY TV Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71239
+
+
+#EXTINF:-1,POLISHOP TV Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71240
+
+
+#EXTINF:-1,PREMIERE 2 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71105
+
+
+#EXTINF:-1,PREMIERE 2 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71112
+
+
+#EXTINF:-1,PREMIERE 2 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71371
+
+
+#EXTINF:-1,PREMIERE 2 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71241
+
+
+#EXTINF:-1,PREMIERE 3 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71106
+
+
+#EXTINF:-1,PREMIERE 3 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71113
+
+
+#EXTINF:-1,PREMIERE 3 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71372
+
+
+#EXTINF:-1,PREMIERE 3 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71242
+
+
+#EXTINF:-1,PREMIERE 4 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71107
+
+
+#EXTINF:-1,Premiere 4 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71373
+
+
+#EXTINF:-1,PREMIERE 4 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71243
+
+
+#EXTINF:-1,PREMIERE 5 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71115
+
+
+#EXTINF:-1,PREMIERE 5 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71374
+
+
+#EXTINF:-1,PREMIERE 5 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71244
+
+
+#EXTINF:-1,PREMIERE 6 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71375
+
+
+#EXTINF:-1,PREMIERE 6 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71109
+
+
+#EXTINF:-1,PREMIERE 6 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71245
+
+
+#EXTINF:-1,PREMIERE 7 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71376
+
+
+#EXTINF:-1,PREMIERE 7 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71110
+
+
+#EXTINF:-1,PREMIERE 7 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71246
+
+
+#EXTINF:-1,PREMIERE CLUBES Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88411
+
+
+#EXTINF:-1,PREMIERE CLUBES Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71104
+
+
+#EXTINF:-1,PREMIERE CLUBES Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71377
+
+
+#EXTINF:-1,PREMIERE CLUBES Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71111
+
+
+#EXTINF:-1,PREMIERE CLUBES Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71249
+
+
+#EXTINF:-1,PRIME BOX BRASIL Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/138721
+
+
+#EXTINF:-1,PRIME BOX BRASIL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/138722
+
+
+#EXTINF:-1,PRIME BOX BRASIL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71250
+
+
+#EXTINF:-1,PT: A BOLA TV Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/23418
+
+
+#EXTINF:-1,PT: BTV 1 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/73835
+
+
+#EXTINF:-1,PT: ELEVEN SPORTS 1 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/73829
+
+
+#EXTINF:-1,PT: ELEVEN SPORTS 2 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/73830
+
+
+#EXTINF:-1,PT: ELEVEN SPORTS 3 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/73831
+
+
+#EXTINF:-1,PT: ELEVEN SPORTS 4 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/73832
+
+
+#EXTINF:-1,PT: ELEVEN SPORTS 5 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/73833
+
+
+#EXTINF:-1,PT: ELEVEN SPORTS 6 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/73834
+
+
+#EXTINF:-1,PT: EUROSPORT 2 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/33987
+
+
+#EXTINF:-1,PT: EUROSPORT Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/33988
+
+
+#EXTINF:-1,RAI INTERNACIONAL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71473
+
+
+#EXTINF:-1,RBS CAXIAS DO SUL Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71546
+
+
+#EXTINF:-1,RBS CAXIAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71545
+
+
+#EXTINF:-1,RBS PELOTAS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71547
+
+
+#EXTINF:-1,RBS PELOTAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71548
+
+
+#EXTINF:-1,RBS TV CAXIAS DO SUL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71022
+
+
+#EXTINF:-1,RBS TV PASSO FUNDO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71497
+
+
+#EXTINF:-1,RBS TV PELOTAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71023
+
+
+#EXTINF:-1,RBS TV PORTO ALEGRE Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71251
+
+
+#EXTINF:-1,RBS TV SANTA MARIA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71025
+
+
+#EXTINF:-1,RECORD Ultra Qualidade 
+http://grtsvk.life:8080/luiz01/luiz01/88436
+
+
+#EXTINF:-1,RECORD BAHIA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71046
+
+
+#EXTINF:-1,RECORD BH MINAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71447
+
+
+#EXTINF:-1,RECORD BRASILIA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71045
+
+
+#EXTINF:-1,RECORD BRASILIA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71498
+
+
+#EXTINF:-1,RECORD CAMPINAS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/139427
+
+
+#EXTINF:-1,RECORD GOIAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71044
+
+
+#EXTINF:-1,RECORD MANAUS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71047
+
+
+#EXTINF:-1,RECORD MANAUS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71542
+
+
+#EXTINF:-1,RECORD MG Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71039
+
+
+#EXTINF:-1,RECORD MINAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71043
+
+
+#EXTINF:-1,RECORD NEWS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71429
+
+
+#EXTINF:-1,RECORD NEWS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71252
+
+
+#EXTINF:-1,RECORD PARA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71041
+
+
+#EXTINF:-1,RECORD RIO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71040
+
+
+#EXTINF:-1,RECORD RJ Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71506
+
+
+#EXTINF:-1,RECORD RS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71500
+
+
+#EXTINF:-1,RECORD SAO JOSE RIO PRETO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71501
+
+
+#EXTINF:-1,RECORD SERGIPE TV ATALAIA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71502
+
+
+#EXTINF:-1,RECORD SP Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135508
+
+
+#EXTINF:-1,RECORD SP Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71038
+
+
+#EXTINF:-1,RECORD TV BELEM Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71503
+
+
+#EXTINF:-1,RECORD TV GOIANIA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71378
+
+
+#EXTINF:-1,RECORD TV LITORAL Media Qualidade SANTOS
+http://grtsvk.life:8080/luiz01/luiz01/71504
+
+
+#EXTINF:-1,RECORD TV MINAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71505
+
+
+#EXTINF:-1,RECORD TV PARANA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71529
+
+
+#EXTINF:-1,RECORD TV SANTA CATARINA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71524
+
+
+#EXTINF:-1,RECORD TV Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71253
+
+
+#EXTINF:-1,REDE AMAZONICA MANAUS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71254
+
+
+#EXTINF:-1,REDE BRASIL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71255
+
+
+#EXTINF:-1,REDE MINAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71432
+
+
+#EXTINF:-1,REDE TV Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135509
+
+
+#EXTINF:-1,REDE TV Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71379
+
+
+#EXTINF:-1,REDE TV Media Qualidade¹
+http://grtsvk.life:8080/luiz01/luiz01/71553
+
+
+#EXTINF:-1,REDE TV Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71256
+
+
+#EXTINF:-1,REDETV Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88425
+
+
+#EXTINF:-1,RPC FOZ DO IGUACU Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71561
+
+
+#EXTINF:-1,RPC FOZ DO IGUACU Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71026
+
+
+#EXTINF:-1,RPC PARANAVAI Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71526
+
+
+#EXTINF:-1,RPC PARANAVAI Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71027
+
+
+#EXTINF:-1,RPC PONTA GROSSA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71028
+
+
+#EXTINF:-1,RPC TV CURITIBA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/86171
+
+
+#EXTINF:-1,RPC TV CURITIBA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71258
+
+
+#EXTINF:-1,SBT Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88414
+
+
+#EXTINF:-1,SBT BSB Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71507
+
+
+#EXTINF:-1,SBT MG TV ALTEROSA Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71536
+
+
+#EXTINF:-1,SBT PARANA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71528
+
+
+#EXTINF:-1,SBT RJ Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71541
+
+
+#EXTINF:-1,SBT RJ Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71538
+
+
+#EXTINF:-1,SBT RS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71508
+
+
+#EXTINF:-1,SBT Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71259
+
+
+#EXTINF:-1,SBT SERGIPE TV APERIPER Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71509
+
+
+#EXTINF:-1,SBT SP Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71510
+
+
+#EXTINF:-1,SBT SP Media Qualidade¹
+http://grtsvk.life:8080/luiz01/luiz01/90159
+
+
+#EXTINF:-1,SPACE Ultra Qualidade dual audio
+http://grtsvk.life:8080/luiz01/luiz01/88433
+
+
+#EXTINF:-1,SPACE Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71099
+
+
+#EXTINF:-1,SPACE Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71380
+
+
+#EXTINF:-1,SPACE Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71262
+
+
+#EXTINF:-1,SPORT TV 1 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/32616
+
+
+#EXTINF:-1,SPORT TV 1 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/39984
+
+
+#EXTINF:-1,SPORT TV 2 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/39986
+
+
+#EXTINF:-1,SPORT TV 4 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/39990
+
+
+#EXTINF:-1,SPORT TV 4 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/39991
+
+
+#EXTINF:-1,SPORT TV 5 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/39993
+
+
+#EXTINF:-1,SPORTV 2 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71121
+
+
+#EXTINF:-1,SPORTV 2 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71381
+
+
+#EXTINF:-1,SPORTV 2 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71264
+
+
+#EXTINF:-1,SPORTV 3 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71122
+
+
+#EXTINF:-1,SPORTV 3 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/32618
+
+
+#EXTINF:-1,SPORTV 3 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71265
+
+
+#EXTINF:-1,SPORTV Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88416
+
+
+#EXTINF:-1,SPORTV Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71120
+
+
+#EXTINF:-1,SPORTV Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71382
+
+
+#EXTINF:-1,SPORTV Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71263
+
+
+#EXTINF:-1,STAR CHANNEL Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88430
+
+
+#EXTINF:-1,STAR CHANNEL Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135430
+
+
+#EXTINF:-1,STAR CHANNEL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71338
+
+
+#EXTINF:-1,STAR CHANNEL Media Qualidade LEG
+http://grtsvk.life:8080/luiz01/luiz01/88861
+
+
+#EXTINF:-1,STAR CHANNEL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71198
+
+
+#EXTINF:-1,STAR CHANNEL Baixa Qualidade LEG
+http://grtsvk.life:8080/luiz01/luiz01/88860
+
+
+#EXTINF:-1,STAR HITS 2 Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71103
+
+
+#EXTINF:-1,STAR HITS 2 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71341
+
+
+#EXTINF:-1,STAR HITS 2 Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71101
+
+
+#EXTINF:-1,STAR HITS Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/126002
+
+
+#EXTINF:-1,STAR HITS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71102
+
+
+#EXTINF:-1,STAR HITS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71340
+
+
+#EXTINF:-1,STAR HITS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71100
+
+
+#EXTINF:-1,STAR LIFE Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135429
+
+
+#EXTINF:-1,STAR LIFE Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71339
+
+
+#EXTINF:-1,STAR LIFE Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71199
+
+
+#EXTINF:-1,STUDIO UNIVERSAL Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71098
+
+
+#EXTINF:-1,STUDIO UNIVERSAL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71383
+
+
+#EXTINF:-1,STUDIO UNIVERSAL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71266
+
+
+#EXTINF:-1,SYFY Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71153
+
+
+#EXTINF:-1,SYFY Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71384
+
+
+#EXTINF:-1,SYFY Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71267
+
+
+#EXTINF:-1,TBS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71154
+
+
+#EXTINF:-1,TBS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71385
+
+
+#EXTINF:-1,TBS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71268
+
+
+#EXTINF:-1,TCM Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71467
+
+
+#EXTINF:-1,TCM Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71269
+
+
+#EXTINF:-1,TELECINE ACTION Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136313
+
+
+#EXTINF:-1,TELECINE ACTION Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71066
+
+
+#EXTINF:-1,TELECINE ACTION Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71386
+
+
+#EXTINF:-1,TELECINE ACTION Media Qualidade LEGENDADO
+http://grtsvk.life:8080/luiz01/luiz01/88884
+
+
+#EXTINF:-1,TELECINE ACTION Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71270
+
+
+#EXTINF:-1,TELECINE ACTION Baixa Qualidade LEGENDADO
+http://grtsvk.life:8080/luiz01/luiz01/88885
+
+
+#EXTINF:-1,TELECINE CULT Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71072
+
+
+#EXTINF:-1,TELECINE CULT Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71387
+
+
+#EXTINF:-1,TELECINE CULT Media Qualidade LEGENDADO
+http://grtsvk.life:8080/luiz01/luiz01/88875
+
+
+#EXTINF:-1,TELECINE CULT Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71271
+
+
+#EXTINF:-1,TELECINE CULT Baixa Qualidade LEGENDADO
+http://grtsvk.life:8080/luiz01/luiz01/88874
+
+
+#EXTINF:-1,TELECINE FUN Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71073
+
+
+#EXTINF:-1,TELECINE FUN Alta Qualidade DUAL AUDIO H.265
+http://grtsvk.life:8080/luiz01/luiz01/88456
+
+
+#EXTINF:-1,TELECINE FUN Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71388
+
+
+#EXTINF:-1,TELECINE FUN Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71272
+
+
+#EXTINF:-1,TELECINE PIPOCA Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88429
+
+
+#EXTINF:-1,TELECINE PIPOCA Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71068
+
+
+#EXTINF:-1,TELECINE PIPOCA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71389
+
+
+#EXTINF:-1,TELECINE PIPOCA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71273
+
+
+#EXTINF:-1,TELECINE PREMIUM Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/88423
+
+
+#EXTINF:-1,TELECINE PREMIUM Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71069
+
+
+#EXTINF:-1,TELECINE PREMIUM Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71390
+
+
+#EXTINF:-1,TELECINE PREMIUM Media Qualidade LEGENDADO
+http://grtsvk.life:8080/luiz01/luiz01/88873
+
+
+#EXTINF:-1,TELECINE PREMIUM Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71274
+
+
+#EXTINF:-1,TELECINE PREMIUM Baixa Qualidade LEGENDADO
+http://grtsvk.life:8080/luiz01/luiz01/88872
+
+
+#EXTINF:-1,TELECINE TOUCH Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71076
+
+
+#EXTINF:-1,TELECINE TOUCH Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71391
+
+
+#EXTINF:-1,TELECINE TOUCH Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71275
+
+
+#EXTINF:-1,TERRA VIVA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71276
+
+
+#EXTINF:-1,TLC Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/135510
+
+
+#EXTINF:-1,TLC Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71392
+
+
+#EXTINF:-1,TLC Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71277
+
+
+#EXTINF:-1,TNT Ultra Qualidade dual audio
+http://grtsvk.life:8080/luiz01/luiz01/88434
+
+
+#EXTINF:-1,TNT Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71087
+
+
+#EXTINF:-1,TNT Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71393
+
+
+#EXTINF:-1,TNT Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71278
+
+
+#EXTINF:-1,TNT SERIES Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71096
+
+
+#EXTINF:-1,TNT SERIES Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71394
+
+
+#EXTINF:-1,TNT SERIES Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71279
+
+
+#EXTINF:-1,TOONCAST Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71086
+
+
+#EXTINF:-1,TOONCAST Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71460
+
+
+#EXTINF:-1,TOONCAST Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71280
+
+
+#EXTINF:-1,TRAVEL BOX BRASIL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71472
+
+
+#EXTINF:-1,TRU TV Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71281
+
+
+#EXTINF:-1,TRUT TV Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71468
+
+
+#EXTINF:-1,TV ALTEROSA Media Qualidade SBT MG
+http://grtsvk.life:8080/luiz01/luiz01/71525
+
+
+#EXTINF:-1,TV ANHAGUERA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71395
+
+
+#EXTINF:-1,TV ANHANGUERA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71282
+
+
+#EXTINF:-1,TV APARECIDA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/110259
+
+
+#EXTINF:-1,TV ARATU Media Qualidade SBT BAHIA
+http://grtsvk.life:8080/luiz01/luiz01/71511
+
+
+#EXTINF:-1,TV ASA BRANCA Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/94364
+
+
+#EXTINF:-1,TV BAHIA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71284
+
+
+#EXTINF:-1,TV BRASIL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71457
+
+
+#EXTINF:-1,TV BRASIL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71172
+
+
+#EXTINF:-1,TV CABO BRANCO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71030
+
+
+#EXTINF:-1,TV CABRALIA Media Qualidade BAHIA RECORD
+http://grtsvk.life:8080/luiz01/luiz01/71512
+
+
+#EXTINF:-1,TV CAMARA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71285
+
+
+#EXTINF:-1,TV CENTRO AMERICA CUIABA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71286
+
+
+#EXTINF:-1,TV CULTURA Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71558
+
+
+#EXTINF:-1,TV CULTURA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71559
+
+
+#EXTINF:-1,TV CULTURA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71560
+
+
+#EXTINF:-1,TV CULTURA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71287
+
+
+#EXTINF:-1,TV DIARIO FORTALEZA Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136163
+
+
+#EXTINF:-1,TV DIARIO FORTALEZA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136161
+
+
+#EXTINF:-1,TV DIARIO FORTALEZA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136162
+
+
+#EXTINF:-1,TV DIARIO MOGI DAS CRUZES Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136159
+
+
+#EXTINF:-1,TV DIARIO MOGI DAS CRUZES Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71433
+
+
+#EXTINF:-1,TV ESCOLA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71308
+
+
+#EXTINF:-1,TV EVANGELIZAR Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71310
+
+
+#EXTINF:-1,TV GAZETA DE ALAGOAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71031
+
+
+#EXTINF:-1,TV GAZETA SUL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71032
+
+
+#EXTINF:-1,TV GLOBO RJ INTERIOR Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71033
+
+
+#EXTINF:-1,TV IDEAL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71306
+
+
+#EXTINF:-1,TV INTEGRACAO ARAXA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71034
+
+
+#EXTINF:-1,TV JUSTICA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71288
+
+
+#EXTINF:-1,TV LIBERAL BELEM Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71289
+
+
+#EXTINF:-1,TV Liberal Media Qualidade (BELEM)
+http://grtsvk.life:8080/luiz01/luiz01/71534
+
+
+#EXTINF:-1,TV MIRANTE Media Qualidade GLOBO MARANHAO
+http://grtsvk.life:8080/luiz01/luiz01/74587
+
+
+#EXTINF:-1,TV PAI ETERNO Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71156
+
+
+#EXTINF:-1,TV PAMPA RS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71567
+
+
+#EXTINF:-1,TV PARANAIBA Media Qualidade RECORD UBERLANDIA MG
+http://grtsvk.life:8080/luiz01/luiz01/71514
+
+
+#EXTINF:-1,TV RA TIM BUM Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71397
+
+
+#EXTINF:-1,TV RIO SUL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71035
+
+
+#EXTINF:-1,TV SANTA CRUZ Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71036
+
+
+#EXTINF:-1,TV SANTA CRUZ Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71515
+
+
+#EXTINF:-1,TV SENADO Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71291
+
+
+#EXTINF:-1,TV SERRA DOURADA Media Qualidade SBT
+http://grtsvk.life:8080/luiz01/luiz01/71398
+
+
+#EXTINF:-1,TV SUBAE GLOBO BAHIA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71516
+
+
+#EXTINF:-1,TV TAROBA Media Qualidade BAND PARANA
+http://grtsvk.life:8080/luiz01/luiz01/71527
+
+
+#EXTINF:-1,TV TEM BAURU Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71292
+
+
+#EXTINF:-1,TV TEM SAO JOSE DO RIO PRETO Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71293
+
+
+#EXTINF:-1,TV TEM SOROCABA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71294
+
+
+#EXTINF:-1,TV VANGUARDA DOS CAMPOS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71296
+
+
+#EXTINF:-1,TV VANGUARDA Alta Qualidade SAO JOSE DOS CAMPOS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71562
+
+
+#EXTINF:-1,TV VANGUARDA Media Qualidade SAO JOSE DOS CAMPOS Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71563
+
+
+#EXTINF:-1,TV VERDES MARES FORTALEZA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71535
+
+
+#EXTINF:-1,TV VERDES MARES FORTALEZA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71297
+
+
+#EXTINF:-1,TV VITORIA ES Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71519
+
+
+#EXTINF:-1,TVB RECORD CAMPINAS Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71522
+
+
+#EXTINF:-1,UNIVERSAL Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136312
+
+
+#EXTINF:-1,UNIVERSAL TV Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71090
+
+
+#EXTINF:-1,UNIVERSAL TV Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71399
+
+
+#EXTINF:-1,UNIVERSAL TV Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71304
+
+
+#EXTINF:-1,UY: VTV Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/86081
+
+
+#EXTINF:-1,VH1 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/22015
+
+
+#EXTINF:-1,VH1 Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71400
+
+
+#EXTINF:-1,VH1 MEGAHITS Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71298
+
+
+#EXTINF:-1,VIVA Ultra Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/136308
+
+
+#EXTINF:-1,VIVA Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/133315
+
+
+#EXTINF:-1,VIVA Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71401
+
+
+#EXTINF:-1,VIVA Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71299
+
+
+#EXTINF:-1,WARNER CHANNEL Alta Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71097
+
+
+#EXTINF:-1,WARNER CHANNEL Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71402
+
+
+#EXTINF:-1,WARNER CHANNEL Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71300
+
+
+#EXTINF:-1,WARNER CHANNEL Baixa Qualidade LEG
+http://grtsvk.life:8080/luiz01/luiz01/88866
+
+
+#EXTINF:-1,WARNER CHHANEL Media Qualidade HEVC LEG
+http://grtsvk.life:8080/luiz01/luiz01/88863
+
+
+#EXTINF:-1,WOOHOO  Media Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71465
+
+
+#EXTINF:-1,WOOHOO Baixa Qualidade 
+http://grtsvk.life:8080/luiz01/luiz01/71301
+
+
+#EXTINF:-1,ZOOMOO Media Qualidade 
+http://grtsvk.life:8080/luiz01/luiz01/71695
+
+
+#EXTINF:-1,ZOOMOO Baixa Qualidade
+http://grtsvk.life:8080/luiz01/luiz01/71302
+
+
